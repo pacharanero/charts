@@ -17,8 +17,8 @@ as verse chords, end hanging on **[A7b13]** or **[F+]** (depending on your ears)
 There was **[G7]** magic **[F#7+4]**abroad **[F#7]** in the **[Bm7]** air **[Em7b5]**  
 There were **[D]** angels **[A]** dining **[D]** at the **[Em7b5]** Ritz  
 And a **[D]** nightingale **[Bm7]** sang in **[Em7]** Berk'-**[A]-** ley **[D]** Square  
-**(plain turnaround) [D] [Bm7] [Em7] [A]**            
-   
+**(plain turnaround) [D] [Bm7] [Em7] [A]**
+
 **[VERSE 2]**
 I may be right, I may be wrong, but I'm perfectly willing to swear  
 That when you turn'd and smiled at me, a nightingale sang in Berk'ley Square  
@@ -33,7 +33,7 @@ That when you turn'd and smiled at me, a nightingale sang in Berk'ley Square
 **[VERSE 3]**
 The streets of town were paved with stars,it was such a romantic affair  
 And as we kissed and said good-night, a nightingale sang in Berk'ley Square  
-**(keychange turnaround) [D] [Bm7] [Fm7] [Bb] [KEY CHANGE Eb]** 
+**(keychange turnaround) [D] [Bm7] [Fm7] [Bb] [KEY CHANGE Eb]**
 
 **[VERSE 4]**
 **[Eb]**How strange it **[Cm7]**was, **[Gm7]**how sweet and **[Eb△7]**strange  

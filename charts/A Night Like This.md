@@ -17,9 +17,9 @@ From **[C#m6]** where you are -
 you see the smoke start to arise where they play **[G#7]** cards  
 And you walk over softly moving past her guards  
 The stakes are getting higher, You can **[C#m6]** feel it in your heart.  
-She calls your bluff, She is the ace - you never thought                        
+She calls your bluff, She is the ace - you never thought  
 She played that **[G#7]** much.  
-And now it's more than all her cards you want to touch    
+And now it's more than all her cards you want to touch  
 You never know if winning this could **[C#m6]** really be enough.
 
 **[BRIDGE]**
@@ -29,7 +29,7 @@ room by **[C#MAJOR]** heart. **[tiny stop before chorus]**
 **[CHORUS]**
 I have never **[Ebm7]** dreamed it  
 have you ever **[G#7]** dreamed a night like **[C#maj7]** this?  
-I cannot **[Ebm7]**believe it, I may never **[G#7]** see a night like **[C#maj7]** this                       
+I cannot **[Ebm7]**believe it, I may never **[G#7]** see a night like **[C#maj7]** this  
 When everything you **[Ebm7]** think is incomp**[G#7]**lete  
 Starts happening when **[C#maj7]** you are cheek to **[Bbm7]** cheek  
 Could you ever **[Eb°]** dream that I have never **[G#7]** dreamed, dreamed a night like **[C#m6]** this.

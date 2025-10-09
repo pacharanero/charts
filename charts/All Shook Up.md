@@ -8,6 +8,7 @@ category: Guitar Charts
 # All Shook Up
 
 ## words & music by Otis Blackwell
+
 ## made famous by Elvis Presley
 
 **[VERSE 1]**

@@ -20,7 +20,7 @@ on her **[C#]** finger he placed a **[D#]** **[G#]**ring
 **(N.C.)**  
 Whoahhhh whoah..
 
-**[C#]** I saw them **[D#]** holding **[G#]**hands        
+**[C#]** I saw them **[D#]** holding **[G#]**hands  
 She was **[C#]** standing there with **[D#]** my **[G#]**man  
 **[C#]** I heard them **[D#]** promise, "'Til death do **[G#]** us **[Fm]**part"  
 Each **[C#]** word Was a **[D#]** pain in my **[G#]**heart
@@ -37,6 +37,6 @@ Rice, rice has been thrown over their heads
 For them life has just begun  
 but mine is at an end
 
-Ohh oh... 
+Ohh oh...
 
 **[CHORUS]**

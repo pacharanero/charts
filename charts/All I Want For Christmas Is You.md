@@ -14,8 +14,8 @@ category: Guitar Charts
 **[G/B]** There's just one thing I need **[C]** I don't care about the presents  
 **[Cm/Eb]** Underneath the Christmas tree **[G]** I just want you for my **[B7]** own  
 **[Em]**More than you could **[Cm]**ever know **[G]** Make my wish come **[E7]** true  
-**[Am7]** All I want for **[Dsus4b9]*** Christmas is **[G Em C D]** You  
-***[x-5-5-5-4-x]**
+**[Am7]** All I want for **[Dsus4b9]\*** Christmas is **[G Em C D]** You  
+**\*[x-5-5-5-4-x]**
 
 **[VERSE 2 - a tempo]**
 I don't want a lot for Christmas, there's just one thing I need  
@@ -41,7 +41,7 @@ What more can I do - baby all I want for Christmas is you…. Ooh baby
 **[B7]** All the lights are shining so **[Em]** brightly everywhere  
 **[B7]** And the sound of children's **[Em]** laughter fills the air  
 **[Cm]** And everyone is singing - **[G]** I hear those **[E7]** sleigh bells ringing  
-**[Am7]** Santa won't you bring me the one I really need        
+**[Am7]** Santa won't you bring me the one I really need  
 **[D]** Won't you please bring my baby to me...
 
 **[VERSE 5]**
