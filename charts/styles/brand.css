@@ -1,0 +1,120 @@
+/* Import Google Fonts for reliable cross-platform serif typography */
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap');
+
+:root {
+  /* Brand color palette - consistent across modes */
+  --brand-primary: #8B4513;
+  --brand-primary-light: #A0522D;
+  --brand-primary-dark: #654321;
+  --brand-primary-darker: #4A2C17;
+  
+  /* Light scheme colors */
+  --md-primary-fg-color: var(--brand-primary);
+  --md-primary-fg-color--light: var(--brand-primary-light);
+  --md-primary-fg-color--dark: var(--brand-primary-darker);
+  --md-primary-bg-color: #ffffff;
+  --md-primary-bg-color--light: #f5f5f2;
+  
+  /* Typography overrides - reliable web font with Georgia fallback */
+  --md-text-font: "Crimson Text", "Georgia", "Times New Roman", "Noto Serif", serif;
+}
+
+/* Dark scheme overrides */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: var(--brand-primary);
+  --md-primary-fg-color--light: var(--brand-primary-light);
+  --md-primary-fg-color--dark: var(--brand-primary-dark);
+  --md-primary-bg-color: #1c1c1c;
+  --md-primary-bg-color--light: #2a2a2a;
+}
+
+/* Improve contrast for links on tinted backgrounds */
+.md-typeset a {
+  color: var(--md-primary-fg-color--dark);
+}
+
+/* Header / nav brand adjustments */
+.md-header, .md-tabs {
+  background-color: var(--md-primary-fg-color--dark);
+}
+
+/* Active nav link contrast */
+.md-nav__item .md-nav__link--active, .md-tabs__link--active {
+  color: #2d2d2d;
+  font-weight: 600;
+}
+
+/* Buttons using primary */
+.md-button--primary, .md-typeset .md-button--primary {
+  background-color: var(--md-primary-fg-color);
+  color: #2d2d2d;
+}
+
+/* Search bar focus ring harmonized */
+.md-search__input:focus {
+  box-shadow: 0 0 0 2px var(--md-primary-fg-color--dark);
+}
+
+/* Typography improvements for musical charts */
+.md-typeset {
+  font-family: var(--md-text-font);
+}
+
+.md-typeset h1, .md-typeset h2, .md-typeset h3, .md-typeset h4 {
+  font-family: var(--md-text-font);
+  font-weight: 600;
+}
+
+.md-typeset h1 {
+  font-size: 2.2em;
+  color: var(--md-primary-fg-color--dark);
+}
+
+.md-typeset h2 {
+  font-size: 1.8em;
+  color: var(--md-primary-fg-color);
+}
+
+.md-typeset h3, .md-typeset h4, .md-typeset h5 {
+  font-size: 1.4em;
+}
+
+.md-typeset h6 {
+  font-size: 1.15em;
+}
+
+/* Navigation and interface text */
+.md-nav__title,
+.md-nav__item,
+.md-header__title,
+.md-tabs__link {
+  font-family: var(--md-text-font);
+  font-size: 1.05em;
+}
+
+/* Musical notation styling */
+.md-typeset strong {
+  font-weight: 600;
+}
+
+/* Chord styling - make bold chords stand out more */
+.md-typeset p strong,
+.md-typeset li strong {
+  color: var(--md-primary-fg-color--dark);
+  font-weight: 700;
+}
+
+/* Preserve spacing in chord charts */
+.md-typeset p {
+  line-height: 1.6;
+}
+
+/* Better spacing for song sections */
+.md-typeset h3[id*="verse"],
+.md-typeset h3[id*="chorus"],
+.md-typeset h3[id*="bridge"],
+.md-typeset h3[id*="intro"],
+.md-typeset h3[id*="outro"] {
+  margin-top: 2em;
+  margin-bottom: 1em;
+}

@@ -1,0 +1,16 @@
+.git
+.gitignore
+README.md
+Dockerfile
+.dockerignore
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+.pytest_cache
+.coverage
+.nyc_output
+node_modules/
+npm-debug.log*
+.DS_Store
+Thumbs.db
