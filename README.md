@@ -10,13 +10,13 @@ Also, in most charts the chords are on a separate line above the lyrics, which I
 
 * Get the entire chords and lyrics on **one page**, as simply as possible.
 
-* Make the timing of chord changes easier to judge, compared with charts that have chords on a separate line.
+* Make the *timing* of chord changes against the lyrics easier to judge, by including the chords in the same line as the lyric (compared with charts that have chords on a separate line).
 
-* Record a clear structure to the song so stops and changes are clear
+* Record a clear structure to the song so that verses, choruses, bridges, middle eights, stops and changes are clear.
 
-* Include the key performance notes and directions for players, without restricting the freedom of the performer with exact tablature or arrangements.
+* Include the key performance notes and directions for players, without restricting the freedom of the performer with an exact tablature or arrangement.
 
-* Don't repeat chord changes if they are the same for subsequent verses or choruses.
+* Don't repeat chord changes if they are the same for subsequent verses or choruses (to save space)
 
 ## MBCS Conventions
 
