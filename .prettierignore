@@ -1,0 +1,6 @@
+# MBCS chart conventions (trailing 2-space line breaks, dense layout)
+# are incompatible with prettier's markdown formatter.
+charts/**/*.md
+export-md/**/*.md
+mbcs.md
+spec.md
