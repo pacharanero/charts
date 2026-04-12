@@ -1,5 +1,7 @@
 ---
 title: Charts Index
+hide:
+  - toc
 ---
 
 # Guitar Charts

@@ -1,5 +1,5 @@
 services:
-  mkdocs:
+  zensical:
     build:
       context: .
       dockerfile: Dockerfile
@@ -7,7 +7,7 @@ services:
       - 8009:8000
     volumes:
       - .:/app
-    command: mkdocs serve --dev-addr=0.0.0.0:8000
+    command: zensical serve --dev-addr=0.0.0.0:8000
     environment:
       - PYTHONDONTWRITEBYTECODE=1
       - PYTHONUNBUFFERED=1

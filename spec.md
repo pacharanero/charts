@@ -23,7 +23,7 @@ The next job is to clean them up according to rules we will add to this document
 
 - Once a chart has been cleaned up, add it to the `charts` directory.
 
-- We will build a Material for MkDocs site to display the charts, this will follow patterns established in my recipes repository https://github.com/pacharanero/recipes which you can refer to.
+- We will build a Zensical site to display the charts, this will follow patterns established in my recipes repository https://github.com/pacharanero/recipes which you can refer to.
 
 - Charts which have been completed can be deleted from the `export-md` directory.
 

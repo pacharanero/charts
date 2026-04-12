@@ -1,5 +1,5 @@
-/* Import Google Fonts for reliable cross-platform serif typography */
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap');
+/* Import Google Fonts: Source Serif 4 for body text, JetBrains Mono for tab blocks */
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&family=JetBrains+Mono:wght@400;500&display=swap');
 
 :root {
   /* Brand color palette - consistent across modes */
@@ -15,8 +15,9 @@
   --md-primary-bg-color: #ffffff;
   --md-primary-bg-color--light: #f5f5f2;
   
-  /* Typography overrides - reliable web font with Georgia fallback */
-  --md-text-font: "Crimson Text", "Georgia", "Times New Roman", "Noto Serif", serif;
+  /* Typography overrides */
+  --md-text-font: "Source Serif 4", "Source Serif Pro", Georgia, "Times New Roman", "Noto Serif", serif;
+  --md-code-font: "JetBrains Mono", "SF Mono", Menlo, Consolas, monospace;
 }
 
 /* Dark scheme overrides */
@@ -66,21 +67,34 @@
 }
 
 .md-typeset h1 {
-  font-size: 2.2em;
+  font-size: 1.8em;
   color: var(--md-primary-fg-color--dark);
+  margin: 0 0 0.2em 0;
+  line-height: 1.1;
 }
 
 .md-typeset h2 {
-  font-size: 1.8em;
+  font-size: 1.25em;
   color: var(--md-primary-fg-color);
+  margin: 0 0 0.6em 0;
+  line-height: 1.1;
 }
 
-.md-typeset h3, .md-typeset h4, .md-typeset h5 {
-  font-size: 1.4em;
+.md-typeset h3 {
+  font-size: 1.05em;
+  margin: 0.7em 0 0.15em 0;
+  line-height: 1.1;
+  letter-spacing: 0.02em;
+}
+
+.md-typeset h4, .md-typeset h5 {
+  font-size: 1em;
+  margin: 0.5em 0 0.15em 0;
 }
 
 .md-typeset h6 {
-  font-size: 1.15em;
+  font-size: 0.95em;
+  margin: 0.4em 0 0.1em 0;
 }
 
 /* Navigation and interface text */
@@ -104,17 +118,103 @@
   font-weight: 700;
 }
 
-/* Preserve spacing in chord charts */
-.md-typeset p {
-  line-height: 1.6;
+/* Centre the chart text column horizontally on the page */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6,
+.md-typeset p,
+.md-typeset ul,
+.md-typeset ol {
+  text-align: center;
 }
 
-/* Better spacing for song sections */
-.md-typeset h3[id*="verse"],
-.md-typeset h3[id*="chorus"],
-.md-typeset h3[id*="bridge"],
-.md-typeset h3[id*="intro"],
-.md-typeset h3[id*="outro"] {
-  margin-top: 2em;
-  margin-bottom: 1em;
+/* Tablature stays left-aligned and monospaced so columns line up */
+.md-typeset pre,
+.md-typeset pre code,
+.md-typeset code {
+  font-family: var(--md-code-font);
+  text-align: left;
+  font-size: 0.8em;
+}
+.md-typeset pre {
+  display: inline-block;
+  text-align: left;
+  margin: 0.5em auto;
+}
+
+/* Tight line-height and minimal paragraph margins for single-page density */
+.md-typeset p {
+  line-height: 1.25;
+  margin: 0 0 0.35em 0;
+}
+
+.md-typeset ul, .md-typeset ol {
+  margin: 0.25em 0 0.35em 1.2em;
+}
+.md-typeset li {
+  margin-bottom: 0.1em;
+}
+
+/* Pull H3 section headings close to the lyrics underneath */
+.md-typeset h3 + p {
+  margin-top: 0;
+}
+
+/* --- MBCS chord tokens (wrapped by transpose.js) --- */
+.mbcs-token {
+  color: var(--md-primary-fg-color--dark);
+  font-weight: 700;
+  font-family: var(--md-text-font);
+  white-space: nowrap;
+}
+
+/* --- MBCS transpose control --- */
+#mbcs-transpose {
+  position: sticky;
+  top: 0.5rem;
+  float: right;
+  z-index: 5;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  padding: 0.3em 0.6em;
+  margin: 0 0 0.5em 0.5em;
+  background: var(--md-primary-bg-color--light);
+  border: 1px solid var(--md-primary-fg-color--light);
+  border-radius: 999px;
+  font-size: 0.85em;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+#mbcs-transpose .mbcs-t-label {
+  color: var(--md-primary-fg-color--dark);
+  font-weight: 600;
+  margin-right: 0.25em;
+}
+#mbcs-transpose .mbcs-t-btn {
+  background: var(--md-primary-fg-color);
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  width: 1.8em;
+  height: 1.8em;
+  font-size: 1em;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0;
+}
+#mbcs-transpose .mbcs-t-btn:hover {
+  background: var(--md-primary-fg-color--dark);
+}
+#mbcs-transpose .mbcs-t-val {
+  min-width: 2em;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+  font-weight: 700;
+  color: var(--md-primary-fg-color--dark);
+}
+@media print {
+  #mbcs-transpose { display: none !important; }
 }

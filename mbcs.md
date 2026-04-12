@@ -1,6 +1,6 @@
 # Marcus Baw Musical Charting System
 
-*MBCS Convention Reference · v0.2 · Living document*
+*MBCS Convention Reference · v0.3 · Living document*
 
 This is the definitive guide to the Marcus Baw Charting System (MBCS), a set of conventions for writing chord and lyric charts that are easy to read while playing.
 
@@ -22,23 +22,38 @@ The defining design decision is placing chords **inline with lyrics** rather tha
 
 ---
 
+## Summary of Delimiters
+
+MBCS v0.3 reserves each delimiter for one purpose, so charts can be machine-parsed (e.g. for transposition):
+
+| Delimiter | Meaning | Example |
+| --- | --- | --- |
+| `[ ]` | **Pitched content only** — chords and note runs. Transposable. | `[Am]`, `[g f# e]` |
+| `{ }` | Octaved / unison notes. Transposable. | `{Eb} {F} {G}` |
+| `### ` | Section label (markdown H3 heading) | `### VERSE 1` |
+| `**...**` | Inline performance direction (plain bold text, no brackets) | `**STOP**`, `**BVs**` |
+| `( )` | Parenthetical annotations | `(palm muted)`, `(low BVs)` |
+
+This is a change from earlier charts, which used `[ ]` for everything. The migration script in `scripts/` converts old-style charts; see [Migration](#migration-from-v02-charts) below.
+
+---
+
 ## Document Header
 
 Every chart starts with a header block:
 
+- **Song title** uses an H1 heading (`#`).
+- **Artist / composer** uses an H2 heading (`##`).
+
+```markdown
+# Song Title
+
+## Artist / Composer
 ```
-Song Title
-Artist / Composer
-```
 
-In Markdown charts:
+Where the chart is in a different key from the original recording, the key is noted in the title, e.g. `# Don't Be Cruel (D)`. Tuning variations (e.g. drop-D, DADGAD) are noted below the artist line in plain italic parentheses.
 
-- **Song Title** uses an H1 heading (`#`).
-- **Artist / Composer** uses an H2 heading (`##`).
-
-Where the chart is in a different key from the original recording, the key is noted in the title, e.g. `Don't Be Cruel (D)`. Tuning variations (e.g. drop-D, DADGAD) are noted below the artist line in plain italic parentheses.
-
-For cover versions, the artist name is sufficient. Where composer credit is relevant it may be added, e.g. `Otis Blackwell / Elvis Presley`.
+For cover versions, the artist name is sufficient. Where composer credit is relevant it may be added, e.g. `## Otis Blackwell / Elvis Presley`.
 
 ---
 
@@ -48,9 +63,9 @@ For cover versions, the artist name is sufficient. Where composer credit is rele
 
 Chords are written in square brackets, placed inline immediately before the syllable or word where the chord change occurs.
 
-```
-[Am] She's a skull and cross bone danger sign
-[Dm] Eye of the hurricane coming alive
+```markdown
+[Am] She's a skull and cross bone danger sign  
+[Dm] Eye of the hurricane coming alive  
 ```
 
 Complex chord names follow standard notation: `[C#m]`, `[Bb7]`, `[Fmaj7]`, `[G/B]`, `[Dm7b5]`, `[C(add11)]`.
@@ -59,15 +74,15 @@ Complex chord names follow standard notation: `[C#m]`, `[Bb7]`, `[Fmaj7]`, `[G/B
 
 Notes played an octave apart (or as unison octaves across strings) use curly brackets:
 
-```
+```markdown
 {Eb} {F} {G} {Eb} {F} {G}
 ```
 
-### Single note runs — lowercase
+### Single note runs — lowercase in square brackets
 
-A melodic run of individual notes (not chords) is written in lowercase inside square brackets:
+A melodic run of individual notes (not chords) is written in lowercase inside square brackets. Because the content is pitched, it transposes with the rest of the chart.
 
-```
+```markdown
 [g f# e]    (three-note descending run)
 ```
 
@@ -75,7 +90,7 @@ A melodic run of individual notes (not chords) is written in lowercase inside sq
 
 Where a specific voicing matters, it is written as a string-by-string fret sequence after the chord name. String order is low E to high E (6th string to 1st string). `x` means muted or not played.
 
-```
+```markdown
 [Cm7]    8-x-8-8-8-8
 [Dm7b5]  x-x-0-2-1-1
 ```
@@ -84,8 +99,9 @@ Where a specific voicing matters, it is written as a string-by-string fret seque
 
 For songs with unusual or hard-to-recall voicings, a chord reminder block appears at the end of the chart listing the shapes used:
 
-```
-Chord reminder
+```markdown
+### Chord reminder
+
 [Cm7+9]   x-10-8-8-8-10
 [G7#5]    x-8-9-8-8-x
 ```
@@ -96,115 +112,122 @@ Chord reminder
 
 Forward slashes represent beats within a bar:
 
-```
+```text
 / / / /     four beats
 ///         three beats
 ```
 
 Bar lines may be written explicitly with pipe characters for precision:
 
-```
+```text
 | / / / / | / / / / |
 ```
 
 Repeat counts follow the notation they apply to:
 
-```
-[INTRO] [Am] / / / /  x4
-[Outro] 16 bars [Am]
+```markdown
+### INTRO
+[Am] / / / /  x4
+
+### OUTRO
+16 bars [Am]
 ```
 
 Time signature and tempo may be noted at the top of a chart where helpful:
 
-```
+```text
 FAST 4/4
 SLOW 12/8
 ```
 
 ---
 
-## Section Labels
+## Section Labels — markdown headings
 
-Structural sections are labelled in bold, inside square brackets. Preferred style is all-caps for consistency and quick visual scanning. Standard labels:
+Structural sections are written as H3 markdown headings in ALL CAPS. This replaces the earlier `**[VERSE 1]**` bracket style.
 
-- `[INTRO]`
-- `[VERSE 1]`, `[VERSE 2]` etc.
-- `[PRE-CHORUS]`
-- `[CHORUS]`
-- `[BRIDGE]`
-- `[MIDDLE 8]`
-- `[INTERLUDE]`
-- `[SOLO]` — with instrument noted where helpful, e.g. `[GUITAR SOLO]`, `[PIANO SOLO]`
-- `[BREAK]`
-- `[OUTRO]`
-
-Section labels can carry additional instructions inline:
-
+```markdown
+### INTRO
+### VERSE 1
+### PRE-CHORUS
+### CHORUS
+### BRIDGE
+### MIDDLE 8
+### INTERLUDE
+### GUITAR SOLO
+### BREAK
+### OUTRO
 ```
-[CHORUS] (semi-stops)
-[CHORUS] (key change)
-[VERSE 2] (band enters)
-[BRIDGE] (against CHORUS chords)
+
+Section labels can carry additional instructions inline in parentheses after the heading text:
+
+```markdown
+### CHORUS (semi-stops)
+### CHORUS (key change)
+### VERSE 2 (band enters)
+### BRIDGE (against CHORUS chords)
 ```
+
+Using real headings gives us anchor links, a table of contents, and proper semantic HTML in the Zensical build — for free.
 
 ### Handling repetition
 
 The single-page constraint means repeated sections are referenced by label only, not written out again in full. The first occurrence defines the section; subsequent occurrences just reference it:
 
-```
-[VERSE 1]
+```markdown
+### VERSE 1
 ... full lyrics and chords ...
 
-[CHORUS]
+### CHORUS
 ... full lyrics and chords ...
 
-[VERSE 2]
-... lyrics only, chords as [VERSE 1] ...
+### VERSE 2
+... lyrics only, chords as VERSE 1 ...
 
-[CHORUS]
+### CHORUS
 
-[BRIDGE]
+### BRIDGE
 
-[CHORUS]  (x2)
+### CHORUS (x2)
 ```
 
-Additional notes on a repeated section go in parentheses after the label:
+Additional notes on a repeated section go in parentheses after the heading:
 
-```
-[CHORUS] (low BVs)
-[CHORUS] (rpt last 2 lines)
-[VERSE 1] again
+```markdown
+### CHORUS (low BVs)
+### CHORUS (rpt last 2 lines)
+### VERSE 1 again
 ```
 
-`[simile]` indicates the established chord pattern continues without writing every chord out.
+**simile** (plain bold) indicates the established chord pattern continues without writing every chord out.
 
 ---
 
-## Performance Directions
+## Performance Directions — plain bold text
 
-Performance directions appear inline in bold square brackets, either attached to a section label or placed mid-line at the point they apply.
+Performance directions are written in plain bold, without brackets. They appear inline in a lyric line at the point they apply, or on their own line within a section.
 
 ### Stops and dynamics
 
-- `[STOP]` — full band stops, silence
-- `[DEAD STOP]` — emphatic full stop, usually with visual cue
-- `[DROP]` — drop in dynamic or instrumentation
-- `[BUILD]` — building intensity
-- `[ACAPELLA]` or `[A CAPPELLA]` — vocals only
+- **STOP** — full band stops, silence
+- **DEAD STOP** — emphatic full stop, usually with visual cue
+- **DROP** — drop in dynamic or instrumentation
+- **BUILD** — building intensity
+- **ACAPELLA** or **A CAPPELLA** — vocals only
 
 ### Style and feel
 
-- `[simile]` — continue in the same style as established
-- `(palm muted)`, `(muted)` — right-hand muting technique
-- `(straight)`, `(swing)` — rhythmic feel
+- **simile** — continue in the same style as established
+- `(palm muted)`, `(muted)` — right-hand muting technique (parenthetical)
+- `(straight)`, `(swing)` — rhythmic feel (parenthetical)
 
 ### Instrument-specific notes
 
 Specific rig or technique notes for individual players appear at the top of the chart or at the relevant section, in bold italic:
 
-```
-LIVE: Guitar 2 has Echo/Delay set to repeat after 3 quavers
-LIVE: Guitar 2 with medium-fast tremolo effect, clean-ish amp
+```markdown
+***LIVE: Guitar 2 has Echo/Delay set to repeat after 3 quavers***  
+***LIVE: Guitar 2 with medium-fast tremolo effect, clean-ish amp***  
 ```
 
 ---
@@ -213,9 +236,9 @@ LIVE: Guitar 2 with medium-fast tremolo effect, clean-ish amp
 
 Backing vocal parts are indicated several ways:
 
-- `[BVs]` inline after a chord or lyric line — indicates BVs enter here
-- `(low BVs)`, `(high harmony)` as parentheticals on section labels
-- Underline on a word or phrase indicates an emphasised backing vocal accent
+- **BVs** as inline bold text — indicates BVs enter at that point
+- `(low BVs)`, `(high harmony)` as parentheticals on section headings
+- Underline on a word or phrase indicates an emphasised backing vocal accent (use `<u>...</u>` in markdown)
 - Specific BV lines written out below the main vocal line in parentheses where the part needs to be explicit
 
 ---
@@ -224,8 +247,8 @@ Backing vocal parts are indicated several ways:
 
 Guitar tablature for intros, solos, or signature riffs uses standard ASCII tab format with string labels (high e at top, low E at bottom), inside a fenced code block:
 
-````
-```
+````markdown
+```text
 e|--12-10---------10--|
 B|--------12-10-------|
 G|--------------------|
@@ -235,44 +258,50 @@ E|--------------------|
 ```
 ````
 
-Where only the highest strings are relevant, partial tab is acceptable:
-
-```
-e|17-|---|16-|---|
-b|---|---|---|---|
-```
+Where only the highest strings are relevant, partial tab is acceptable.
 
 Tab that would break the single-page rule may go on a second page — this is the one accepted exception to the single-page constraint.
 
 ---
 
-## Markdown Formatting Conventions
+## Markdown Formatting Summary
 
-These conventions apply to the Markdown versions of the charts (the `charts/` directory).
+- **Song title**: H1 (`# Title`).
+- **Artist / composer**: H2 (`## Artist`).
+- **Section labels**: H3 in ALL CAPS (`### VERSE 1`).
+- **Chords**: `[Am]`, `[G/B]` — no bold markup needed; the Zensical theme styles them via CSS.
+- **Note runs**: lowercase in brackets, `[g f# e]`.
+- **Octaved notes**: `{F}`.
+- **Performance directions**: plain `**BOLD**` text — no brackets.
+- **Parentheticals** (technique, arrangement notes): `(palm muted)`, `(low BVs)`.
+- **Lyrics**: plain (not bold, not italic).
+- **Line breaks**: two trailing spaces at the end of lyric lines for proper `<br>` rendering.
+- **Vertical space**: minimal blank lines — the single-page constraint is still king.
+- **Tabs**: fenced code blocks with `text` language tag.
 
-- **Song title** uses an H1 heading (`#`).
-- **Artist / composer** uses an H2 heading (`##`).
-- **Section labels** such as `[INTRO]`, `[VERSE 1]`, `[CHORUS]` are **bold and uppercase**, e.g. `**[VERSE 1]**`.
-- **Chord names within lyrics** are bold, e.g. `**[Am]**`.
-- **Performance directions** are bold.
-- **Lyrics** are plain (not bold, not italicised).
-- Do **not** globally italicise body text. Earlier Google Docs versions used an italic font style; this must be removed when converting to Markdown.
-- Add **trailing spaces** (two spaces) to the end of lyric lines to force proper `<br>` line breaks in rendered Markdown. This is required for most lyric lines.
-- Minimal use of blank lines — vertical space is precious on a single page.
-- No page breaks except before an optional tab section.
-- Tab blocks use fenced code blocks (triple backticks) so they render in a fixed-width font.
+### Legacy (v0.2) Google Docs formatting
 
-### Google Docs formatting conventions (legacy)
+Earlier charts were written in Google Docs and used bold italic throughout. These are being migrated; see below.
 
-Charts in the original `a5-chord-lyric-charts` Google Docs folder follow these conventions:
+---
 
-- The entire chart is in a single font, typically Arial or similar sans-serif.
-- Song title: bold italic, slightly larger than body text.
-- Artist / composer: italic.
-- Section labels: bold italic in square brackets — e.g. ***[VERSE 1]***.
-- Chord names within lyrics: bold — e.g. **[Am]**.
-- Performance directions: bold italic.
-- Lyrics: plain (not bold).
+## Migration from v0.2 charts
+
+Charts written under the earlier conventions used `**[VERSE 1]**` for sections and `**[STOP]**` for directions. The migration script at `scripts/migrate-v02-to-v03.py` handles the common transformations:
+
+1. `**[SECTION LABEL]**` on its own line → `### SECTION LABEL`
+2. `**[STOP]**`, `**[BVs]**`, `**[simile]**`, etc. inline → `**STOP**`, `**BVs**`, `**simile**`
+3. Chord notation `[Am]`, `{Eb}`, `[g f# e]` is preserved unchanged.
+
+Review each converted chart visually — some edge cases (unusual section names, mid-line section labels, ambiguous directives) need a human eye.
+
+---
+
+## Transposition
+
+Because `[ ]` and `{ }` now contain only pitched content, charts can be transposed by a client-side script at render time. A `+/-` semitone control in the Zensical site rewrites every chord, note run, and octaved note, while leaving section headings and performance directions untouched.
+
+See `charts/styles/transpose.js` for the implementation.
 
 ---
 
@@ -280,7 +309,7 @@ Charts in the original `a5-chord-lyric-charts` Google Docs folder follow these c
 
 Source charts live as Google Documents in the `guitar-music/a5-chord-lyric-charts` Drive folder. They were exported to Markdown using `rclone`:
 
-```
+```bash
 rclone copy "gdrive:guitar-music/a5-chord-lyric-charts" ./export-md \
   --drive-export-formats md \
   --create-empty-src-dirs \
@@ -290,14 +319,15 @@ rclone copy "gdrive:guitar-music/a5-chord-lyric-charts" ./export-md \
 The raw exports land in `export-md/`. Cleanup steps:
 
 1. Strip global italicisation inherited from the Google Docs body font.
-2. Apply the Markdown conventions above (headings, bold section labels, trailing spaces on lyric lines, fenced tab blocks).
-3. Follow MBCS conventions throughout; if something isn't covered, propose adding it to this document.
-4. Move the cleaned chart into `charts/`.
-5. Delete the corresponding file from `export-md/` once complete.
+2. Apply the markdown conventions above (headings for sections, plain bold for directions, chord/note brackets preserved).
+3. Run `scripts/migrate-v02-to-v03.py` on any chart already converted under the old conventions.
+4. Follow MBCS conventions throughout; if something isn't covered, propose adding it to this document.
+5. Move the cleaned chart into `charts/`.
+6. Delete the corresponding file from `export-md/` once complete.
 
 Existing charts in `charts/` serve as working examples of the conventions and should guide cleanup of the rest.
 
-A Material for MkDocs site will be built to display the charts, following patterns from the [recipes repository](https://github.com/pacharanero/recipes).
+A [Zensical](https://zensical.org/) site is used to display the charts, following patterns from the [recipes repository](https://github.com/pacharanero/recipes).
 
 ---
 
@@ -305,7 +335,7 @@ A Material for MkDocs site will be built to display the charts, following patter
 
 MBCS is a living system. Some variation exists across charts, particularly in older documents:
 
-- **Section label capitalisation** — both `[Verse 1]` and `[VERSE 1]` appear. All-caps is preferred going forward for visual clarity.
+- **Section label style** — older charts use `**[VERSE 1]**`; new convention is `### VERSE 1`. Migration script available.
 - **Chord placement** — a small number of older charts place chords above the lyric line rather than inline. These are candidates for reformatting.
 - **Artist attribution style** — varies across charts. No strict convention yet established.
 - **In-chart editorial notes** — questions or uncertainties sometimes appear in parentheses, e.g. `(do we do this bit?)`. These are working notes, not performance directions, and should be distinguished clearly or removed before a chart is considered final.

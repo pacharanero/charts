@@ -1,2 +1,2 @@
-mkdocs-material>=9.5.0
+zensical>=0.0.32
 mkdocs-awesome-pages-plugin>=2.9.2
