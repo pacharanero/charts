@@ -9,39 +9,53 @@ hide:
 
 # Flip, Flop and Fly
 
-## T-Bone Walker
+## Bill Haley & His Comets
 
-Blues eg A E B7  
+### INTRO
+[A]  
 
-Now when I get the blues, gonna get me a rockin' chair  
-When I get the blues, I get me a rockin' chair  
-Well, if the blues overtake me gonna rock right away from here  
+### VERSE 1
+[A] Well when I get the blues, gonna get me a rockin' chair [D7] [A]  
+Oh, when I get the blues, gonna get me a rockin' chair [D] [A]  
+When the blues overtake me, gonna rock right away from here [E] [A]  
 
-Now when I get lonesome, I jump on the telephone  
-When I get lonesome, I jump on the telephone  
-I call my baby, tell her I'm on my way back home  
+### VERSE 2
+[A] Now when I get lonesome I'm gonna jump on the telephone [D7] [A]  
+Yeah, when I get lonesome I jump on the telephone [D] [A]  
+Well, I call my baby, tell her I'm on my way back home [E] [A]  
 
-Now flip, flop and fly, I don't care if I die  
-Now flip, flop and fly, I don't care if I die  
-Don't ever leave me, don't ever say goodbye  
+### CHORUS
+[A] Well, flip, flop & fly, I don't care if I die  
+[D] Flip, flop & fly, I don't care if I die [A]  
+[E] Don't ever leave me, don't ever say goodbye [D] [A]  
 
-Give me one more kiss, hold it a long long time  
-Give me one more kiss, hold it a long long time  
-Now love me baby, till the feelin' hits my head like wine  
+### LEAD BREAK
+[A] [D] [A] [E] [D] [A] [E]  
 
-Here comes my baby, flashin' her new gold tooth  
-Here comes my baby, flashin' her new gold tooth  
-Well she's so small, she can mambo in a pay phone booth  
+### VERSE 3
+[A] Here come my baby, flashin' a new gold tooth [D7] [A]  
+Here come my mama, flashin' a new gold tooth [D] [A]  
+She's so small she can mambo in a pay phone booth [E] [D] [A]  
 
-Now flip, flop and fly, I don't care if I die  
-Now flip, flop and fly, I don't care if I die  
-Ah, don't ever leave me, don't ever say goodbye  
+### VERSE 4
+[A] Like a Mississippi bullfrog sleeping on a hollow stump [D7] [A]  
+Like a Mississippi bulldog sleepin' on a hollow stump [D] [A]  
+I got me so many women I don't know which way to jump [E] [D] [A]  
 
-I'm like a Mississippi bullfrog, sittin' on a hollow stump  
-I'm like a Mississippi bullfrog, sittin' on a hollow stump  
-I got so many women, I don't know which way to jump  
+### CHORUS
+[A] I'm gonna flip, flop & fly, I don't care if I die  
+[D] I'm gonna flip, flop & fly, I don't care if I die [A]  
+[E] Don't ever leave me, don't ever say goodbye [D] [A]  
 
-Now flip, flop and fly, I don't care if I die  
-Now flip, flop and fly, I don't care if I die  
-Now, don't ever leave me, don't ever say goodbye  
-Oh my!  
+### LEAD BREAK
+[A] [D] [A] [E] [D] [A] [E]  
+
+### BREAK
+[A] Oh, you aughta feel so lovely feel so doggone fine [D7] [A]  
+You aughta feel so lovely feel so doggone fine [D] [A]  
+Love me pretty baby til the feeling hits my head like wine [E] [D] [A]  
+
+### OUTRO
+[A] I'm gonna flip, flop & fly, I don't care if I die  
+[D] I'm gonna flip, flop & fly, I don't care if I die [A]  
+[E] Don't ever leave me, don't ever say goodbye [D] [A]  

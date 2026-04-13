@@ -129,10 +129,20 @@
   }
 
   function addControl(root) {
-    if (document.getElementById('mbcs-transpose')) return null;
+    // Remove any pre-existing control from prior navigation so we can rebuild
+    // it. Material's header persists across instant navigation but the chart
+    // content under it changes, so we need to re-evaluate per page.
+    const existing = document.getElementById('mbcs-transpose');
+    if (existing) existing.remove();
     if (!document.querySelector('.mbcs-token')) return null;
 
-    const host = root.querySelector('article') || root;
+    // Prefer to inject into the site header so the control doesn't reflow
+    // the chart body. Fall back to the article if the header isn't there
+    // (shouldn't happen in Zensical, but stay defensive).
+    const header = document.querySelector('.md-header__inner, header .md-header__title')
+      ? document.querySelector('.md-header__inner')
+      : null;
+
     const ctl = document.createElement('div');
     ctl.id = 'mbcs-transpose';
     ctl.innerHTML = `
@@ -141,8 +151,23 @@
       <span class="mbcs-t-val" aria-live="polite">0</span>
       <button type="button" class="mbcs-t-btn" data-dir="1" title="Up one semitone">+</button>
       <button type="button" class="mbcs-t-btn mbcs-t-reset" title="Reset">↺</button>
+      <button type="button" class="mbcs-t-btn mbcs-t-print" title="Print (A4, single page)" aria-label="Print">🖨</button>
     `;
-    host.insertBefore(ctl, host.firstChild);
+
+    if (header) {
+      ctl.classList.add('mbcs-in-header');
+      // Insert just before the search container so the social/repo icons stay
+      // on the far right. If .md-search isn't present, append to the end.
+      const search = header.querySelector('.md-header__option, .md-search');
+      if (search) {
+        header.insertBefore(ctl, search);
+      } else {
+        header.appendChild(ctl);
+      }
+    } else {
+      const host = root.querySelector('article') || root;
+      host.insertBefore(ctl, host.firstChild);
+    }
 
     let semitones = 0;
     const val = ctl.querySelector('.mbcs-t-val');
@@ -162,6 +187,8 @@
       semitones = 0;
       update();
     });
+    const printBtn = ctl.querySelector('.mbcs-t-print');
+    if (printBtn) printBtn.addEventListener('click', () => window.print());
     return ctl;
   }
 
