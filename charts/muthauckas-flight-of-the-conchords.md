@@ -5,7 +5,6 @@ hide:
   - toc
 ---
 
-
 ### INTRO
 
 Am  G  F  E (same ostinato over choruses)  
@@ -54,4 +53,3 @@ There's too many mutha uckas, uckin, with my shi-
 Too many mutha uckas, uckin' with my...  
 (\*Beatboxing) Everybody come on!  
 Too many mutha uckas, uckin' with my shh...  
-

@@ -5,12 +5,10 @@ hide:
   - toc
 ---
 
-
 ## The Puppini Sisters
 
 ### INTRO
 
-*(free time - watch each other for the cues, or Jess cues us in)*  
 [Ebm] [Bb7] [B7] [Bb7] x2  
 
 ### VERSE 1

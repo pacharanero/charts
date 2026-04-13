@@ -57,14 +57,10 @@ hide:
 [E7] Never stop (pause) it's the human race  
 
 ### PRE-CHORUS (extended)
-[Am] Never slow dowwwn  
-[E7] d-d-down  
-[Am] d-d-down  
-[E7] d-d-down  
-[Am] Never never slow down  
-[E7] never never slow down  
-[Am] never never  
-[E7] never never  
+[Am] Never slow dowwwn  [E7] d-d-down  
+[Am] d-d-down  [E7] d-d-down  
+[Am] Never never slow down  [E7] never never slow down  
+[Am] never never  [E7] never never   [E7] never never  
 
 ### CHORUS
 

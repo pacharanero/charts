@@ -5,10 +5,9 @@ hide:
   - toc
 ---
 
-
 ## Queen/Sicknotes
 
-***[Cm] [Gm7] [Cm] [Gm7]***  
+[Cm] [Gm7] [Cm] [Gm7]  
 
 ### VERSE 1
 
@@ -24,9 +23,9 @@ And I mean to go [Ab/Bb]on, and [Bbm7m5]on, and [B7]on, and [C7]on
 [F]We are the [Am]Sicknotes, my [Dm]friends **[Bb] [C7]**  
 And [F] we'll keep on [Am] playing till the [Bb]end [F#°7]  
 [Gm7]We are the [C7/G]champions, [Bbm6]  
-we are the [E°7]cham [G°7]pions        
+we are the [E°7]cham [G°7]pions  
 [F]No time for [Eb+9/G]losers 'cause [Ab6]we are the [Bb]champions [Cm7+4]  
-***[Fm] [Gm7]** Of the [Fm]world **[Gm7/F] [Fm] [Gm7/C]***  
+[Fm] [Gm7] Of the [Fm]world [Gm7/F] [Fm] [Gm7/C]  
 
 ### VERSE 2
 
@@ -40,6 +39,4 @@ And I mean to go on, and on, and on, and on
 
 ### CHORUS
 
-
 ### OUTRO (CHORUS AGAIN)
-

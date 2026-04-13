@@ -5,7 +5,6 @@ hide:
   - toc
 ---
 
-
 ## KT Tunstall
 
 [Em / / / //  B7 / / /  Em // chords riff]  
