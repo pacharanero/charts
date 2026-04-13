@@ -5,57 +5,68 @@ hide:
   - toc
 ---
 
-
 ## Imelda May
 
-### VERSE 1
+### INTRO
 
-Get up, roll up, Goin up in the world  
-Goin’ round, yeah round Goin round in a whirl  
-Gettin’ by I'm fly that's movin’ so fast  
-Never stop - ‘cause i'm having a blast  
-Never slow down dkd dkd down etc  
+[Am]  
+
+### VERSE 1
+[Am] Get up roll up goin' up in the world  
+[E7] goin' round yeah round goin' round in a whirl  
+[Am] Gettin' by I'm fly that's moving so fast  
+[E7] Never stop (pause) cause I'm having a blast  
+
+### PRE-CHORUS
+
+[Am] Never slow down down down  [E7] dkd-dkd-ddowwn  
+[Am] Dowwn  [E7] dkd-dkd-down  
 
 ### VERSE 2
+[Am] Gettin' high gettin' love oh as good as a drug  
+[E7] I got a great great feeling I'm as snug as a bug  
+[Am] I got no class, no glass ceiling to break  
+[E7] Never stop (pause) Cause I'm on the make  
 
-Gettin high, gettin low Oh as good as a drug  
-I got a great, great feelin’ I'm as snug as a bug  
-I got no class, no glass ceiling to break  
-Never stop - ‘cause i'm on the make  
-Never slow down dkd dkd down etc  
+### PRE-CHORUS
 
 ### CHORUS
 
-I'm a roadrunner, I'm a roadrunner yea  
-I'm a road runner oh...  
+[Am] I'm a Road Runner  [C] I'm road running yeah  
+[Am] I'm a road runner  [E] ohhhhh  
+[Am] [C] [Am] [E]  
 
 ### VERSE 3
+[Am] b-b-bye boo yeah I'm looking at you  
+[E7] don't tie yourself to your womanly dues  
+[Am] You gotta run gotta run gotta take what you can  
+[E7] Never stop (pause) Oh make like a man  
 
-B-b-b-bye boo, Yeah i'm lookin at you  
-Don't tie yourself to your womanly dues  
-You gotta run gotta run, Gotta take what you can  
-Find more Never stop - oh make like a man  
-
-Never slow down dkd dkd down etc  
+### PRE-CHORUS
 
 ### CHORUS
 
-I'm a roadrunner, I'm a roadrunner yea  
-I'm a road runner oh...  
+### INSTRUMENTAL BREAK
+
+[Am] [E7] [Am] [E7] [Am] [E7] [Am] [E7]  
 
 ### VERSE 4
+[Am] Not too late never had a watch  
+[E7] That old parlait tick tickety tock  
+[Am] Have a go Joe, or it'll blow in your face  
+[E7] Never stop (pause) it's the human race  
 
-Not too late, Never had a watch  
-That old parlait, Tick-tickedy-tock  
-Have a go Joe or (it'll) blow in your face  
-Never stop - it’s a human race!  
+### PRE-CHORUS (extended)
+[Am] Never slow dowwwn  
+[E7] d-d-down  
+[Am] d-d-down  
+[E7] d-d-down  
+[Am] Never never slow down  
+[E7] never never slow down  
+[Am] never never  
+[E7] never never  
 
-Never slow down dkd dkd down etc  
-
-Never never slow down, Never never never never...  
 ### CHORUS
 
-I'm a roadrunner, I'm a roadrunner yea  
-I'm a road runner oh…  
-
-Never stop
+### OUTRO
+[Am] never stop.  
