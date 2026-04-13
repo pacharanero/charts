@@ -12,7 +12,7 @@ hide:
 
 There is [A5] nothing to do  
 And [G] nowhere to [E] go when you [A5] need to  
-   I [A5] took to you - I took to you, from you I drew  
+I [A5] took to you - I took to you, from you I drew  
 [G] Nothing but a [E] lonely [A5] smile  
    
 ### BRIDGE
@@ -42,7 +42,7 @@ I took to you. I took to you, from you I drew - nothing but a lonely smile
 ### CHORUS 2
 
 What have you seen?  
-  If you stop me now I'll push until you scream  
+If you stop me now I'll push until you scream  
 Until your na-na-night's on fire, It's good to be alive  
 Where have you been tonight?  With the last cries of life, Yes we'll see  
    

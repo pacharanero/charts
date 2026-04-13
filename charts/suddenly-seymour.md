@@ -20,7 +20,7 @@ I know things were bad, but now they're OK
 Suddenly, [D] Seymour is standing [A] beside you  
 You don't need no [E] makeup, don't have to [A] pretend [A7]  
 Suddenly, [D] Seymour is here to prov[A]ide [A/G#] you [F#m]  
-          Sweet [B] understanding, [E] Seymour's your friend  
+Sweet [B] understanding, [E] Seymour's your friend  
 
 ### VERSE 2 AUDREY (Nobody ever treated me kindly)
 
@@ -48,4 +48,4 @@ Learn how to be more the girl that's inside me
 with sweet underst[D]anding…with sweet underst[B]anding  
                          
 with sweet underst[A]anding… [E]  
-                 Seymour's my [A] maaah [B] aaaah [Dm] aaaaah[E]  [A] aaan!
+Seymour's my [A] maaah [B] aaaah [Dm] aaaaah[E]  [A] aaan!

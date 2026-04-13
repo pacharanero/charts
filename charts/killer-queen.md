@@ -16,7 +16,7 @@ Caviar and cigarettes,Well versed in etiquette
 Extraordinarily nice  
 
 / Am - / G - / Am - / G C / - G C7 F / Fm C - G7 /   
-     / E7 Am / G7 C / B7 EmD7 /  
+/ E7 Am / G7 C / B7 EmD7 /  
 
 She's a killer queen, gun powder, gelatine  
 Dynamite with a laser beam  

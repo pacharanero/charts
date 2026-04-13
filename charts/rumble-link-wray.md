@@ -29,7 +29,7 @@ D D E
 ### SOLO
 
 D form (14th/15th fret) to A then back to  
- D D E  
+D D E  
 D D B7  **RIFF**  
    
 [4]  

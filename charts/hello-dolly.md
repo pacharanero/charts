@@ -14,8 +14,8 @@ hide:
 I said [C6] hel..lo, dolly..well, [Am] hel..lo, Dolly.  
 It's so [Cmaj7] nice to have you [C#dim7] back where you [Dm7] belong. [G7]  
 You're lookin' [Dm7] swell, Dolly...I can [Dm7#5] tell, Dolly.  
-         You're still [Dm6] glowin'...you're still [G7] crowin'...you're  
-     still [Em7] [Ebdim] go....in' [Dm7] strong [G7]  
+You're still [Dm6] glowin'...you're still [G7] crowin'...you're  
+still [Em7] [Ebdim] go....in' [Dm7] strong [G7]  
 I feel that [C6] room swayin'..while the [Am] band's playin'..  
 one of your old [Gm7] favourite [C7] songs  
 from way back [Fmaj7] when [E7b9] [E7]  

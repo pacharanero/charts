@@ -23,7 +23,7 @@ And I [E] feel that love is dead
 ### CHORUS
 
 And through it [B] all she offers me [C#m] protection  
- [A] A lot of love and affection  
+[A] A lot of love and affection  
 [E] Whether I'm right or wrong  
 And down the [B] waterfall  
 Wherever it may [C#m]  take me  

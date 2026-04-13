@@ -19,7 +19,7 @@ It’s a new life,  F-o-r     me -     And I’m feeling good
 [QUIET]  
 [Em] Birds flying [Em/D] high you [Em/C] know how I [Em/B7] feel  
 Sun in the sky you know how I feel [simile.]  
- [Em] Reeds driftin’ on [Em/D] by you [Em/C#] know how I [Em/C]feel  
+[Em] Reeds driftin’ on [Em/D] by you [Em/C#] know how I [Em/C]feel  
 It’s a [B7]new dawn, It’s a [A7]new day  
 It’s a [G7]new life, [F#7]F-o-r me [A7 - - - A7-A#7-B] And I’m feeling good             
 ### INSTRUMENTAL

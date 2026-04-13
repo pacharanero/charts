@@ -34,7 +34,7 @@ And your baby’s got a line that’ll take whole barrel load
 So Daddy-O, I’m hardly in a mood to quibble  
 And you’d make me very happy if you’d hit the road  
 
- [**SL**: Oh honey] **MCG:** [I mean it Lucky]   
+[**SL**: Oh honey] **MCG:** [I mean it Lucky]   
 [**SL:** let me try and sweet talk you with my guitar playing] **Guitar solo**  
 [**MCG:** Oho Nice try Lucky, come on **Band**] **Sax solo**  
 [**MCG:** Oh that was lovely, but you know that just didn’t cut it, **Patrick**  come on show ‘em how it’s done] **Bass solo**  

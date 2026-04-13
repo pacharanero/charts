@@ -21,7 +21,7 @@ She said you're like a disease without any cure
 She said I'm so obsessed that I'm becoming a bore (oh no)  
 Ah you think you're so pretty  
 
-    Caught your hand inside the till  
+Caught your hand inside the till  
 Slammed your fingers in the door  
 Fought with kitchen knives and skewers  
 Dressed me up in womens clothes  

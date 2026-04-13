@@ -8,7 +8,7 @@ hide:
 
 ## The Stranglers
 
- original recording is tuned halfway between E and Eb  
+original recording is tuned halfway between E and Eb  
     
 ### INTRO
 
@@ -21,7 +21,7 @@ hide:
 ### VERSE 1
 
 all 3/4 [Em] [D]** Golden Brown, texture like sun  
- Lays me down, with my might she runs  
+Lays me down, with my might she runs  
 Throughout the night no need to fight  
 Never a frown with golden brown  
    
@@ -36,11 +36,11 @@ To distant lands takes both my hands. Never a frown with golden brown
 ### VERSE 3
 
 [ride cymbal in]  
-  Golden Brown, finer temptress. Through the ages she's heading west  
+Golden Brown, finer temptress. Through the ages she's heading west  
 From far away stays for a day. Never a frown with golden brown  
 ### INTRO AGAIN
 
- ***3/4 [Em] |  [D]  |  [Em]  |  [D]***  
+***3/4 [Em] |  [D]  |  [Em]  |  [D]***  
 
 ### SOLO
 

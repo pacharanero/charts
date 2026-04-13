@@ -12,7 +12,7 @@ The Pogues / Kirsty MacColl **bold**\=Shane McGowan
 ***An old man** [D]**said to me, won't see an[G/A]other one** [A]*  
 ***And then he** [D]**sang a song ‘The Rare Old** [G]**Mountain Dew’***  
 ***And I turned my** [D]**face away And** [G]**dreamed a[A]bout** [D]**you**[G/A]*   
-  [G/A]**Got on a** [D]**lucky one Came in eight-** [G]**een to one**  
+[G/A]**Got on a** [D]**lucky one Came in eight-** [G]**een to one**  
 ***I've got a** [D] **feeling This year's for** [G/A] **me and you** [A]*  
 ***So happy** [D] **Christmas - I love you** [G]**baby***  
 ***I can see a** [D] **better time When** [G] **all our** [A] **dreams come** [D]**true***  

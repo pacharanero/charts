@@ -37,7 +37,7 @@ cut ’em out, ride ’em [B7] in, Raw [Em]hide!
 
 Keep [Fm] movin’ movin’ movin’, though they are disapprovin’  
 [Ab] keep them doggies movin’, Rawhide!  
-  [Fm] Don’t try to understand them, just [Ab] rope,[Eb] throw and [Fm]brand ’em,  
+[Fm] Don’t try to understand them, just [Ab] rope,[Eb] throw and [Fm]brand ’em,  
 [Eb] soon we’ll be [Fm]livin’ high and [C7] wide.  
 [Fm] My heart’s calculatin’, my [Ab] true love [Eb] will be [Fm] waitin’,  
 - be [Ab] waitin’ [Eb] at the [Fm] end of [C7]  my [Fm] ride.  

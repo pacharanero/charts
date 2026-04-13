@@ -23,7 +23,7 @@ Intro lick x 4  -
 I don't know why we always cry, this we must leave and get undone.  
 We must engage, and rearrange, and turn this planet back to one.  
 So tell me why we got to die, and kill each other one by one  
- We've got to love, and rub-a-dub, we've got to dance and be in love.  
+We've got to love, and rub-a-dub, we've got to dance and be in love.  
 
 But what I really want to know is  
 Are you gonna go my way?  

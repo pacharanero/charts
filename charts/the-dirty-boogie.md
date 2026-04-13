@@ -24,7 +24,7 @@ When I [A7/A#] get low down, it's the Dirty Boogie for me
 [Gm] (The Dirty Boogie) - How's it go?  
 [Dm] (The Dirty Boogie) - Not too slow  
 When I [A7]  get low down, it's the Dirty Boogie for me  
- [INTRO/THEME  again]  
+[INTRO/THEME  again]  
 
 ### VERSE 2
 

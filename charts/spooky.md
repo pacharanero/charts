@@ -13,9 +13,9 @@ If we are going to try for the Puppini Sisters’ faster-paced and more interest
 ### VERSE 1
 
 In the [Am7] cool of the evening  
-    	When [D] everything is getting kind of [Am7] groovy [D]   
+When [D] everything is getting kind of [Am7] groovy [D]   
 You [Am7] call me up and [D] ask me  
-    	Would I [Am7] like to go with [D] you and see a [Am7] movie? [D]   
+Would I [Am7] like to go with [D] you and see a [Am7] movie? [D]   
 [Am7] First I say no, I’ve got some plans for tonight  
 And then I [D] **stop** - and [Ebdim] say all right  
 [Am7] Love is kind of [D] crazy with a [Am7] spooky little boy like you [Em+7]  

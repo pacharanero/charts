@@ -34,7 +34,7 @@ Everybody's movin', everybody's groovin', baby - Funky little shack, Funky littl
 ***V4:** Hop in my Chrysler, it's as big as a whale and it's about to set sail*  
 I got me a car, it seats about 20, So come on and bring your jukebox money  
 
-   [**Chorus**]  
+[**Chorus**]  
 
 Bang, bang, bang, on the door, baby - **Knock a little louder, baby**  
 Bang, bang, bang, on the door, baby - **I can't hear you**  

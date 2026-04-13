@@ -44,7 +44,7 @@ You turned nouns into verbs (oh oh), to verbs (oh)
     
 ### OUTRO
 
-             Em                       D                 G     C  
+Em                       D                 G     C  
 These thunderclouds (woah-ah-oh-ah-oh-oh), these thunderclouds (ah ah-ah)  
-             Em                  D        C  
+Em                  D        C  
 These thunderclouds (ah-oh-oh-oh-oh), ohhh oh-oh-oh-oh ohhhhhh  

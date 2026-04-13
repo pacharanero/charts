@@ -21,7 +21,7 @@ everywhere I [A5] go. [build…]
 
 So I [Bm] raise a glass for the [G] hard times,  
 [D] Shake it off till I [Dsus2] let it go,   
- [Bm]Don’t you worry now [G]mama cause these [D]shores are my home [Dsus2]  
+[Bm]Don’t you worry now [G]mama cause these [D]shores are my home [Dsus2]  
 ***[Bm] [G] [D] [Dsus2] x2***  
 
 ### VERSE 2

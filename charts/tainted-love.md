@@ -18,7 +18,7 @@ The love we share Seems to go nowhere, and I’ve lost my light
 ‘Cos I toss and turn I can’t sleep at night  
 
 [Pre chorus] Once I ran to you - now I’ll run from you  
- This tainted love you’ve given - I gave you all a girl could give you  
+This tainted love you’ve given - I gave you all a girl could give you  
 Take my tears and that’s not nearly all  
 ### CHORUS
 

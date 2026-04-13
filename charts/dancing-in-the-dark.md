@@ -39,9 +39,9 @@ There's something happening somewhere, baby I just know that there is
 ### BRIDGE
 
 [G#m]** You sit around getting [B] older  
- [E] there's a joke here [F#] somewhere and it's on [G#m] me  
+[E] there's a joke here [F#] somewhere and it's on [G#m] me  
 I'll shake this world off my [B] shoulders  
- [E] come on baby [F#] this laugh's on [B] me  
+[E] come on baby [F#] this laugh's on [B] me  
    
 ### VERSE
 

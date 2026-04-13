@@ -18,13 +18,13 @@ Put your loving hand out, baby - Cause I'm beggin'
 
 [Bm] I'm beggin',[G] beggin' you [Em]  
 So put your loving [F#7] hand out, baby  
-  I'm beggin', beggin' you, So put your loving hand out, darlin'  
+I'm beggin', beggin' you, So put your loving hand out, darlin'  
    
 ### VERSE 1
 
 (same chords Bm / G / Em / F#7)** Ridin' high, when I was king  
-  I played it hard and fast, 'cause I had everything  
-  I walked away, you want me then.   But easy come and easy go and it would end  
+I played it hard and fast, 'cause I had everything  
+I walked away, you want me then.   But easy come and easy go and it would end  
    
 So, any time I need ya, let me go Yeah, any time I feed you, get me? No  
 Any time I see you, let me know But I planted that seed, just let me grow  
@@ -37,9 +37,9 @@ Hey yeah, ratatata
 ### VERSE 2
 
 [N.C] I need you to understand. Tried so hard to be your man  
-  The kind of man you want in the end. Only then can I begin to live again  
-  An empty shell, I used to be.   The shadow of my life was hangin' over me  
-  A broken man, but I don't know. Won't even stand the devil's dance to win my soul  
+The kind of man you want in the end. Only then can I begin to live again  
+An empty shell, I used to be.   The shadow of my life was hangin' over me  
+A broken man, but I don't know. Won't even stand the devil's dance to win my soul  
    
 ### VERSE 3
 
@@ -60,8 +60,8 @@ Girl, I'm beggin'
 ### VERSE 4
 
 I'm fightin' hard. To hold my own  
-   Just can't make it all alone  
-   I'm holdin' on. I can't fall back  
+Just can't make it all alone  
+I'm holdin' on. I can't fall back  
 I'm just a con about to fade to black  
     
 ### CHORUS (x2)
@@ -70,10 +70,10 @@ I'm just a con about to fade to black
 ### OUTRO
 
 Bm           G           Em  
-  I'm beggin', beggin' you  
-                   F#7  
+I'm beggin', beggin' you  
+F#7  
 So put your loving hand out, baby  
 Bm           G           Em  
-  I'm beggin', beggin' you  
-             F#7          Bm  
+I'm beggin', beggin' you  
+F#7          Bm  
 So put your loving hand out  

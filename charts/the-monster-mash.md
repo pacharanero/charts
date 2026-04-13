@@ -14,7 +14,7 @@ hide:
 [Em] When my eyes beheld an eerie sight          
 [C] For my monster from his slab began to rise       
 [D] And suddenly, to my surprise   
-                              [CHORUS]*   He did the mash */ He did the monster mash   
+[CHORUS]*   He did the mash */ He did the monster mash   
 The monster mash */ It was a graveyard smash*              
 He did the mash */ It caught on in a flash*             
 He did the mash */ He did the monster mash*  

@@ -23,7 +23,7 @@ E|-------------------------------------|
 ### VERSE
 
 [sleigh bells!] jazzy feel, guitar octaves  
- [Bm7] I'm home alone tonight....  
+[Bm7] I'm home alone tonight....  
 Full moon illuminates my room and sends my mind aflight  
 I think I was dreaming of some thoughts that were seemingly possible... with you   
 So I call you on the tin can phone…  
@@ -39,7 +39,7 @@ While we [Dmaj7] experience anti-gr[Bb dim]avity-[Bm]i-y-i-y-i-y-i-y
 ### CHORUS
 
 [Bm7]**Aaan-tiii-graaa-viii-tyyy **[vocal sus2]  
- [Bm7]Aaan-tiii-graaa-viii-tyyy [vocal sus2 resolves]  
+[Bm7]Aaan-tiii-graaa-viii-tyyy [vocal sus2 resolves]  
 ***[G5]       [F#5][E5][F#5][D5][C#5]    [B5] (cuban style rhythm)***  
    
 ### VERSE
@@ -58,5 +58,5 @@ then [CHORUS]
 ### OUTRO
 
 [Bm7]**Aaan-tiii-graaa-viii-tyyy (vocal sus2)  
- [Bm7]Aaan-tiii-graaa-viii-tyyy (vocal sus2 resolves)  
+[Bm7]Aaan-tiii-graaa-viii-tyyy (vocal sus2 resolves)  
 [F#addb13] Oh  [Bm-maj7] yeah

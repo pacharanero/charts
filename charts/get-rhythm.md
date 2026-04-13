@@ -19,7 +19,7 @@ Get [Bb] rhythm when [C7] you get the [F] blues.
 But he's got the dirtiest job in town.  
 Bending low at the peoples feet  
 On the windy corner of a dirty street.  
-    [F] When I asked him while he shined my shoe  
+[F] When I asked him while he shined my shoe  
 How'd he keep from getting the blues?  
 He grinned as he raised his little head,  
 He popped his shoe-shine rag and then he said:  

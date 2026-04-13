@@ -39,7 +39,7 @@ In your head, in your head, they're dying
    
 ### CHORUS
 
-     In your head, in your head, zombie, zombie, zombie   
+In your head, in your head, zombie, zombie, zombie   
 What's in your head, in your head, zombie, zombie, zombie   
    
 ### INSTRUMENTAL (Em C G D/F# Em C Em C x2)

@@ -23,7 +23,7 @@ You [G] know I'm gonna [D/F#] be like [E] you”
 And the [E] cats in the cradle and the [D] silver spoon  
 [G] little boy blue and the [A] man in the moon.  
 “[E] When you comin’ home?” “Son, I [D] don't know when  
- [G] We'll get [D/F#] together [E] then.  
+[G] We'll get [D/F#] together [E] then.  
 You [G] know we'll have a [D/F#] good time [E] then”  
 
 ### VERSE 2

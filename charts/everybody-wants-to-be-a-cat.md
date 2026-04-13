@@ -34,7 +34,7 @@ And with a square in the act, He can set music back
 **Cm7 		A7aug**  
 To the caveman days.  
 
-      I've heard some corny birds who tried to sing,  
+I've heard some corny birds who tried to sing,  
 But a cat's the only cat who knows how to swing.  
 Who wants to dig a long-haired gig or stuff like that?  
 When everybody wants to be a cat.  

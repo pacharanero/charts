@@ -16,7 +16,7 @@ and in my head I make a [F#m] picture
 
 ### BRIDGE
 
- 'cos [A] since I've come on home, well my [G#m] body's been a mess  
+'cos [A] since I've come on home, well my [G#m] body's been a mess  
 And I [A] miss your ginger hair and the [G#m] way you like to dress  
 [A] Won't you come on over [G#m] stop making a fool out of [B] me  
 Why won't you come on over Valerie? Valerie?  

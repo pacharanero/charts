@@ -25,7 +25,7 @@ Crazy little thing called love
 ### MIDDLE 8
 
 There goes my [G] baby, she [C] knows how to rock and [G] roll.  
-               She drives me [Bb] crazy **(desc. bass line)**  
+She drives me [Bb] crazy **(desc. bass line)**  
 she gives me hot [E] and cold [A] fever,  
 then she leaves me in a cool,cool [F] sweat **(desc d/c#/c - a/g#/g)**  
 

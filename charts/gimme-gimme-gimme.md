@@ -27,8 +27,8 @@ And it makes me so depressed to see the gloom
 
 [Dm] Gimme gimme [Bb] gimme a [C]  man after [Dm] midnight  
 [Bb] Won't somebody [Dm] help me chase [C] these shadows [Dm] away    
- Gimme gimme gimme a man after midnight  
- Take me through the darkness to the break of the day  
+Gimme gimme gimme a man after midnight  
+Take me through the darkness to the break of the day  
 
 ***Stop, then [Arpeggio INTRO] again***  
    

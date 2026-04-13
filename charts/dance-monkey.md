@@ -42,7 +42,7 @@ But still you beg to see me dance just one more time
 
 ### CHORUS (BASS) (TWICE)
 
- [Atmospheric] Ooooh ooooh ooooh ooooh ooooh - Woah-oh, woah-oh, oh  
+[Atmospheric] Ooooh ooooh ooooh ooooh ooooh - Woah-oh, woah-oh, oh  
 Ooooh ooooh ooooh ooooh ooooh - Ah ah, ah ah, ay  
 
 ### CHORUS (ALL INSTRS) (TWICE)

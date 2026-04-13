@@ -31,7 +31,7 @@ I say, "Yeh yeh"..That's what I say, I say, "Yeh yeh." [C7]
 
 [F]** We'll play a melody and [Fm] turn the lights down low  
 so that none can [C] see. We gotta do that! We gotta do that!  
- Yeh, yeh. We gotta do that! We gotta do that!  
+Yeh, yeh. We gotta do that! We gotta do that!  
 [F] And there'll be no one else a[Fm]live in all the world  
 'cept you and [D] me!  
 Yeh - yeh - yeh - yeh…  [G] yeh, yeh, yeh, yeh!  

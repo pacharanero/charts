@@ -19,7 +19,7 @@ Well, I've got a fever, a non-believer. I'm in a state of grace
 For I am the Caesar, I'm gonna seize the [F#maj] day  
 Well, call of the banshee hey hey. Hey hey hey hey hey  
 As God as my witness the infidels are gonna [Bm] pay  
- [Bm] Well, call the assassin. The orgasm. A spasm of love and hate  
+[Bm] Well, call the assassin. The orgasm. A spasm of love and hate  
 For what will divide us? The righteous and the [F#maj] meek  
 Well, call of the wild hey hey. Hey hey hey hey hey  
 Death to the girl at the end of the serenade  

@@ -41,7 +41,7 @@ Can I get away again tonight?
 [guitar horns distortion]  
 [D] How well I remember [A] The look was in his eyes  
 Stealin' kisses from me on the sly  
-           [B7] Takin' time to make time, Tellin' me that he's all mine  
+[B7] Takin' time to make time, Tellin' me that he's all mine  
 [E7] Learnin' from each other's knowin', looking to see how much we're growin’  
 
 [KEY CHANGE TO A]  

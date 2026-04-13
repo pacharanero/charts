@@ -43,7 +43,7 @@ then [CHORUS]
 [RAP]** Yeah yeah well, keep the price tag - and take the cash back  
 just give me six strings and a half stack and you can keep the cars  
 leave me the garage and all I.. yes all I need are keys and guitars  
-   and guess what, in 30 seconds I'm leaving to Mars, yes we leaving across these undefeatable odds, its like this man, you can’t put a price on life  
+and guess what, in 30 seconds I'm leaving to Mars, yes we leaving across these undefeatable odds, its like this man, you can’t put a price on life  
 we do this for the love so we fight and sacrifice every night  
 so we ain't gon' stumble and fall (n’a’a) waiting to see a sign of defeat (uh uh)  
 so we gon' keep everyone moving their feet, so bring back the beat  

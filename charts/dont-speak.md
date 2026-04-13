@@ -22,7 +22,7 @@ I [Gm] can't believe this [Cm] could be [Fm] the end [Bb]
 ### PRE-CHORUS I
 
 It [Cm] looks as [Gm] though you're [Fm] letting [Bb] go  
-       And [Eb] if it's real, well [Bb] I don't want to [C] know  
+And [Eb] if it's real, well [Bb] I don't want to [C] know  
     
 ### CHORUS
 

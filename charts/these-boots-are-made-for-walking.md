@@ -28,7 +28,7 @@ Now what's right’s right but you ain’t been right yet.
 
 You keep playing where you shouldn’t be playing, and you keep thinking that you'll never get burned , ha!        
 I just found me a brand new box of matches yeah        
- And what he knows you ain’t had time to learn.  
+And what he knows you ain’t had time to learn.  
 
 ### CHORUS
 

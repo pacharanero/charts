@@ -31,7 +31,7 @@ Take me to them naughty ladies every time
 ***[D] Oh down beside [C] that red fire-[A]-light?***   
 ***[D] Oh are you gonna [G] give it all you got***                                            
 ***Fat bottomed [D] girls You make the [A] rockin' world go [D] round***  
- ***Fat bottomed [D] girls You make the [A] rockin' world go [D] round***  
+***Fat bottomed [D] girls You make the [A] rockin' world go [D] round***  
 
 [**INTERLUDE] [G] / [D] / [A] / [D] - [G] / [D] / [A] - (build A )** / / /  
 

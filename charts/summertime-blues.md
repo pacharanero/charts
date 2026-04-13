@@ -8,7 +8,7 @@ hide:
 
 ## Eddie Cochrane
 
- ***- [E] / / [A] - - - - [B] / / [E] - - - x 2 (or more sometimes)***  
+***- [E] / / [A] - - - - [B] / / [E] - - - x 2 (or more sometimes)***  
 
 ### VERSE 1
 

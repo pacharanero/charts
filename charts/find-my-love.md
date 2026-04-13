@@ -42,9 +42,9 @@ then **[Chorus]
 ### INTERLUDE
 
 [F]** Somewhere out there,  
- [G] There must be, a [C] boy,  for this [Am] girl  
+[G] There must be, a [C] boy,  for this [Am] girl  
 [F]  Could be anywhere, [G] could be next door  
- [Dm] Or the other [G7] side of the world!  
+[Dm] Or the other [G7] side of the world!  
 
 ### VERSE 3
 

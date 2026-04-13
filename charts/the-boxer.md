@@ -23,7 +23,7 @@ I have [G] squandered my resistance
 For a [G7] pocketful of [G6] mumbles such are [C] promises  
 All lies [C/B] and [Am] jest still a [G] man hears what he [F] wants to hear  
 And disregards the [C] rest - [G] mmm mm **[F] [C]**  mm  
- [simile] When I left my home and family I was no more than a boy  
+[simile] When I left my home and family I was no more than a boy  
 In the company of strangers, in the quiet of a railway station, running scared  
 Laying low seeking out the poorer quarters where the ragged people go  
 Looking for the places only they would know  
@@ -49,7 +49,7 @@ then [Intro guitar riff vignette]
 
 Then I'm laying out my winter clothes and wishing I was gone  
 Going home where the New York City winters aren't bleeding me  
- [Em]Leading me-[Am]e Going [G7] home [C] [tiny slide guitar solo]  
+[Em]Leading me-[Am]e Going [G7] home [C] [tiny slide guitar solo]  
 In the clearing stands a boxer and a fighter by his trade  
 And he carries the reminders, of ev'ry glove that laid him down,  
 or cut him till he cried out, in his anger and his shame  

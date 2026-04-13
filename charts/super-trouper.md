@@ -23,7 +23,7 @@ C/Csus2   Am/Amsus2   Dm/Dmsus2  G7/G7sus2
 When I [Dm] called you last night from [G6] [G] Glasgow  
 [C] All I do is eat and sleep and [Em]sing  
 [Dm] Wishing every show was the [G6] last [G]show  
- [F] So imagine I was [C] glad to hear you're coming  
+[F] So imagine I was [C] glad to hear you're coming  
 [F] Suddenly I feel [C] all right - [F] And it's gonna be so [C] different  
 When I'm on the stage to-[G7sus4]night [G7]  
 
@@ -31,7 +31,7 @@ When I'm on the stage to-[G7sus4]night [G7]
 
 Tonight the [C] Super [Csus4] Trouper [C] lights are gonna find me  
 [Csus4] Shining [C] like the [G] sun, [Dm] Smiling, having [G7] fun  
-  Feeling like a number [C] one.  
+Feeling like a number [C] one.  
 Tonight the [same chord sequence] Super Trouper beams are gonna blind me  
 But I won't feel blue Like I always do - 'Cause somewhere in the crowd there's you  
 

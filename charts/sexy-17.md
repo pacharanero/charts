@@ -42,7 +42,7 @@ Come on baby lets jump 'round your feet, can't learn nothin' in school
 They don't teach you on the street!  
 
 Wooh, wooh, baby, I like your style.  
-   Wooh, oh, oh, oh, baby, I like your style.  
+Wooh, oh, oh, oh, baby, I like your style.  
 You don't care what the other kids say; You go real wild.  
 
 ### CHORUS

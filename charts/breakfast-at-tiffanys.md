@@ -22,7 +22,7 @@ still I know you just don't care
 ### CHORUS
 
 [D] [A] [G]  
- And I said - what about - Breakfast at Tiffany's,  
+And I said - what about - Breakfast at Tiffany's,  
 she said I think I remember the film  
 and as I recall I think we both kind of liked it,  
 and I said well that's the one thing we've got  
@@ -32,7 +32,7 @@ and I said well that's the one thing we've got
    
 ### VERSE 2 (+ ornamented clean guitar fills)
 
- I see you, the only one who knew me  
+I see you, the only one who knew me  
 and now your eyes see through me, I guess I was wrong  
 So what now. it's plain to see we're over  
 and I hate when things are over  

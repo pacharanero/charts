@@ -44,9 +44,9 @@ Oh, stand, stand by me, Stand by me
 ### VERSE 2
 
 If the sky that we look upon, should tumble and fall  
-     Or the mountain should crumble to the sea  
+Or the mountain should crumble to the sea  
 I won't cry, I won't cry, no, I won't shed a tear  
-    Just as long as you stand, stand by me  
+Just as long as you stand, stand by me  
    
 ### CHORUS
 

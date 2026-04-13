@@ -18,10 +18,10 @@ my girlfriend told me to get a life she said "boy, are you lazy"
 
 ### CHORUS (Dm              Am      Dm            Am)
 
-   but I don't mind, as long as there's a bed beneath the stars that shine  
+but I don't mind, as long as there's a bed beneath the stars that shine  
 Dm          Am          F7           
-   I'll be fine, if you give me a minute, a man's got a limit  
-        G                      E  
+I'll be fine, if you give me a minute, a man's got a limit  
+G                      E  
 I can't get a life if my heart's not in it...  
 
 ### INSTRUMENTAL (Am   Fmaj7  C       B11 E  x3)

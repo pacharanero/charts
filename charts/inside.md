@@ -26,9 +26,9 @@ E|----------5----------0-0-0-0--0-0-0-0---|
 
 over [Em] [C] [A] [C]  
 Swing low in the darkglass hour you turn and cower see it turned to dust  
-    move on a stone dark night we take to flight snowfall turns to rust  
-       seam in the fusing mine like a nursing rhyme fat man starts to fall  
-     Year in a hostile place I hear your face start to call  
+move on a stone dark night we take to flight snowfall turns to rust  
+seam in the fusing mine like a nursing rhyme fat man starts to fall  
+Year in a hostile place I hear your face start to call  
    
 ### PRE-CHORUS
 

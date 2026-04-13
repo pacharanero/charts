@@ -13,7 +13,7 @@ hide:
 ### VERSE 1
 
 Oh is [C] this the way they say the future’s meant to feel  
-        Or just [G] 20000 people standing in a field  
+Or just [G] 20000 people standing in a field  
 And I don’t quite understand just what this feeling is   
 But thats okay cause we’re all sorted out for Es and wizz  
 And tell me when the spaceship lands   

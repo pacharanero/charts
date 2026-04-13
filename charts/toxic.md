@@ -16,9 +16,9 @@ hide:
 
 [Cm]** Baby, can't you see  - I'm calling  
 a guy like you - should wear a warning  
-   It's [Ebm] dangerous - I'm [G] falling [Cm]  
+It's [Ebm] dangerous - I'm [G] falling [Cm]  
 There's no escape - I can't wait.  I need a hit - Baby, give me it  
-   You're dangerous - I'm loving it  
+You're dangerous - I'm loving it  
     
 ### BRIDGE (Too high - Can't come down)
 
@@ -31,7 +31,7 @@ With the [Cm] taste of your lips I'm [Eb] on a ride
 [D] You're toxic I'm [Db] slippin' under  
 With a [Cm] taste of the poison [Eb] paradise  
 I'm [Ab] addicted to you, Don't you [G] know that you're toxic?  
-      [clean guitar break] And I [Ab] love what you do  
+[clean guitar break] And I [Ab] love what you do  
 Don't you [G] know that you're toxic?  
    
 ### VERSE
@@ -55,7 +55,7 @@ Can you feel me now?
 ### OUTRO (same chords as chorus)
 
 Intoxicate me now, With your lovin' now  
- I think I'm ready now, (Spoken) I think I'm ready now  
- Intoxicate me now, With your lovin' now  
- I think I'm ready now  
+I think I'm ready now, (Spoken) I think I'm ready now  
+Intoxicate me now, With your lovin' now  
+I think I'm ready now  
 

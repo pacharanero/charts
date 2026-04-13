@@ -16,7 +16,7 @@ Sometimes I did good, sometimes I done wrong
 But I did the best I could from where I come from  
 And I'll keep on tryin' till my day is done  
 
-          ***Gm**                **Bb***  
+***Gm**                **Bb***  
 And so I'm proud and humble, humble and proud  
 **C                 Gm**  
 Yeah, I'm proud and humble, humble and proud  

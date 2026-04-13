@@ -14,7 +14,7 @@ hide:
 ### VERSE 1
 
 Ooh, I [Gm] bet you're wonderin' [C/G] how I [Gm] knew,  
-    'Bout your [D7] plans to make me [C7] blue.  
+'Bout your [D7] plans to make me [C7] blue.  
 With some other [Gm] guy you [C/G] knew be-[Gm]-fore,  
 Between two of us [D7] guys, you know I [C7] loved you more.  
    
@@ -30,7 +30,7 @@ Not much [C7] longer, would you be mine.
 Oh, I [G7] heard it through the [C7] grape-[G7]-vine;  
 Oh, I'm [C7] just about to lose my mind  
 [Riff G G]honey, [A# C] honey, [Gm] yeah.  
- (I heard it through the grapevine, Not much longer would you be my baby).  
+(I heard it through the grapevine, Not much longer would you be my baby).  
     
 ### VERSE 2
 

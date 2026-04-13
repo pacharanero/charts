@@ -18,7 +18,7 @@ hide:
 ### CHORUS
 
 When you're [B7] strange, [G] faces come out of the [B7] rain  
- When you're strange [G] No one remembers your [B7] name  
+When you're strange [G] No one remembers your [B7] name  
 When you're [B7] strange. When you're [B7] strange.  
 When you're  **- [B7]** strange.  
    

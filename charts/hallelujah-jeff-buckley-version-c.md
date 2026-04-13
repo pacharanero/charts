@@ -17,7 +17,7 @@ hide:
 I [C] heard there was a [Am] secret chord  
 That [C] David played and it [Am] pleased the Lord  
 But [F] you don't really [G] care for music, [C] do you?  
-    Well it [C] goes like this the [F] fourth, the [G] fifth  
+Well it [C] goes like this the [F] fourth, the [G] fifth  
 The [Am] minor fall and the [F] major lift  
 The [G] baffled king com[E7]posing [Am] hallelujah  
 

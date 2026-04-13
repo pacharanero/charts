@@ -13,7 +13,7 @@ hide:
 [HOOK/CHORUS]  
 ***[SWING FEEL] [D#m]** She said I love you boy, I love your soul*  
 She said I love you baby oh oh oh ohh   
- [D#m] She said I love you more than words can say  
+[D#m] She said I love you more than words can say  
 She said I love you bayayayayby [A#]  
    
 ***[STRAIGHT 4s FEEL] [4 BARS INTERLUDE]***  
@@ -36,7 +36,7 @@ telling the judge and jury the same thing that i said to the cops on the day tha
 
 ***[SWING FEEL] [D#m]** She said I love you boy, I love your soul*  
 She said I love you baby oh oh oh ohh  [STRAIGHT 4s OPEN HAT]  
- [D#m] She said I love you more than words can say  
+[D#m] She said I love you more than words can say  
 she said I love you bayayayayby [A#]  
 (so I said why the hell you gotta treat me this way)  
 [D#m] You don’t know what love is      

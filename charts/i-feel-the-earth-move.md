@@ -39,7 +39,7 @@ I just lose control in to my very soul
 I get high and fall all over all over all over all over  
 I feel the earth move under my feet  
 I feel the sky tumbling down tumbling down  
- I feel the sky tumbling down tumbling down ...  
+I feel the sky tumbling down tumbling down ...  
 
 ### ENDING
 

@@ -11,15 +11,15 @@ hide:
 ### VERSE 1
 
 [Bm] Travelling in a [A] fried out [Bm] kombie [G] [A]  
-    On a hippy trail head full of zombie.  
-    I met a strange lady, she made me nervous.  
-    She took me in and gave me breakfast,  and she said  
+On a hippy trail head full of zombie.  
+I met a strange lady, she made me nervous.  
+She took me in and gave me breakfast,  and she said  
 
 ### CHORUS 1
 
 [D] Do you come from a [A] land down [Bm] under [G] [A]  
-  Where women glow and men plunder?  
-  Can ya hear can ya hear the thunder?  
+Where women glow and men plunder?  
+Can ya hear can ya hear the thunder?  
 You better run, you better take cover  
 
 ### VERSE 2
@@ -48,6 +48,6 @@ And he said:
 ### CHORUS 1
 
 Do you come from a land down under  
-  Where women glow and men plunder?  
-  Can ya hear can ya hear the thunder?  
+Where women glow and men plunder?  
+Can ya hear can ya hear the thunder?  
 You better run, you better take cover.  

@@ -11,8 +11,8 @@ hide:
 ### VERSE 1
 
 [Am]I saw the light on the night that I passed by her [E7] window  
- [Am] I saw the flickering shadows of love on her [E7] blind  
- [A] She [A7] was my [Dm] woman  
+[Am] I saw the flickering shadows of love on her [E7] blind  
+[A] She [A7] was my [Dm] woman  
 [Am] As she deceived me I [E7] watched  
 and [Am] went out of my [G7] mind  
     
@@ -36,7 +36,7 @@ Why, why, why, Delilah
 So before they come to break down the door  
 Forgive me, Delilah, I just couldn't take any more  
    
- Am E7  
+Am E7  
 Am E7  
     
 She stood there laughing  

@@ -29,9 +29,9 @@ Oh [Bb] no, oh no, [C] oh no
 ### BRIDGE
 
 [C]** You're the one who makes me come running  
-   [Eb] You're the sun who makes me shine  
-  [F] When you're around I'm always laughing  
-  [Ab] I wanna make you mine  
+[Eb] You're the sun who makes me shine  
+[F] When you're around I'm always laughing  
+[Ab] I wanna make you mine  
    
 ### VERSE 2
 
@@ -51,7 +51,7 @@ over [C]
 
    
 [Spoken section]  chords need checking  
-  [C] I want you [F] I don't want anybody else  
+[C] I want you [F] I don't want anybody else  
 And [Bb] when I think ab[C]out you, I [F] touch myself  
 Bb     C     F Ooh,         oooh,   
 Bb     C     F oooooh,      aaaaaah  

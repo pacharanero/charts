@@ -13,9 +13,9 @@ hide:
 (rhythm strum on guitar) [Dm] x4 [Gm] x4  
 
 ***[VERSE1]   [Dm]** Angels watching over me with smiles upon their face*  
-    [Gm] Coz I have made it through this far in an unforgiving place  
+[Gm] Coz I have made it through this far in an unforgiving place  
 [Dm] It feels sometimes this is too steep for a girl like me to climb  
-    [Gm] But I must knock those thoughts right down I do it in my own time  
+[Gm] But I must knock those thoughts right down I do it in my own time  
 
 ### PRE-CHORUS
 
@@ -24,13 +24,13 @@ hide:
 ### CHORUS
 
 [Dm]** I tell you what (I tell you what)  
-            [Am] What I have found (What I have found)  
-             [Gm] That I'm no fool (That I'm no fool)  
-                 [Dm] I'm just upside down (Just upside down)  
+[Am] What I have found (What I have found)  
+[Gm] That I'm no fool (That I'm no fool)  
+[Dm] I'm just upside down (Just upside down)  
 [Dm] Ain't got no cares (Ain't got no cares)  
- [Am] I aint got no rules (Aint got no rules)  
+[Am] I aint got no rules (Aint got no rules)  
 [Gm] I think I like (I think I like)  
- [Am] Living upside down (Living upside down)  
+[Am] Living upside down (Living upside down)  
 
 ### VERSE 2
 

@@ -32,7 +32,7 @@ Well I got my pick and my shovel, I made the graveyard at 12 last night,
 When I got there I do declare I spied a form all dressed in white.  
 When I spied that form all dressed in white  
 my blood ran both hot and cold, he said  
- “hey there mister don’t be afraid I’m going to help you dig your gold”  
+“hey there mister don’t be afraid I’m going to help you dig your gold”  
 
 I said next week, some time but no, not now,  
 I never did believe in digging ditches in a graveyard  

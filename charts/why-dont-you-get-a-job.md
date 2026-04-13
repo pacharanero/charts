@@ -12,7 +12,7 @@ hide:
 ### VERSE 1
 
 My friend's got a girlfriend, Man he hates that bitch  
- (Only drums) He tells me every day  
+(Only drums) He tells me every day  
 He says "Man I really gotta lose my chick, In the worst kind of way"  
 
 ### VERSE 2

@@ -19,23 +19,23 @@ G|-----------------|-----------------|-----------------|-----------------|
 
 ### VERSE 1
 
-           E                        C#m               G#  A  
- With your feet in the air and your head on the ground  
- Try this trick and spin it, yeah, your head will collapse  
+E                        C#m               G#  A  
+With your feet in the air and your head on the ground  
+Try this trick and spin it, yeah, your head will collapse  
 But there's nothing in it, and you'll ask yourself  
 
 ### CHORUS
 
- Where is my mind?  
- Where is my mind?  
- Where is my mind?  
- E   G#         A             Am        C#m   B  
- Way out in the water, see it swimming.  
+Where is my mind?  
+Where is my mind?  
+Where is my mind?  
+E   G#         A             Am        C#m   B  
+Way out in the water, see it swimming.  
 
 ### VERSE 2
 
 I was swimmin' in the Carribean, animals were hiding behind the rock  
-   Except the little fish, but they told me, he swears  
+Except the little fish, but they told me, he swears  
 Tryin' to talk to me, to me, to me  
 
 ### CHORUS

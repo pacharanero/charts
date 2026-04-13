@@ -21,9 +21,9 @@ But Wednesday we make sweet weekly love.
 ### VERSE
 
 That's when everythang is just right - There's nothing good on TV.  
- You haven't had your after-work social sports team practice, so you’re not too tired…Oh, boy, it's all on. You lean in and whisper something sexy in my ear like,  
+You haven't had your after-work social sports team practice, so you’re not too tired…Oh, boy, it's all on. You lean in and whisper something sexy in my ear like,  
 "I might go to bed now. I’ve got work in the morning."  
-    Yeah I know what you're trying to say, girl - you're trying to say  
+Yeah I know what you're trying to say, girl - you're trying to say  
 "Oh yeah, It's business time, It's business time."  
     
 ### CHORUS
@@ -35,11 +35,11 @@ It's business. It's business time. [Gm6]
 ### VERSE
 
 Then we're in the bathroom brushing our teeth  
-     That's all part of the foreplay, I love foreplay…   
+That's all part of the foreplay, I love foreplay…   
 shakashaka, shakashaka, shakashak-aoou!  
-     Then you sort out the recycling   
+Then you sort out the recycling   
 That isn't part of the foreplay process, but it is still very important  
-     Next thing you know, we're in the bedroom.  
+Next thing you know, we're in the bedroom.  
 You're wearing that baggy old ugly t-Shirt you got from your work several years ago. Mm, you know the one, baby, with the curry stain.  
 ### VERSE
 

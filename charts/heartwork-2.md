@@ -29,7 +29,7 @@ Whatever [Cm] happens, just [Bb] know I tried my [Eb] best. [build]
 Cause my [Gm] heart needs [Eb] work, can [Bb]someone pick me up  
 and tell me [Gm] every-[Eb]thing’s al-[Bb]right.   
 Cause my [Gm] heart needs work, I’m [Eb] tired of playing [Bb] this guy  
- take me [Gm] down to those [Eb] city [Bb] lights.  
+take me [Gm] down to those [Eb] city [Bb] lights.  
 
 ### VERSE 2
 

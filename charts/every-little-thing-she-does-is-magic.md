@@ -57,5 +57,5 @@ Even though my life before was tragic, now I know my love for her goes on
 
 [Bb] [F] [Gm7] [Am] [Bb] [C] [D] (repeat sequence over vocal vamp)  
 …Every little, every little, every little, every little thing she does….   (etc)  
-  …Eee oh oh,   Eee oh oh,   Eee oh oh,   Eee oh oh….     (etc)             
- …Every little thing she does is magic, magic, magic,   magic, magic, magic [D] 
+…Eee oh oh,   Eee oh oh,   Eee oh oh,   Eee oh oh….     (etc)             
+…Every little thing she does is magic, magic, magic,   magic, magic, magic [D] 

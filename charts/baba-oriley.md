@@ -15,11 +15,11 @@ hide:
 ### VERSE ([F]  [C]  [Bb] repeated)
 
 Out here in the fields  
- I fight for my meals  
- I get my back into my living  
- I don't need to fight  
- To prove I'm right  
- I don't need to be forgiven, yeah, yeah, yeah, yeah, yeah, yeah  
+I fight for my meals  
+I get my back into my living  
+I don't need to fight  
+To prove I'm right  
+I don't need to be forgiven, yeah, yeah, yeah, yeah, yeah, yeah  
    
 ***[F]  [C]  [Bb]  x 5***   
 ***[C] x 3***  
@@ -29,10 +29,10 @@ It's [F] only [Bb] teenage [C] wasteland
    
 ### VERSE ([F]  [C]  [Bb] repeated)
 
- Sally, take my hand  
- We'll travel south cross land  
+Sally, take my hand  
+We'll travel south cross land  
 Put out the fire, and don't look past my shoulder  
- The exodus is here, tThe happy ones are near  
+The exodus is here, tThe happy ones are near  
 Let's get together,  before we get much older  
    
 Teenage wasteland - It's only teenage wasteland  

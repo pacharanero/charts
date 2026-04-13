@@ -8,7 +8,7 @@ hide:
 
 ## My Chemical Romance
 
- [E] [B] [E] [B]  
+[E] [B] [E] [B]  
 
 ### VERSE 1
 

@@ -51,9 +51,9 @@ over | Em      | G       | A       | C   D G | **[x4]
 [Em]Where do we go, [G] Where do we go, [A] Where do we go now---- [C] [D]  
 Where do we go, Where do we go, Where do we go now----  
 Where do we go, Sweet child, Where do we go now----  
- Aih, Aih, Aih, Aih, Aih, Aih, Aih where do we gooooooooooooo  now----  
+Aih, Aih, Aih, Aih, Aih, Aih, Aih where do we gooooooooooooo  now----  
 Where do we gooooooooooo, where do we go now----  
 Where do we gooooooo, where do we go now----   
 Where do we go-----, where do we go now Now-now-now-now-now-now-now  
- Em     G             A C D      Em  
+Em     G             A C D      Em  
 Sweet child, sweet chi-. . ld of mine  

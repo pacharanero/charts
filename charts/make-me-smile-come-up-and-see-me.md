@@ -14,7 +14,7 @@ hide:
 
 You've done it [F] all, you've [C] broken every [G] code  
 [F] And pulled the [C] Rebel to the [G] floor [ba-ba-ba-ba….]  
- [1 bar pause on G] You've spoilt the [F] game, no [C] matter what you [G] say  
+[1 bar pause on G] You've spoilt the [F] game, no [C] matter what you [G] say  
 [F] For only [C] metal, what a [G] bore.  
 ***[oooh-oooh-lalala] [F]** Blue eyes, blue [C] eyes,*  
 ***[oooh-oooh-lalala] [F]** How can you [C] tell so many [G] lies?*  
@@ -23,7 +23,7 @@ You've done it [F] all, you've [C] broken every [G] code
 
 [Dm]** Come up and [F] see me, make me [C] smile **[G]  
 [Dm] I'll do what you [F] want, running [C] wild [G]  
-  [+2 bars tacet]  
+[+2 bars tacet]  
 ### VERSE 2
 
 There's nothing left, all gone and run away,  

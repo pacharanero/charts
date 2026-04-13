@@ -35,8 +35,8 @@ It's not confi[F]dential, I've got [G] potential [E]  [fill]
 Taking its toll and I'm leaving without [Dm] you [F]  
 [Am] Cause heaven ain't close in a place like this,  
 [Am] I said a-heaven ain't close in a place like this.  
- [F] Bring it back down, [G] bring it back down [Am] tonight,  
- [F] Never thought I'd let a rumor ruin [G] my moonlight.  
+[F] Bring it back down, [G] bring it back down [Am] tonight,  
+[F] Never thought I'd let a rumor ruin [G] my moonlight.  
    
 ### CHORUS (x1)
 

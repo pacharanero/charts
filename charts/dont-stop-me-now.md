@@ -12,7 +12,7 @@ hide:
 
 [F]** Tonight, I'm gonna have my[Am7]self a real [Dm7] good time  
 I feel [Gm7]alive, [C7]and the [F]world, [F7]turning inside [Bb]out, yeah  
-  and [Gm7]floating around in [D7]ecstasy, so  
+and [Gm7]floating around in [D7]ecstasy, so  
 [Gm]don't [Dm]stop [Gm]me [Gm7]now  
 [Gm]Don't [Dm]stop [Gm]me 'cause I'm [Gm7]having a good time  
 [C7] having a good time.  
