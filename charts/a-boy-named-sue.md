@@ -1,7 +1,6 @@
 ---
 title: "A Boy Named Sue"
-tags: []
-category: Guitar Charts
+tags: [90s, americana, britpop, country, folk, irish, johnny-cash, rockabilly]
 hide:
   - toc
 ---

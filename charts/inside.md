@@ -1,7 +1,6 @@
 ---
 title: "Inside"
-tags: []
-category: Guitar Charts
+tags: [stiltskin, swing, tab]
 hide:
   - toc
 ---

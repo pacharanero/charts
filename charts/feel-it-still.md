@@ -1,7 +1,6 @@
 ---
 title: "Feel It Still"
-tags: []
-category: Guitar Charts
+tags: [portugal-the-man]
 hide:
   - toc
 ---

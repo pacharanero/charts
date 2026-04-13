@@ -1,7 +1,6 @@
 ---
 title: "All Shook Up"
-tags: [rock-and-roll, elvis-presley, 50s, classic]
-category: Guitar Charts
+tags: [50s, words-music-by-otis-blackwell]
 hide:
   - toc
 ---

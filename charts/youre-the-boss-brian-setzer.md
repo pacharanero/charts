@@ -1,7 +1,6 @@
 ---
 title: "You’re The Boss - Brian Setzer"
-tags: []
-category: Guitar Charts
+tags: [instrumental, jazz-chords, swing]
 hide:
   - toc
 ---

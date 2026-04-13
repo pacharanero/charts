@@ -1,7 +1,6 @@
 ---
 title: "Chelsea Dagger"
-tags: []
-category: Guitar Charts
+tags: [00s, fratellis, garage-rock, indie]
 hide:
   - toc
 ---

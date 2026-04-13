@@ -1,7 +1,6 @@
 ---
 title: "Caravan"
-tags: []
-category: Guitar Charts
+tags: [duke-ellington-arr-brian-setzer, rockabilly, stray-cats, swing-revival]
 hide:
   - toc
 ---

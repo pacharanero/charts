@@ -1,7 +1,6 @@
 ---
 title: "Fairytale Of New York"
-tags: []
-category: Guitar Charts
+tags: [christmas, instrumental, punk, swing]
 hide:
   - toc
 ---

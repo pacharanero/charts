@@ -1,7 +1,6 @@
 ---
 title: "Folsom Prison Blues"
-tags: []
-category: Guitar Charts
+tags: [90s, americana, blues, britpop, country, folk, irish, johnny-cash, rockabilly, tab]
 hide:
   - toc
 ---

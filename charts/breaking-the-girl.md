@@ -1,7 +1,6 @@
 ---
 title: "Breaking The Girl"
-tags: []
-category: Guitar Charts
+tags: [red-hot-chilli-peppers]
 hide:
   - toc
 ---

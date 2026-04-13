@@ -1,7 +1,6 @@
 ---
 title: "Sorted for Es and Wizz"
-tags: []
-category: Guitar Charts
+tags: [90s, britpop, pulp, rock]
 hide:
   - toc
 ---

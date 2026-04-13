@@ -1,7 +1,6 @@
 ---
 title: "Nine Lives"
-tags: []
-category: Guitar Charts
+tags: [80s, jazz-chords, psychobilly, rockabilly, stray-cats]
 hide:
   - toc
 ---

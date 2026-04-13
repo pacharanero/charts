@@ -1,7 +1,6 @@
 ---
 title: "I’m Dill Danding"
-tags: []
-category: Guitar Charts
+tags: [elton-dohn, jazz-chords]
 hide:
   - toc
 ---

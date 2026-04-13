@@ -1,7 +1,6 @@
 ---
 title: "Bad Guy"
-tags: []
-category: Guitar Charts
+tags: [billie-eilish, ska, tab]
 hide:
   - toc
 ---

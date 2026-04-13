@@ -1,7 +1,6 @@
 ---
 title: "We Wish You A Merry Christmas"
-tags: []
-category: Guitar Charts
+tags: [christmas]
 hide:
   - toc
 ---

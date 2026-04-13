@@ -1,7 +1,6 @@
 ---
 title: "Dancing In The Dark"
-tags: []
-category: Guitar Charts
+tags: [70s, bruce-springsteen, heartland-rock, rock]
 hide:
   - toc
 ---

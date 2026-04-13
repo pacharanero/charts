@@ -1,7 +1,6 @@
 ---
 title: "A Little Respect"
-tags: [synthpop, erasure, 80s, electronic]
-category: Guitar Charts
+tags: [80s, erasure, new-wave, synth-pop]
 hide:
   - toc
 ---

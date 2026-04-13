@@ -1,7 +1,6 @@
 ---
 title: "Dancing"
-tags: []
-category: Guitar Charts
+tags: [00s, dance, jazz-chords, kylie-minogue, pop]
 hide:
   - toc
 ---

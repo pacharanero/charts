@@ -1,7 +1,6 @@
 ---
 title: "My Guy"
-tags: []
-category: Guitar Charts
+tags: [60s, jazz-chords, mary-wells, motown, soul]
 hide:
   - toc
 ---

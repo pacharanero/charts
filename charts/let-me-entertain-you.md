@@ -1,7 +1,6 @@
 ---
 title: "Let Me Entertain You"
-tags: []
-category: Guitar Charts
+tags: [00s, 90s, capo, jazz-chords, pop, robbie-williams]
 hide:
   - toc
 ---

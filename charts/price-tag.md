@@ -1,7 +1,6 @@
 ---
 title: "Price Tag"
-tags: []
-category: Guitar Charts
+tags: [jessie-j]
 hide:
   - toc
 ---

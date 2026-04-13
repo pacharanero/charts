@@ -1,7 +1,6 @@
 ---
 title: "Start Wearing Purple"
-tags: []
-category: Guitar Charts
+tags: [gogol-bordello]
 hide:
   - toc
 ---

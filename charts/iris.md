@@ -1,7 +1,6 @@
 ---
 title: "Iris"
-tags: []
-category: Guitar Charts
+tags: [goo-goo-dolls, instrumental, jazz-chords]
 hide:
   - toc
 ---

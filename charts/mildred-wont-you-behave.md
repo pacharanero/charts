@@ -1,7 +1,6 @@
 ---
 title: "Mildred Won’t You Behave?"
-tags: []
-category: Guitar Charts
+tags: [blues, swing, the-bill-elliott-swing-orchestra]
 hide:
   - toc
 ---

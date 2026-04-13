@@ -1,7 +1,6 @@
 ---
 title: "Breakfast at Tiffany's"
-tags: []
-category: Guitar Charts
+tags: [deep-blue-something, soundtrack]
 hide:
   - toc
 ---

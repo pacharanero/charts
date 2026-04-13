@@ -1,7 +1,6 @@
 ---
 title: "Beyond The Sea"
-tags: []
-category: Guitar Charts
+tags: [bobbie-darin, jazz-chords]
 hide:
   - toc
 ---
@@ -11,9 +10,7 @@ hide:
 
 ### INTRO VAMP
 
-x2  
-[F] / [Dm7] / [Gm7] / [C9] /  
-[F] / [Dm7] / [Gm7] / [C9] /  
+[F] / [Dm7] / [Gm7] / [C9] /  x2  
 
 ### VERSE 1
 

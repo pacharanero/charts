@@ -1,7 +1,6 @@
 ---
 title: "Teenage Kicks"
-tags: []
-category: Guitar Charts
+tags: [70s, irish, punk, the-undertones]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Cat's In The Cradle"
-tags: []
-category: Guitar Charts
+tags: [70s, cat-stevens, folk, jazz-chords, singer-songwriter]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "I'm So Excited"
-tags: []
-category: Guitar Charts
+tags: [the-pointer-sisters]
 hide:
   - toc
 ---

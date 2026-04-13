@@ -1,7 +1,6 @@
 ---
 title: "Bigelow 6-200"
 tags: []
-category: Guitar Charts
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Old Red Eyes Is Back"
-tags: []
-category: Guitar Charts
+tags: [the-beautiful-south]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "To Love Somebody"
-tags: []
-category: Guitar Charts
+tags: [instrumental]
 hide:
   - toc
 ---

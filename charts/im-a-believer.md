@@ -1,7 +1,6 @@
 ---
 title: "I’m A Believer"
 tags: []
-category: Guitar Charts
 hide:
   - toc
 ---

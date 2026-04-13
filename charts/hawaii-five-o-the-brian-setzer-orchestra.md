@@ -1,7 +1,6 @@
 ---
 title: "Hawaii Five-O - The Brian Setzer Orchestra"
-tags: []
-category: Guitar Charts
+tags: [e, tab]
 hide:
   - toc
 ---

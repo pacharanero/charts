@@ -1,7 +1,6 @@
 ---
 title: "Make Me Smile (Come Up And See Me)"
-tags: []
-category: Guitar Charts
+tags: [steve-harley-cockney-rebel]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Hole-Hearted"
-tags: []
-category: Guitar Charts
+tags: [80s, 90s, alternative, extreme, rock]
 hide:
   - toc
 ---

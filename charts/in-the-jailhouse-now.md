@@ -1,7 +1,6 @@
 ---
 title: "In The Jailhouse Now"
-tags: []
-category: Guitar Charts
+tags: [americana, country, soggy-bottom-boys, soundtrack]
 hide:
   - toc
 ---

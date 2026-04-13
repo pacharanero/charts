@@ -1,6 +1,5 @@
 ---
-tags: []
-category: Guitar Charts
+tags: [60s, georgie-fame-the-blue-flames, r&b, soul]
 hide:
   - toc
 ---

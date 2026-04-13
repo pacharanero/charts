@@ -1,7 +1,6 @@
 ---
 title: "All Star"
-tags: [rock, smash-mouth, alternative, 90s]
-category: Guitar Charts
+tags: [90s, britpop, instrumental, irish, jazz-chords, ska, smash-mouth]
 hide:
   - toc
 ---

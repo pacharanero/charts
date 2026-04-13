@@ -1,7 +1,6 @@
 ---
 title: "The Importance Of Being Idle"
-tags: []
-category: Guitar Charts
+tags: [90s, britpop, instrumental, oasis, rock]
 hide:
   - toc
 ---

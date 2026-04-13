@@ -1,7 +1,6 @@
 ---
 title: "Stressed Out"
-tags: []
-category: Guitar Charts
+tags: [twenty-one-pilots]
 hide:
   - toc
 ---

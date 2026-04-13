@@ -1,7 +1,6 @@
 ---
 title: "Evenin'"
-tags: []
-category: Guitar Charts
+tags: [40s, blues, electric-blues, t-bone-walker]
 hide:
   - toc
 ---

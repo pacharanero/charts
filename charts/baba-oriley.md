@@ -1,7 +1,6 @@
 ---
 title: "Baba O'Riley"
-tags: []
-category: Guitar Charts
+tags: [60s, british-invasion, rock, the-who]
 hide:
   - toc
 ---

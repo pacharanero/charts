@@ -1,7 +1,6 @@
 ---
 title: "Please Tell ‘Em"
-tags: []
-category: Guitar Charts
+tags: [indigo-swing, jazz-chords, swing]
 hide:
   - toc
 ---

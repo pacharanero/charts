@@ -1,7 +1,6 @@
 ---
 title: "Twist And Shout"
-tags: []
-category: Guitar Charts
+tags: [2-tone, 60s, 70s, british-invasion, rock, ska, the-beatles]
 hide:
   - toc
 ---

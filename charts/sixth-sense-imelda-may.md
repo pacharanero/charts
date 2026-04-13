@@ -1,7 +1,6 @@
 ---
 title: "Sixth Sense"
-tags: []
-category: Guitar Charts
+tags: [imelda-may, irish, jazz-chords, modern, rockabilly]
 hide:
   - toc
 ---

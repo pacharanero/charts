@@ -1,7 +1,6 @@
 ---
 title: "Zoot Suit Riot"
-tags: []
-category: Guitar Charts
+tags: [cherry-poppin-daddies, swing]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Think About It"
-tags: []
-category: Guitar Charts
+tags: [comedy, flight-of-the-conchords, folk, jazz-chords, novelty, punk]
 hide:
   - toc
 ---

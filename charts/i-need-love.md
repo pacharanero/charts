@@ -1,7 +1,6 @@
 ---
 title: "I Need Love"
-tags: []
-category: Guitar Charts
+tags: [guitar, harrison-rimmer, instrumental, modern]
 hide:
   - toc
 ---

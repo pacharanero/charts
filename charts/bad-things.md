@@ -1,7 +1,6 @@
 ---
 title: "Bad Things"
-tags: []
-category: Guitar Charts
+tags: [jace-everett]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Barcelona"
-tags: []
-category: Guitar Charts
+tags: [70s, freddie-mercury-and-montserrat-caballe, glam-rock, jazz-chords, rock]
 hide:
   - toc
 ---

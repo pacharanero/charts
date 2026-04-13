@@ -1,7 +1,6 @@
 ---
 title: "Cheap Thrills"
-tags: []
-category: Guitar Charts
+tags: [sia]
 hide:
   - toc
 ---

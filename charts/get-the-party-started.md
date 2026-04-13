@@ -1,7 +1,6 @@
 ---
 title: "Get The Party Started"
-tags: []
-category: Guitar Charts
+tags: [dick-brave-and-the-backbeats]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The Galaxy Song"
-tags: []
-category: Guitar Charts
+tags: [comedy, instrumental, jazz-chords, monty-python-s-flying-circus-eric-idle-john-du-prez, novelty]
 hide:
   - toc
 ---

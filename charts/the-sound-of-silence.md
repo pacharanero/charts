@@ -1,7 +1,6 @@
 ---
 title: "The Sound Of Silence"
-tags: []
-category: Guitar Charts
+tags: [simon-and-garfunkel]
 hide:
   - toc
 ---

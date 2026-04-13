@@ -1,7 +1,6 @@
 ---
 title: "Wondrous Place"
-tags: []
-category: Guitar Charts
+tags: [billy-fury, jazz-chords]
 hide:
   - toc
 ---

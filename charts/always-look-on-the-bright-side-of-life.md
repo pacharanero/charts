@@ -1,7 +1,6 @@
 ---
 title: "Always Look On The Bright Side Of Life"
-tags: []
-category: Guitar Charts
+tags: [comedy, eric-idle, novelty]
 hide:
   - toc
 ---

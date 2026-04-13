@@ -1,7 +1,6 @@
 ---
 title: "Night and Day"
-tags: []
-category: Guitar Charts
+tags: [cole-porter, jazz-chords]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "People Are Strange"
-tags: []
-category: Guitar Charts
+tags: [60s, psychedelic, rock, the-doors-echo-and-the-bunnymen]
 hide:
   - toc
 ---

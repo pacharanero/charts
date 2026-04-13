@@ -1,7 +1,6 @@
 ---
 title: "Africa"
-tags: [pop, toto, 80s, synth]
-category: Guitar Charts
+tags: [80s, pop, rock, toto]
 hide:
   - toc
 ---

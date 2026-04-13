@@ -1,7 +1,6 @@
 ---
 title: "Don't Sit Under The Apple Tree (Ebm)"
-tags: []
-category: Guitar Charts
+tags: [the-puppini-sisters]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Easy"
-tags: []
-category: Guitar Charts
+tags: [faith-no-more-lionel-ritchie]
 hide:
   - toc
 ---

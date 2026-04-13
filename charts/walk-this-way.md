@@ -1,7 +1,6 @@
 ---
 title: "Walk This Way"
-tags: []
-category: Guitar Charts
+tags: [70s, aerosmith, hard-rock, rock, swing]
 hide:
   - toc
 ---

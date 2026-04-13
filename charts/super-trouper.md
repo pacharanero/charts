@@ -1,7 +1,6 @@
 ---
 title: "Super Trouper"
-tags: []
-category: Guitar Charts
+tags: [70s, abba, disco, heavy-metal, instrumental, jazz-chords, pop, rock]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Sleepwalk"
-tags: []
-category: Guitar Charts
+tags: [big-band, brian-setzer, jump-blues, rockabilly, stray-cats, swing-revival]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "I Was The One"
-tags: []
-category: Guitar Charts
+tags: [50s, recorded-by-elvis-presley, rock-and-roll, rockabilly]
 hide:
   - toc
 ---

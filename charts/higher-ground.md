@@ -1,7 +1,6 @@
 ---
 title: "Higher Ground"
-tags: []
-category: Guitar Charts
+tags: [70s, funk, soul, stevie-wonder]
 hide:
   - toc
 ---

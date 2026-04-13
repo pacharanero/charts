@@ -1,7 +1,6 @@
 ---
 title: "Don’t Fence Me In"
-tags: []
-category: Guitar Charts
+tags: [country]
 hide:
   - toc
 ---

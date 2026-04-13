@@ -1,7 +1,6 @@
 ---
 title: "A Nightingale Sang In Berkeley Square"
-tags: [jazz, standard, swing, sophisticated]
-category: Guitar Charts
+tags: [jazz-chords, maschwitz-manning-sherwin-d, swing]
 hide:
   - toc
 ---

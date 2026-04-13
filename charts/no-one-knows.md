@@ -1,7 +1,6 @@
 ---
 title: "No One Knows"
-tags: []
-category: Guitar Charts
+tags: [70s, glam-rock, jazz-chords, queens-of-the-stone-age, rock]
 hide:
   - toc
 ---

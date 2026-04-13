@@ -1,7 +1,6 @@
 ---
 title: "Get Rhythm"
-tags: []
-category: Guitar Charts
+tags: [90s, americana, blues, britpop, country, instrumental, irish, johnny-cash, rockabilly]
 hide:
   - toc
 ---

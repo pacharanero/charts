@@ -1,7 +1,6 @@
 ---
 title: "High and Dry"
-tags: []
-category: Guitar Charts
+tags: [radiohead, tab]
 hide:
   - toc
 ---

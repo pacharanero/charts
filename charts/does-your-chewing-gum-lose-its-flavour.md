@@ -1,7 +1,6 @@
 ---
 title: "Does Your Chewing Gum Lose Its Flavour"
-tags: []
-category: Guitar Charts
+tags: [50s, folk, lonnie-donegan, skiffle]
 hide:
   - toc
 ---

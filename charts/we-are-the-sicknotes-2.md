@@ -1,7 +1,6 @@
 ---
 title: "We Are The Sicknotes"
-tags: []
-category: Guitar Charts
+tags: [70s, blues, comedy, glam-rock, jazz-chords, modern, queen-sicknotes, rock, uk]
 hide:
   - toc
 ---

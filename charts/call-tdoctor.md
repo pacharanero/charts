@@ -1,7 +1,6 @@
 ---
 title: "Call t'Doctor"
 tags: []
-category: Guitar Charts
 hide:
   - toc
 ---

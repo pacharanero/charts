@@ -1,7 +1,6 @@
 ---
 title: "Mutha'uckas - Flight of the Conchords"
 tags: []
-category: Guitar Charts
 hide:
   - toc
 ---

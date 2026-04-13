@@ -1,7 +1,6 @@
 ---
 title: "The Middle"
-tags: []
-category: Guitar Charts
+tags: [jimmy-eat-world]
 hide:
   - toc
 ---

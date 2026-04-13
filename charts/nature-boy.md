@@ -1,7 +1,6 @@
 ---
 title: "Nature Boy"
-tags: []
-category: Guitar Charts
+tags: [jazz-chords, words-music-by-eden-ahbez]
 hide:
   - toc
 ---

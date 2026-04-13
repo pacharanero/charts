@@ -1,7 +1,6 @@
 ---
 title: "Superstition"
-tags: []
-category: Guitar Charts
+tags: [70s, funk, jazz-chords, soul, stevie-wonder]
 hide:
   - toc
 ---

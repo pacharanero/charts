@@ -1,7 +1,6 @@
 ---
 title: "Take Me To Church"
-tags: []
-category: Guitar Charts
+tags: [comedy, hozier, indie, modern, soul]
 hide:
   - toc
 ---

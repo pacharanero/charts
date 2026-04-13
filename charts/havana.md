@@ -1,7 +1,6 @@
 ---
 title: "Havana"
-tags: []
-category: Guitar Charts
+tags: [camila-cabello, instrumental]
 hide:
   - toc
 ---

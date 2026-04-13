@@ -1,7 +1,6 @@
 ---
 title: "Face The Music And Dance"
-tags: []
-category: Guitar Charts
+tags: [jazz-chords]
 hide:
   - toc
 ---

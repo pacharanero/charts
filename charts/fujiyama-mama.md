@@ -1,7 +1,6 @@
 ---
 title: "Fujiyama Mama"
-tags: []
-category: Guitar Charts
+tags: [rose-maddox]
 hide:
   - toc
 ---

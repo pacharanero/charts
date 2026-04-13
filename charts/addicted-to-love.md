@@ -1,7 +1,6 @@
 ---
 title: "Addicted To Love"
-tags: []
-category: Guitar Charts
+tags: [robert-palmer]
 hide:
   - toc
 ---

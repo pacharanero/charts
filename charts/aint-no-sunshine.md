@@ -1,7 +1,6 @@
 ---
 title: "Ain't No Sunshine"
-tags: [soul, bill-withers, acoustic, classic]
-category: Guitar Charts
+tags: [70s, acoustic, bill-withers, soul]
 hide:
   - toc
 ---

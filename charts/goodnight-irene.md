@@ -1,7 +1,6 @@
 ---
 title: "Goodnight Irene"
-tags: []
-category: Guitar Charts
+tags: [country, leadbelly]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Jilted"
-tags: []
-category: Guitar Charts
+tags: [jazz-chords, puppini-sisters]
 hide:
   - toc
 ---

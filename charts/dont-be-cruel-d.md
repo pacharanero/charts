@@ -1,7 +1,6 @@
 ---
 title: "Dont Be Cruel (D)"
-tags: []
-category: Guitar Charts
+tags: [50s, otis-blackwell-elvis-presley, rock-and-roll, rockabilly]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "You’re Nobody ‘Till Somebody Loves You"
-tags: []
-category: Guitar Charts
+tags: [dean-martin-version, jazz-chords]
 hide:
   - toc
 ---

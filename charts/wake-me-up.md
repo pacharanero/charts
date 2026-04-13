@@ -1,7 +1,6 @@
 ---
 title: "Wake Me Up"
-tags: []
-category: Guitar Charts
+tags: [avicii]
 hide:
   - toc
 ---

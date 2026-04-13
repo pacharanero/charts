@@ -1,7 +1,6 @@
 ---
 title: "Rumble"
-tags: []
-category: Guitar Charts
+tags: [50s, instrumental, link-wray, rock-and-roll]
 hide:
   - toc
 ---

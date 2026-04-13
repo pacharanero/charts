@@ -1,7 +1,6 @@
 ---
 title: "Flip, Flop and Fly"
-tags: []
-category: Guitar Charts
+tags: [50s, bill-haley-his-comets, blues, rock-and-roll, rockabilly]
 hide:
   - toc
 ---

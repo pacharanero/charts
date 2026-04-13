@@ -1,7 +1,6 @@
 ---
 title: "Toxic"
-tags: []
-category: Guitar Charts
+tags: [britney-spears]
 hide:
   - toc
 ---

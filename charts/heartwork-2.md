@@ -1,7 +1,6 @@
 ---
 title: "Heartwork"
-tags: []
-category: Guitar Charts
+tags: [guitar, harrison-rimmer, instrumental, modern]
 hide:
   - toc
 ---

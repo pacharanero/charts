@@ -1,7 +1,6 @@
 ---
 title: "Madness"
-tags: []
-category: Guitar Charts
+tags: [muse, tab]
 hide:
   - toc
 ---

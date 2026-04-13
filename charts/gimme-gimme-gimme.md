@@ -1,7 +1,6 @@
 ---
 title: "Gimme Gimme Gimme"
-tags: []
-category: Guitar Charts
+tags: [70s, abba, disco, heavy-metal, pop, rock]
 hide:
   - toc
 ---

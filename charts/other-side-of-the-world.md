@@ -1,7 +1,6 @@
 ---
 title: "Other Side Of the World"
-tags: []
-category: Guitar Charts
+tags: [jazz-chords, k-t-tunstall]
 hide:
   - toc
 ---

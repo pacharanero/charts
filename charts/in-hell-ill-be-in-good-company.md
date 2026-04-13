@@ -1,7 +1,6 @@
 ---
 title: "In Hell I’ll Be In Good Company"
-tags: []
-category: Guitar Charts
+tags: [the-dead-south]
 hide:
   - toc
 ---

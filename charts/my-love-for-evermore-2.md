@@ -1,7 +1,6 @@
 ---
 title: "My Love For Evermore"
-tags: []
-category: Guitar Charts
+tags: [hillbilly-moon-explosion, modern, rockabilly, swiss]
 hide:
   - toc
 ---

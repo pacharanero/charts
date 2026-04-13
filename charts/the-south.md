@@ -1,7 +1,6 @@
 ---
 title: "The South"
-tags: []
-category: Guitar Charts
+tags: [guitar, harrison-rimmer, instrumental, jazz-chords, modern]
 hide:
   - toc
 ---

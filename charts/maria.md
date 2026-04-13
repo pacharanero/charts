@@ -1,7 +1,6 @@
 ---
 title: "Maria"
-tags: []
-category: Guitar Charts
+tags: [70s, 80s, blondie, new-wave, punk]
 hide:
   - toc
 ---

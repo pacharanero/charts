@@ -1,7 +1,6 @@
 ---
 title: "Why Don’t You Get A Job"
-tags: []
-category: Guitar Charts
+tags: [offspring]
 hide:
   - toc
 ---

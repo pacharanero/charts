@@ -1,7 +1,6 @@
 ---
 title: "The Little Drummer Boy"
 tags: []
-category: Guitar Charts
 hide:
   - toc
 ---

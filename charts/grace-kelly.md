@@ -1,7 +1,6 @@
 ---
 title: "Grace Kelly"
-tags: []
-category: Guitar Charts
+tags: [jazz-chords, mika]
 hide:
   - toc
 ---

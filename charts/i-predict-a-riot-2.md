@@ -1,7 +1,6 @@
 ---
 title: "I Predict A Riot"
-tags: []
-category: Guitar Charts
+tags: [00s, britpop, disney, indie, kaiser-chiefs]
 hide:
   - toc
 ---

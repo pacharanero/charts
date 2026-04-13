@@ -1,7 +1,6 @@
 ---
 title: "Where Is My Mind"
-tags: []
-category: Guitar Charts
+tags: [tab, the-pixies]
 hide:
   - toc
 ---

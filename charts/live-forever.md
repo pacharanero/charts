@@ -1,7 +1,6 @@
 ---
 title: "Live Forever"
-tags: []
-category: Guitar Charts
+tags: [90s, britpop, jazz-chords, oasis, rock]
 hide:
   - toc
 ---

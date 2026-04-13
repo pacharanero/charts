@@ -1,7 +1,6 @@
 ---
 title: "My Girl"
-tags: []
-category: Guitar Charts
+tags: [60s, instrumental, motown, soul, the-temptations]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Hazy Shade Of Winter"
-tags: []
-category: Guitar Charts
+tags: [jazz-chords, simon-and-garfunkel]
 hide:
   - toc
 ---

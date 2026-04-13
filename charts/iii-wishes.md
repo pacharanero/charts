@@ -1,7 +1,6 @@
 ---
 title: "III Wishes"
-tags: []
-category: Guitar Charts
+tags: [terrorvision]
 hide:
   - toc
 ---

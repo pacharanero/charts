@@ -1,7 +1,6 @@
 ---
 title: "Nosey Joe"
-tags: []
-category: Guitar Charts
+tags: [blues, bull-moose-jackson, jazz-chords, swing]
 hide:
   - toc
 ---

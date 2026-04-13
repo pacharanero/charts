@@ -1,7 +1,6 @@
 ---
 title: "I Kissed A Girl"
-tags: []
-category: Guitar Charts
+tags: [katy-perry]
 hide:
   - toc
 ---

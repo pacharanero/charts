@@ -1,7 +1,6 @@
 ---
 title: "Put A Little Love In Your Heart (D)"
-tags: []
-category: Guitar Charts
+tags: [written-by-jackie-de-shannon]
 hide:
   - toc
 ---

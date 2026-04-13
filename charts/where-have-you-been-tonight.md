@@ -1,7 +1,6 @@
 ---
 title: "Where Have You Been Tonight?"
-tags: []
-category: Guitar Charts
+tags: [shed-7]
 hide:
   - toc
 ---

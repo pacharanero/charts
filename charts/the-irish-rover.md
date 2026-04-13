@@ -1,7 +1,6 @@
 ---
 title: "The Irish Rover"
-tags: []
-category: Guitar Charts
+tags: [folk, irish, traditional]
 hide:
   - toc
 ---

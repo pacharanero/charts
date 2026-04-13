@@ -1,7 +1,6 @@
 ---
 title: "You & Me & The Bottle Makes 3 (Tonight Baby)"
-tags: []
-category: Guitar Charts
+tags: [90s, big-bad-voodoo-daddy, neo-swing, swing-revival]
 hide:
   - toc
 ---

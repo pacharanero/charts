@@ -1,7 +1,6 @@
 ---
 title: "Looky There Over There"
-tags: []
-category: Guitar Charts
+tags: [rose-maddox]
 hide:
   - toc
 ---

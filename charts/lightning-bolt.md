@@ -1,7 +1,6 @@
 ---
 title: "Lightning Bolt"
-tags: []
-category: Guitar Charts
+tags: [jake-bugg-original-key-e]
 hide:
   - toc
 ---

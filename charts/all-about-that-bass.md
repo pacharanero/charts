@@ -1,7 +1,6 @@
 ---
 title: "All About That Bass"
-tags: [swing, meghan-trainor, postmodern-jukebox, pop]
-category: Guitar Charts
+tags: [instrumental, jazz, jazz-chords, meghan-trainor-postmodern-jukebox, modern, pop, swing]
 hide:
   - toc
 ---

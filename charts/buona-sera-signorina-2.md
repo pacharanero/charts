@@ -1,7 +1,6 @@
 ---
 title: "Buona Sera, Signorina"
-tags: []
-category: Guitar Charts
+tags: [swing]
 hide:
   - toc
 ---

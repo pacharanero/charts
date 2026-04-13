@@ -1,7 +1,6 @@
 ---
 title: "The Phone Call"
-tags: []
-category: Guitar Charts
+tags: [guitar, instrumental, joe-satriani, rock]
 hide:
   - toc
 ---

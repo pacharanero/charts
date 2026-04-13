@@ -1,7 +1,6 @@
 ---
 title: "You Know I’m No Good"
-tags: []
-category: Guitar Charts
+tags: [00s, amy-winehouse, r&b, soul]
 hide:
   - toc
 ---

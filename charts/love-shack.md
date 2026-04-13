@@ -1,7 +1,6 @@
 ---
 title: "Love Shack"
-tags: []
-category: Guitar Charts
+tags: [b-52, folk]
 hide:
   - toc
 ---

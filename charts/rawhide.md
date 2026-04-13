@@ -1,7 +1,6 @@
 ---
 title: "Rawhide"
-tags: []
-category: Guitar Charts
+tags: [90s, britpop, irish, ned-washington-dimitri-tiomkin-1958]
 hide:
   - toc
 ---

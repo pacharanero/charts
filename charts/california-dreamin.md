@@ -1,7 +1,6 @@
 ---
 title: "California Dreamin’"
-tags: []
-category: Guitar Charts
+tags: [jazz-chords, the-mamas-the-papas]
 hide:
   - toc
 ---

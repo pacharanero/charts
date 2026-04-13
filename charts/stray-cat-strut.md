@@ -1,7 +1,6 @@
 ---
 title: "Stray Cat Strut"
-tags: []
-category: Guitar Charts
+tags: [80s, blues, jazz-chords, psychobilly, rockabilly, the-stray-cats]
 hide:
   - toc
 ---

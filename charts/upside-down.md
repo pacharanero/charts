@@ -1,7 +1,6 @@
 ---
 title: "Upside Down"
-tags: []
-category: Guitar Charts
+tags: [modern, paloma-faith, pop, soul]
 hide:
   - toc
 ---

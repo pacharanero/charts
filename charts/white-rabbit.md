@@ -1,7 +1,6 @@
 ---
 title: "White Rabbit"
-tags: []
-category: Guitar Charts
+tags: [jefferson-airplane, tab]
 hide:
   - toc
 ---

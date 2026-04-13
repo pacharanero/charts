@@ -1,7 +1,6 @@
 ---
 title: "Choo-Choo Ch'Boogie"
 tags: []
-category: Guitar Charts
 hide:
   - toc
 ---

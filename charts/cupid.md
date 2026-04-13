@@ -1,7 +1,6 @@
 ---
 title: "Cupid"
-tags: []
-category: Guitar Charts
+tags: [60s, r&b, sam-cooke, soul]
 hide:
   - toc
 ---

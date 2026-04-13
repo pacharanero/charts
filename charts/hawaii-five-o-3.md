@@ -1,7 +1,6 @@
 ---
 title: "Hawaii Five-O"
-tags: []
-category: Guitar Charts
+tags: [big-band, brian-setzer-orchestra, jump-blues, rockabilly, stray-cats, swing-revival, tab]
 hide:
   - toc
 ---

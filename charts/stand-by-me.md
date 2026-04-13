@@ -1,7 +1,6 @@
 ---
 title: "Stand By Me"
-tags: []
-category: Guitar Charts
+tags: [60s, ben-e-king, instrumental, jazz-chords, soul]
 hide:
   - toc
 ---

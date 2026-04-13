@@ -1,7 +1,6 @@
 ---
 title: "Twenty Flight Rock"
-tags: []
-category: Guitar Charts
+tags: [blues, eddie-cochrane, instrumental]
 hide:
   - toc
 ---

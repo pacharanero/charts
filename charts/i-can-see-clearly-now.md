@@ -1,7 +1,6 @@
 ---
 title: "I Can See Clearly Now"
-tags: []
-category: Guitar Charts
+tags: [90s, britpop, irish, johnny-nash]
 hide:
   - toc
 ---

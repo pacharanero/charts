@@ -1,7 +1,6 @@
 ---
 title: "That’s Alright Mama"
-tags: []
-category: Guitar Charts
+tags: [50s, elvis-presley, rock-and-roll, rockabilly]
 hide:
   - toc
 ---

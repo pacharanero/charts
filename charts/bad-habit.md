@@ -1,7 +1,6 @@
 ---
 title: "Bad Habit"
-tags: []
-category: Guitar Charts
+tags: [imelda-may, instrumental, irish, modern, rockabilly]
 hide:
   - toc
 ---

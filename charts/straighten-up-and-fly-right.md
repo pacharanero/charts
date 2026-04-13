@@ -1,7 +1,6 @@
 ---
 title: "Straighten Up And Fly Right"
-tags: []
-category: Guitar Charts
+tags: [jazz-chords, words-music-by-nat-king-cole-irving-mills]
 hide:
   - toc
 ---

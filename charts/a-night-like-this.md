@@ -1,7 +1,6 @@
 ---
 title: "A Night Like This"
-tags: [jazz, caro-emerald, swing, sophisticated]
-category: Guitar Charts
+tags: [caro-emerald, jazz, jazz-chords, modern, swing]
 hide:
   - toc
 ---

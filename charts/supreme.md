@@ -1,7 +1,6 @@
 ---
 title: "Supreme"
-tags: []
-category: Guitar Charts
+tags: [00s, 90s, jazz-chords, pop, robbie-williams]
 hide:
   - toc
 ---

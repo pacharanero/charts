@@ -1,7 +1,6 @@
 ---
 title: "Teenage Dirtbag"
-tags: []
-category: Guitar Charts
+tags: [jazz-chords, wheatus]
 hide:
   - toc
 ---

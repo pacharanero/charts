@@ -1,7 +1,6 @@
 ---
 title: "I Get A Kick Out Of You"
-tags: []
-category: Guitar Charts
+tags: [jazz-chords]
 hide:
   - toc
 ---

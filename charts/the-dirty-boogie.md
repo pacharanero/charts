@@ -1,7 +1,6 @@
 ---
 title: "The Dirty Boogie"
-tags: []
-category: Guitar Charts
+tags: [big-band, jump-blues, rockabilly, stray-cats, swing-revival, the-brian-setzer-orchestra]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "C’mon Everybody"
-tags: []
-category: Guitar Charts
+tags: [eddie-cochrane, folk]
 hide:
   - toc
 ---

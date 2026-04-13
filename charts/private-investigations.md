@@ -1,7 +1,6 @@
 ---
 title: "Private Investigations"
-tags: []
-category: Guitar Charts
+tags: [80s, blues-rock, dire-straits, rock]
 hide:
   - toc
 ---

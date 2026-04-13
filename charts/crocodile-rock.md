@@ -1,7 +1,6 @@
 ---
 title: "Crocodile Rock"
-tags: []
-category: Guitar Charts
+tags: [elton-john, jazz-chords]
 hide:
   - toc
 ---

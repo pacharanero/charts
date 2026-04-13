@@ -1,7 +1,6 @@
 ---
 title: "The Tide is High"
-tags: []
-category: Guitar Charts
+tags: [70s, 80s, blondie-john-holt, instrumental, new-wave, punk]
 hide:
   - toc
 ---

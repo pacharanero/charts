@@ -1,7 +1,6 @@
 ---
 title: "I Will Survive"
-tags: []
-category: Guitar Charts
+tags: [70s, disco, gloria-gaynor]
 hide:
   - toc
 ---

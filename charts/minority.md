@@ -1,7 +1,6 @@
 ---
 title: "Minority"
-tags: []
-category: Guitar Charts
+tags: [90s, green-day, instrumental, pop-punk, punk]
 hide:
   - toc
 ---

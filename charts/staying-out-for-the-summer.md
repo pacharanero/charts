@@ -1,7 +1,6 @@
 ---
 title: "Staying Out For The Summer"
-tags: []
-category: Guitar Charts
+tags: [90s, britpop, dodgy, rock, tab]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Mmm Mmm Mmm Mmm"
-tags: []
-category: Guitar Charts
+tags: [90s, britpop, capo, crash-test-dummies, irish]
 hide:
   - toc
 ---

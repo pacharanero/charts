@@ -1,7 +1,6 @@
 ---
 title: "The Boy Does Nothing"
-tags: []
-category: Guitar Charts
+tags: [alesha-dixon]
 hide:
   - toc
 ---

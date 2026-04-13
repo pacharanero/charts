@@ -1,7 +1,6 @@
 ---
 title: "Somebody Told Me"
-tags: []
-category: Guitar Charts
+tags: [the-killers-richard-cheese-inspired-version]
 hide:
   - toc
 ---

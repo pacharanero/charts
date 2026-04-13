@@ -1,7 +1,6 @@
 ---
 title: "Suddenly Seymour"
-tags: []
-category: Guitar Charts
+tags: [jazz-chords, little-shop-of-horrors]
 hide:
   - toc
 ---

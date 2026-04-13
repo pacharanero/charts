@@ -1,7 +1,6 @@
 ---
 title: "First Date"
-tags: []
-category: Guitar Charts
+tags: [blink-182, tab]
 hide:
   - toc
 ---

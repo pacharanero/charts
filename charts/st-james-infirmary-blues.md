@@ -1,7 +1,6 @@
 ---
 title: "St James’ Infirmary Blues"
-tags: []
-category: Guitar Charts
+tags: [blues, trad-blues-tom-jones-version]
 hide:
   - toc
 ---

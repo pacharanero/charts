@@ -1,7 +1,6 @@
 ---
 title: "Beggin’"
-tags: []
-category: Guitar Charts
+tags: [m-neskin]
 hide:
   - toc
 ---

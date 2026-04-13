@@ -1,7 +1,6 @@
 ---
 title: "Save My Soul"
-tags: []
-category: Guitar Charts
+tags: [90s, big-bad-voodoo-daddy, blues, neo-swing, swing, swing-revival]
 hide:
   - toc
 ---

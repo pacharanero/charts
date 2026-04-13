@@ -1,7 +1,6 @@
 ---
 title: "Summertime Blues"
-tags: []
-category: Guitar Charts
+tags: [blues, eddie-cochrane]
 hide:
   - toc
 ---

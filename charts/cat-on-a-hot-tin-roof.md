@@ -1,7 +1,6 @@
 ---
 title: "Cat On A Hot Tin Roof"
-tags: []
-category: Guitar Charts
+tags: [big-band, blues, brian-setzer-orchestra, jazz-chords, jump-blues, rockabilly, stray-cats, swing-revival]
 hide:
   - toc
 ---

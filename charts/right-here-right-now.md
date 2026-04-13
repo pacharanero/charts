@@ -1,7 +1,6 @@
 ---
 title: "Right Here, Right Now"
-tags: []
-category: Guitar Charts
+tags: [10s, fat-boy-slim]
 hide:
   - toc
 ---

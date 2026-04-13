@@ -1,7 +1,6 @@
 ---
 title: "Drink"
-tags: []
-category: Guitar Charts
+tags: [alestorm, comedy, folk-metal, metal]
 hide:
   - toc
 ---

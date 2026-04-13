@@ -1,7 +1,6 @@
 ---
 title: "Moondance"
-tags: []
-category: Guitar Charts
+tags: [60s, irish, soul, van-morrison]
 hide:
   - toc
 ---

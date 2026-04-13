@@ -1,7 +1,6 @@
 ---
 title: "Blaydon Races"
-tags: []
-category: Guitar Charts
+tags: [folk, irish, traditional]
 hide:
   - toc
 ---

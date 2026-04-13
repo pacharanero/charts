@@ -1,7 +1,6 @@
 ---
 title: "Black Horse and Cherry Tree"
-tags: []
-category: Guitar Charts
+tags: [jazz-chords, kt-tunstall]
 hide:
   - toc
 ---

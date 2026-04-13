@@ -1,7 +1,6 @@
 ---
 title: "Rumble In Brighton"
-tags: []
-category: Guitar Charts
+tags: [80s, psychobilly, rockabilly, stray-cats]
 hide:
   - toc
 ---

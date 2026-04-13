@@ -1,7 +1,6 @@
 ---
 title: "Paint It Black"
-tags: []
-category: Guitar Charts
+tags: [60s, blues-rock, rock, rolling-stones]
 hide:
   - toc
 ---

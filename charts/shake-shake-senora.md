@@ -1,7 +1,6 @@
 ---
 title: "Shake, Shake, Senora"
-tags: []
-category: Guitar Charts
+tags: [harry-belafonte]
 hide:
   - toc
 ---

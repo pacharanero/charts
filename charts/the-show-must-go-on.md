@@ -1,7 +1,6 @@
 ---
 title: "The Show Must Go On"
-tags: []
-category: Guitar Charts
+tags: [70s, glam-rock, jazz-chords, queen, rock, tab]
 hide:
   - toc
 ---

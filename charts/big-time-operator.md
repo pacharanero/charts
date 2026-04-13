@@ -1,7 +1,6 @@
 ---
 title: "Big Time Operator"
-tags: []
-category: Guitar Charts
+tags: [90s, big-bad-voodoo-daddy, neo-swing, swing-revival]
 hide:
   - toc
 ---

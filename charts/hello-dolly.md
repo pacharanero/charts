@@ -1,7 +1,6 @@
 ---
 title: "Hello Dolly"
-tags: []
-category: Guitar Charts
+tags: [50s, 60s, jazz-chords, louis-armstrong-bobby-darin-version, swing, vocal-jazz]
 hide:
   - toc
 ---

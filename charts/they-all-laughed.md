@@ -1,7 +1,6 @@
 ---
 title: "They All Laughed"
-tags: []
-category: Guitar Charts
+tags: [george-ira-gershwin, jazz-chords]
 hide:
   - toc
 ---

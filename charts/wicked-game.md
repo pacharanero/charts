@@ -1,7 +1,6 @@
 ---
 title: "Wicked Game"
-tags: []
-category: Guitar Charts
+tags: [chris-isaak, instrumental, tab]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Daddy-O"
-tags: []
-category: Guitar Charts
+tags: [blues, instrumental, jazz-chords, steve-lucky-and-the-rumba-bums]
 hide:
   - toc
 ---

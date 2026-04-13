@@ -1,7 +1,6 @@
 ---
 title: "Jeeves and Wooster Theme"
-tags: []
-category: Guitar Charts
+tags: [00s, 10s, 60s, 70s, 80s, 90s, fast-django-reinhardt-style-20s-swing-jazz-feel, punk, ska, swing]
 hide:
   - toc
 ---

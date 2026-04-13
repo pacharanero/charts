@@ -1,7 +1,6 @@
 ---
 title: "Sex Bomb"
-tags: []
-category: Guitar Charts
+tags: [blues, tom-jones-and-mousse-t]
 hide:
   - toc
 ---

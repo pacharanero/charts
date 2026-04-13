@@ -1,7 +1,6 @@
 ---
 title: "Jolene"
-tags: []
-category: Guitar Charts
+tags: [70s, country, dolly-parton]
 hide:
   - toc
 ---

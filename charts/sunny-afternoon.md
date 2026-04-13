@@ -1,7 +1,6 @@
 ---
 title: "Sunny Afternoon"
-tags: []
-category: Guitar Charts
+tags: [60s, british-invasion, kinks, rock]
 hide:
   - toc
 ---

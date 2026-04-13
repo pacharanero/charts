@@ -1,7 +1,6 @@
 ---
 title: "Strangers In The Night"
-tags: []
-category: Guitar Charts
+tags: [jazz-chords]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Everybody Wants To Be A Cat"
-tags: []
-category: Guitar Charts
+tags: [disney, disney-the-aristocats-brian-setzer-version, rockabilly, stray-cats, swing, swing-revival]
 hide:
   - toc
 ---

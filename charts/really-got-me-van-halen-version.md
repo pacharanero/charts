@@ -1,7 +1,6 @@
 ---
 title: "Really Got Me (Van Halen Version)"
 tags: []
-category: Guitar Charts
 hide:
   - toc
 ---

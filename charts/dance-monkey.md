@@ -1,7 +1,6 @@
 ---
 title: "Dance Monkey"
-tags: []
-category: Guitar Charts
+tags: [tones-and-i]
 hide:
   - toc
 ---

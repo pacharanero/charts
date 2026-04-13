@@ -1,7 +1,6 @@
 ---
 title: "Town Called Malice"
-tags: []
-category: Guitar Charts
+tags: [70s, mod, punk, swing, the-jam]
 hide:
   - toc
 ---

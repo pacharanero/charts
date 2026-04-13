@@ -1,7 +1,6 @@
 ---
 title: "Take Another Piece Of My Heart (D) - Dusty Springfield"
-tags: []
-category: Guitar Charts
+tags: [dusty-springfield]
 hide:
   - toc
 ---

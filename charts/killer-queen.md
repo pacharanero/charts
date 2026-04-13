@@ -1,7 +1,6 @@
 ---
 title: "Killer Queen"
-tags: []
-category: Guitar Charts
+tags: [70s, glam-rock, queen, rock]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Bad Moon Rising"
-tags: []
-category: Guitar Charts
+tags: [creedence-clearwater-revival]
 hide:
   - toc
 ---

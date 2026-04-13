@@ -1,7 +1,6 @@
 ---
 title: "Prejudice"
-tags: []
-category: Guitar Charts
+tags: [comedy, jazz-chords, modern, piano, tim-minchin]
 hide:
   - toc
 ---

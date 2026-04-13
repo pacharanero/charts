@@ -1,7 +1,6 @@
 ---
 title: "The Boxer"
-tags: []
-category: Guitar Charts
+tags: [simon-and-garfunkel-c-original-studio-recording-in-b]
 hide:
   - toc
 ---

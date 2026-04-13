@@ -1,7 +1,6 @@
 ---
 title: "Blue Moon"
-tags: []
-category: Guitar Charts
+tags: [jazz-chords]
 hide:
   - toc
 ---

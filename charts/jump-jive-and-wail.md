@@ -1,7 +1,6 @@
 ---
 title: "Jump, Jive and Wail"
-tags: []
-category: Guitar Charts
+tags: [big-band, jazz-chords, jump-blues, rockabilly, stray-cats, swing, swing-revival, the-brian-setzer-orchestra]
 hide:
   - toc
 ---

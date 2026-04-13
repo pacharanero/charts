@@ -1,7 +1,6 @@
 ---
 title: "Creep"
-tags: []
-category: Guitar Charts
+tags: [radiohead]
 hide:
   - toc
 ---

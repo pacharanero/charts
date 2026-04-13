@@ -1,7 +1,6 @@
 ---
 title: "Delilah"
-tags: []
-category: Guitar Charts
+tags: [tom-jones]
 hide:
   - toc
 ---

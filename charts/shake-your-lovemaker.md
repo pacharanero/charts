@@ -1,7 +1,6 @@
 ---
 title: "Shake Your Lovemaker"
-tags: []
-category: Guitar Charts
+tags: [cherry-poppin-daddies, swing]
 hide:
   - toc
 ---

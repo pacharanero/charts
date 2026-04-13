@@ -1,7 +1,6 @@
 ---
 title: "Hallelujah"
-tags: []
-category: Guitar Charts
+tags: [jeff-buckley-version-c]
 hide:
   - toc
 ---

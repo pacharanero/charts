@@ -1,7 +1,6 @@
 ---
 title: "Teenagers"
-tags: []
-category: Guitar Charts
+tags: [blues, mcr]
 hide:
   - toc
 ---

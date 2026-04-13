@@ -1,7 +1,6 @@
 ---
 title: "Back To Black"
-tags: []
-category: Guitar Charts
+tags: [00s, amy-winehouse, r&b, soul]
 hide:
   - toc
 ---

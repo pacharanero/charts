@@ -1,7 +1,6 @@
 ---
 title: "Don't Sit Under The Apple Tree With Anyone Else But Me"
-tags: []
-category: Guitar Charts
+tags: [the-puppini-sisters]
 hide:
   - toc
 ---

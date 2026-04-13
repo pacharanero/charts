@@ -1,7 +1,6 @@
 ---
 title: "The Air That I Breathe"
-tags: []
-category: Guitar Charts
+tags: [instrumental, jazz-chords, the-hollies]
 hide:
   - toc
 ---

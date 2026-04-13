@@ -1,7 +1,6 @@
 ---
 title: "Mystery"
-tags: []
-category: Guitar Charts
+tags: [country, hugh-laurie, jazz-chords]
 hide:
   - toc
 ---

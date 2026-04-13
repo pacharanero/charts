@@ -1,7 +1,6 @@
 ---
 title: "Come On Eileen"
-tags: []
-category: Guitar Charts
+tags: [dexy-s-midnight-runners, instrumental]
 hide:
   - toc
 ---

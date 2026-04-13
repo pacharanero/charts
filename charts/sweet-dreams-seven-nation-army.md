@@ -1,7 +1,6 @@
 ---
 title: "Sweet Dreams / Seven Nation Army"
-tags: []
-category: Guitar Charts
+tags: [eurythmics-white-stripes-arr-pomplemoose]
 hide:
   - toc
 ---

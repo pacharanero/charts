@@ -1,7 +1,6 @@
 ---
 title: "Ever Fallen In Love With Someone (You Shouldn't Have)"
-tags: []
-category: Guitar Charts
+tags: [the-buzzcocks]
 hide:
   - toc
 ---

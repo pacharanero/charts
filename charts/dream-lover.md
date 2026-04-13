@@ -1,7 +1,6 @@
 ---
 title: "Dream Lover"
-tags: []
-category: Guitar Charts
+tags: [50s, 60s, bobby-darin, jazz-chords, swing, vocal-jazz]
 hide:
   - toc
 ---

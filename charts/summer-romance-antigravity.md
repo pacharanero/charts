@@ -1,7 +1,6 @@
 ---
 title: "Summer Romance / Antigravity"
-tags: []
-category: Guitar Charts
+tags: [incubus, jazz-chords, tab]
 hide:
   - toc
 ---

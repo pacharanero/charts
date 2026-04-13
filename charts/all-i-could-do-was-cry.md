@@ -1,7 +1,6 @@
 ---
 title: "All I Could Do Was Cry"
-tags: [blues, etta-james, soul, r-and-b]
-category: Guitar Charts
+tags: [blues, etta-james, r&b, soul]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "London Calling"
-tags: []
-category: Guitar Charts
+tags: [70s, 90s, britpop, instrumental, irish, punk, rock, swing, the-clash]
 hide:
   - toc
 ---

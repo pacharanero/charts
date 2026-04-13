@@ -1,7 +1,6 @@
 ---
 title: "Every Little Thing She Does Is Magic"
-tags: []
-category: Guitar Charts
+tags: [80s, jazz-chords, new-wave, rock, the-police]
 hide:
   - toc
 ---

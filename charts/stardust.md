@@ -1,7 +1,6 @@
 ---
 title: "Stardust"
-tags: []
-category: Guitar Charts
+tags: [key-of-c-4-4]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Danke Schoen"
-tags: []
-category: Guitar Charts
+tags: [wayne-newton]
 hide:
   - toc
 ---

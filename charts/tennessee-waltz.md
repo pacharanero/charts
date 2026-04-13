@@ -1,7 +1,6 @@
 ---
 title: "Tennessee Waltz"
-tags: []
-category: Guitar Charts
+tags: [country, written-1946-by-pee-wee-king-and-redd-stewart]
 hide:
   - toc
 ---

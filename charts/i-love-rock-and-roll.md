@@ -1,7 +1,6 @@
 ---
 title: "I Love Rock And Roll"
-tags: []
-category: Guitar Charts
+tags: [joan-jett, tab]
 hide:
   - toc
 ---

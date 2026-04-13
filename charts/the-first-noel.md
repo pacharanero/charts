@@ -1,7 +1,6 @@
 ---
 title: "The First Noel"
-tags: []
-category: Guitar Charts
+tags: [folk, irish, traditional, traditional-publ-1833]
 hide:
   - toc
 ---

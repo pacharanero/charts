@@ -1,7 +1,6 @@
 ---
 title: "The Wine Song"
-tags: []
-category: Guitar Charts
+tags: [cat-empire, instrumental, jazz-chords]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Johnny B. Goode"
-tags: []
-category: Guitar Charts
+tags: [chuck-berry, country, tab]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The Cup Song"
-tags: []
-category: Guitar Charts
+tags: [anna-kendrick]
 hide:
   - toc
 ---

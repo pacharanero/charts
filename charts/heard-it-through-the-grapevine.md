@@ -1,7 +1,6 @@
 ---
 title: "Heard It Through The Grapevine"
-tags: []
-category: Guitar Charts
+tags: [70s, marvin-gaye, motown, soul]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "You've Got A Friend In Me"
-tags: []
-category: Guitar Charts
+tags: [70s, folk, randy-newman, singer-songwriter, soundtrack]
 hide:
   - toc
 ---

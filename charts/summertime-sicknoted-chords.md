@@ -1,7 +1,6 @@
 ---
 title: "Summertime (Sicknoted Chords)"
-tags: []
-category: Guitar Charts
+tags: [george-gershwin]
 hide:
   - toc
 ---

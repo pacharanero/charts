@@ -1,7 +1,6 @@
 ---
 title: "Golden Brown"
-tags: []
-category: Guitar Charts
+tags: [the-stranglers]
 hide:
   - toc
 ---

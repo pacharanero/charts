@@ -1,7 +1,6 @@
 ---
 title: "She Said"
-tags: []
-category: Guitar Charts
+tags: [plan-b, swing]
 hide:
   - toc
 ---

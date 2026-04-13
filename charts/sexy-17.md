@@ -1,7 +1,6 @@
 ---
 title: "Sexy & 17"
-tags: []
-category: Guitar Charts
+tags: [80s, psychobilly, rockabilly, stray-cats]
 hide:
   - toc
 ---

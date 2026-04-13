@@ -1,7 +1,6 @@
 ---
 title: "Tu Vuo’ fa’ l’Americano"
-tags: []
-category: Guitar Charts
+tags: [jazz-chords, renato-carosone]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "I Touch Myself"
-tags: []
-category: Guitar Charts
+tags: [tab, the-divinyls]
 hide:
   - toc
 ---

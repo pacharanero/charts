@@ -1,7 +1,6 @@
 ---
 title: "You Can't Always Get What You Want"
-tags: []
-category: Guitar Charts
+tags: [60s, blues-rock, rock, rolling-stones]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Brick House"
-tags: []
-category: Guitar Charts
+tags: [the-commodores]
 hide:
   - toc
 ---

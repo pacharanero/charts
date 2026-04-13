@@ -1,7 +1,6 @@
 ---
 title: "The Impossible Dream"
-tags: []
-category: Guitar Charts
+tags: [jazz-chords]
 hide:
   - toc
 ---

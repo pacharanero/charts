@@ -1,7 +1,6 @@
 ---
 title: "Waltzing Matilda"
-tags: []
-category: Guitar Charts
+tags: [australian-traditional, folk, irish, traditional]
 hide:
   - toc
 ---

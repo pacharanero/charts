@@ -1,7 +1,6 @@
 ---
 title: "Bad As Me"
-tags: []
-category: Guitar Charts
+tags: [tom-waits]
 hide:
   - toc
 ---

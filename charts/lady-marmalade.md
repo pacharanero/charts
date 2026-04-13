@@ -1,7 +1,6 @@
 ---
 title: "Lady Marmalade"
-tags: []
-category: Guitar Charts
+tags: [70s, funk, instrumental, patti-labelle, soul]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Stacy's Mom"
-tags: []
-category: Guitar Charts
+tags: [00s, 90s, fountains-of-wayne, jazz-chords, power-pop, tab]
 hide:
   - toc
 ---

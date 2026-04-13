@@ -1,7 +1,6 @@
 ---
 title: "Music to Watch Girls By"
-tags: []
-category: Guitar Charts
+tags: [andy-williams, jazz-chords]
 hide:
   - toc
 ---

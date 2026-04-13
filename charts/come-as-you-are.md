@@ -1,7 +1,6 @@
 ---
 title: "Come As You Are"
-tags: []
-category: Guitar Charts
+tags: [90s, alternative, grunge, instrumental, lounge, modern, nirvana-bebo-best-the-super-lounge-orchestra-version]
 hide:
   - toc
 ---

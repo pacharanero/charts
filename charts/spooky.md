@@ -1,7 +1,6 @@
 ---
 title: "Spooky"
-tags: []
-category: Guitar Charts
+tags: [dusty-springfield, jazz-chords]
 hide:
   - toc
 ---

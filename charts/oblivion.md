@@ -1,7 +1,6 @@
 ---
 title: "Oblivion"
-tags: []
-category: Guitar Charts
+tags: [terrorvision]
 hide:
   - toc
 ---

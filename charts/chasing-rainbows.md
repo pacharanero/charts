@@ -1,7 +1,6 @@
 ---
 title: "Chasing Rainbows"
-tags: []
-category: Guitar Charts
+tags: [90s, britpop, instrumental, jazz-chords, rock, shed-seven]
 hide:
   - toc
 ---

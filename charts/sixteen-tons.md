@@ -1,7 +1,6 @@
 ---
 title: "Sixteen Tons"
-tags: []
-category: Guitar Charts
+tags: [90s, americana, britpop, country, irish, johnny-cash, rockabilly, tab]
 hide:
   - toc
 ---

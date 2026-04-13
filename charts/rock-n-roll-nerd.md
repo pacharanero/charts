@@ -1,7 +1,6 @@
 ---
 title: "Rock n Roll Nerd"
-tags: []
-category: Guitar Charts
+tags: [comedy, modern, piano, tim-minchin]
 hide:
   - toc
 ---

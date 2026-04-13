@@ -1,7 +1,6 @@
 ---
 title: "Jingle Bells"
 tags: []
-category: Guitar Charts
 hide:
   - toc
 ---

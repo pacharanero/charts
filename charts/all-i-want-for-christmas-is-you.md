@@ -1,7 +1,6 @@
 ---
 title: "All I Want For Christmas Is You"
-tags: [christmas, mariah-carey, pop, holiday]
-category: Guitar Charts
+tags: [christmas, jazz-chords, mariah-carey]
 hide:
   - toc
 ---

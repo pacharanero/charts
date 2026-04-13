@@ -1,7 +1,6 @@
 ---
 title: "Silent Night"
-tags: []
-category: Guitar Charts
+tags: [franz-gruber]
 hide:
   - toc
 ---

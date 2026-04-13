@@ -1,7 +1,6 @@
 ---
 title: "Roll Over Beethoven"
-tags: []
-category: Guitar Charts
+tags: [blues, chuck-berry]
 hide:
   - toc
 ---

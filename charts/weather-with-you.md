@@ -1,7 +1,6 @@
 ---
 title: "Weather With You"
-tags: []
-category: Guitar Charts
+tags: [crowded-house, jazz-chords]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Brexit Britain Blues"
-tags: []
-category: Guitar Charts
+tags: [blues, country, folk, tab]
 hide:
   - toc
 ---

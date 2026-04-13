@@ -1,7 +1,6 @@
 ---
 title: "Peacemaker"
-tags: []
-category: Guitar Charts
+tags: [90s, acoustic, green-day, pop-punk, punk]
 hide:
   - toc
 ---

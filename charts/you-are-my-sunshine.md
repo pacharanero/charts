@@ -1,7 +1,6 @@
 ---
 title: "You Are My Sunshine"
-tags: []
-category: Guitar Charts
+tags: [folk, irish, trad, traditional]
 hide:
   - toc
 ---

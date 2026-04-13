@@ -1,7 +1,6 @@
 ---
 title: "Uprising"
-tags: []
-category: Guitar Charts
+tags: [muse]
 hide:
   - toc
 ---

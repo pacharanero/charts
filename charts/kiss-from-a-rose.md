@@ -1,7 +1,6 @@
 ---
 title: "Kiss From A Rose"
-tags: []
-category: Guitar Charts
+tags: [seal]
 hide:
   - toc
 ---

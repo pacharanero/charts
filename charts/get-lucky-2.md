@@ -1,7 +1,6 @@
 ---
 title: "Get Lucky"
-tags: []
-category: Guitar Charts
+tags: [00s, daft-punk-pharrell, electronic, funk, jazz-chords, punk]
 hide:
   - toc
 ---

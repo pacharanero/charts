@@ -1,7 +1,6 @@
 ---
 title: "Sweet Child O’ Mine"
-tags: []
-category: Guitar Charts
+tags: [blues, guns-n-roses, instrumental]
 hide:
   - toc
 ---

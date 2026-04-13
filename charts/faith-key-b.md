@@ -1,7 +1,6 @@
 ---
 title: "Faith (key B)"
-tags: []
-category: Guitar Charts
+tags: [blues, george-michael]
 hide:
   - toc
 ---

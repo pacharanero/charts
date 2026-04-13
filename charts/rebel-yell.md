@@ -1,7 +1,6 @@
 ---
 title: "Rebel Yell"
-tags: []
-category: Guitar Charts
+tags: [billy-idol]
 hide:
   - toc
 ---

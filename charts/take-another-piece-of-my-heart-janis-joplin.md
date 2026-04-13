@@ -1,7 +1,6 @@
 ---
 title: "Take Another Piece of My Heart (A) - Janis Joplin"
-tags: []
-category: Guitar Charts
+tags: [60s, big-brother-the-holding-company-j-joplin, blues-rock, psychedelic]
 hide:
   - toc
 ---

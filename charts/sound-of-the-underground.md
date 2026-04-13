@@ -1,7 +1,6 @@
 ---
 title: "Sound Of The Underground"
-tags: []
-category: Guitar Charts
+tags: [girls-aloud]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Crash"
-tags: []
-category: Guitar Charts
+tags: [tab, the-primitives]
 hide:
   - toc
 ---

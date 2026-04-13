@@ -1,7 +1,6 @@
 ---
 title: "The Monster Mash"
-tags: []
-category: Guitar Charts
+tags: [bobby-picket-and-the-crypt-kickers]
 hide:
   - toc
 ---

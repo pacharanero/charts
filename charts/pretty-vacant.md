@@ -1,7 +1,6 @@
 ---
 title: "Pretty Vacant"
-tags: []
-category: Guitar Charts
+tags: [sex-pistols]
 hide:
   - toc
 ---

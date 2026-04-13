@@ -1,7 +1,6 @@
 ---
 title: "Back Porch"
-tags: []
-category: Guitar Charts
+tags: [presidents-of-the-united-states-of-america, tab]
 hide:
   - toc
 ---

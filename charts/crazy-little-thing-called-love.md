@@ -1,7 +1,6 @@
 ---
 title: "Crazy Little Thing Called Love"
-tags: []
-category: Guitar Charts
+tags: [70s, glam-rock, queen, rock, swing]
 hide:
   - toc
 ---

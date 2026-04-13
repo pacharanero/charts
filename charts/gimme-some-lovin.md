@@ -1,7 +1,6 @@
 ---
 title: "GIMME SOME LOVIN"
-tags: []
-category: Guitar Charts
+tags: [spencer-davis-group]
 hide:
   - toc
 ---

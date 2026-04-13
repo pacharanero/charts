@@ -1,7 +1,6 @@
 ---
 title: "Until I Found You (C)"
-tags: []
-category: Guitar Charts
+tags: [stephen-sanchez]
 hide:
   - toc
 ---

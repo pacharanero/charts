@@ -1,7 +1,6 @@
 ---
 title: "Bruce's Philosopher Song"
-tags: []
-category: Guitar Charts
+tags: [comedy, monty-python, novelty]
 hide:
   - toc
 ---

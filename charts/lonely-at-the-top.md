@@ -1,7 +1,6 @@
 ---
 title: "Lonely At The Top"
-tags: []
-category: Guitar Charts
+tags: [70s, randy-newman, singer-songwriter, soundtrack]
 hide:
   - toc
 ---

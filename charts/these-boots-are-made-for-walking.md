@@ -1,7 +1,6 @@
 ---
 title: "These Boots Are Made For Walking"
-tags: []
-category: Guitar Charts
+tags: [nancy-sinatra]
 hide:
   - toc
 ---

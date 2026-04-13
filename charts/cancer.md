@@ -1,7 +1,6 @@
 ---
 title: "Cancer"
-tags: []
-category: Guitar Charts
+tags: [jazz-chords, my-chemical-romance]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The Most Beautiful Girl In The Room"
-tags: []
-category: Guitar Charts
+tags: [comedy, flight-of-the-conchords, folk, jazz-chords, novelty]
 hide:
   - toc
 ---

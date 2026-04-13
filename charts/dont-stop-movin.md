@@ -1,7 +1,6 @@
 ---
 title: "Don’t Stop Movin’"
-tags: []
-category: Guitar Charts
+tags: [blues, swing, the-beautiful-south]
 hide:
   - toc
 ---

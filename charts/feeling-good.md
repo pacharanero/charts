@@ -1,7 +1,6 @@
 ---
 title: "Feeling Good"
-tags: []
-category: Guitar Charts
+tags: [blues, instrumental, jazz, nina-simone-gm-muse-bm-kit-frost-or-kitty-lee-em, soul]
 hide:
   - toc
 ---

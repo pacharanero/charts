@@ -1,7 +1,6 @@
 ---
 title: "Jesus In A Camper Van"
-tags: []
-category: Guitar Charts
+tags: [00s, 90s, instrumental, jazz-chords, pop, robbie-williams]
 hide:
   - toc
 ---

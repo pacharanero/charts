@@ -1,7 +1,6 @@
 ---
 title: "Mama Told Me Not To Come"
-tags: []
-category: Guitar Charts
+tags: [jazz-chords, stereophonics-tom-jones]
 hide:
   - toc
 ---

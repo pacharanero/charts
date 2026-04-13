@@ -1,7 +1,6 @@
 ---
 title: "Beautiful Day (Dm)"
-tags: []
-category: Guitar Charts
+tags: [90s, celtic, folk-rock, instrumental, irish, levellers-feat-imelda-may, modern, rockabilly]
 hide:
   - toc
 ---

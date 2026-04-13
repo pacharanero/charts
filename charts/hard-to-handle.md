@@ -1,7 +1,6 @@
 ---
 title: "Hard To Handle"
-tags: []
-category: Guitar Charts
+tags: [90s, blues-rock, instrumental, southern-rock, tab, the-black-crowes-version]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The Final Countdown"
-tags: []
-category: Guitar Charts
+tags: [europe, jazz-chords]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The Birth of the Blues"
-tags: []
-category: Guitar Charts
+tags: [blues, jazz-chords]
 hide:
   - toc
 ---

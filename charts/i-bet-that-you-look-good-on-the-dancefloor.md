@@ -1,7 +1,6 @@
 ---
 title: "I Bet That You Look Good On The Dancefloor"
-tags: []
-category: Guitar Charts
+tags: [00s, arctic-monkeys, indie, rock]
 hide:
   - toc
 ---

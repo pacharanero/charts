@@ -1,7 +1,6 @@
 ---
 title: "Red Dwarf Outro Solo"
-tags: []
-category: Guitar Charts
+tags: [howard-goodall]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Welcome To The Wilderness Years"
-tags: []
-category: Guitar Charts
+tags: [guitar, harrison-rimmer, instrumental, modern]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Fever - Little Willie John ([recording](https://music.youtube.com/watch?v=szz27BuDgeU&si=KcsPo8cVVqlJ0BcJ))"
-tags: []
-category: Guitar Charts
+tags: [jazz-chords]
 hide:
   - toc
 ---

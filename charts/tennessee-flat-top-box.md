@@ -1,7 +1,6 @@
 ---
 title: "Tennessee Flat Top Box"
-tags: []
-category: Guitar Charts
+tags: [90s, britpop, capo, irish, roseanne-cash]
 hide:
   - toc
 ---

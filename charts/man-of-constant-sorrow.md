@@ -1,7 +1,6 @@
 ---
 title: "Man of Constant Sorrow"
-tags: []
-category: Guitar Charts
+tags: [americana, country, soggy-bottom-boys, soundtrack]
 hide:
   - toc
 ---

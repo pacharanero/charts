@@ -1,7 +1,6 @@
 ---
 title: "Merry Christmas, Everyone"
-tags: []
-category: Guitar Charts
+tags: [christmas, rockabilly, shakin-stevens]
 hide:
   - toc
 ---

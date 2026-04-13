@@ -1,7 +1,6 @@
 ---
 title: "Poison"
-tags: []
-category: Guitar Charts
+tags: [alice-cooper]
 hide:
   - toc
 ---

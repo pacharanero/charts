@@ -1,7 +1,6 @@
 ---
 title: "Good Riddance (Time Of Your Life)"
-tags: []
-category: Guitar Charts
+tags: [90s, green-day, jazz-chords, pop-punk, punk]
 hide:
   - toc
 ---

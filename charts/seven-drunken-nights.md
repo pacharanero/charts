@@ -1,7 +1,6 @@
 ---
 title: "Seven Drunken Nights"
-tags: []
-category: Guitar Charts
+tags: [folk, irish, the-dubliners-trad, traditional]
 hide:
   - toc
 ---

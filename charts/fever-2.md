@@ -1,7 +1,6 @@
 ---
 title: "Fever"
-tags: []
-category: Guitar Charts
+tags: [peggy-lee]
 hide:
   - toc
 ---

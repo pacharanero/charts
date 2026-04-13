@@ -1,7 +1,6 @@
 ---
 title: "Son Of A Preacher Man"
-tags: []
-category: Guitar Charts
+tags: [dusty-springfield]
 hide:
   - toc
 ---

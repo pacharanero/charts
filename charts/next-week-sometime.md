@@ -1,7 +1,6 @@
 ---
 title: "Next Week, Sometime"
-tags: []
-category: Guitar Charts
+tags: [90s, big-bad-voodoo-daddy, neo-swing, swing-revival]
 hide:
   - toc
 ---

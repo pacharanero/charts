@@ -1,7 +1,6 @@
 ---
 title: "Moonlight Kiss"
-tags: []
-category: Guitar Charts
+tags: [raul-malo]
 hide:
   - toc
 ---

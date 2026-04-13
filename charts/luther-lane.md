@@ -1,7 +1,6 @@
 ---
 title: "Luther Lane"
-tags: []
-category: Guitar Charts
+tags: [cherry-poppin-daddies, folk, jazz-chords]
 hide:
   - toc
 ---

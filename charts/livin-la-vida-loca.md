@@ -1,7 +1,6 @@
 ---
 title: "Livin’ La Vida Loca"
 tags: []
-category: Guitar Charts
 hide:
   - toc
 ---

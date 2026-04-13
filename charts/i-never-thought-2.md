@@ -1,7 +1,6 @@
 ---
 title: "I Never Thought"
-tags: []
-category: Guitar Charts
+tags: [danish, modern, rockabilly, the-hillbilly-hellcats]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Bad, Bad, Leroy Brown"
 tags: []
-category: Guitar Charts
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Are You Gonna Go My Way?"
-tags: []
-category: Guitar Charts
+tags: [00s, 90s, lenny-kravitz, rock]
 hide:
   - toc
 ---

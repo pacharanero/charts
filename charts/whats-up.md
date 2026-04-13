@@ -1,7 +1,6 @@
 ---
 title: "What's Up?"
 tags: []
-category: Guitar Charts
 hide:
   - toc
 ---

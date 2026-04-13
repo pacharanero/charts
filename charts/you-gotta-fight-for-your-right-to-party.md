@@ -1,7 +1,6 @@
 ---
 title: "(You Gotta) Fight For Your Right (To Party)"
-tags: [rock, beastie-boys, rap-rock, party]
-category: Guitar Charts
+tags: [beastie-boys]
 hide:
   - toc
 ---

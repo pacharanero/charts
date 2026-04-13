@@ -1,7 +1,6 @@
 ---
 title: "Live and Let Die"
-tags: []
-category: Guitar Charts
+tags: [jazz-chords, wings]
 hide:
   - toc
 ---

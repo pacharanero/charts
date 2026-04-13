@@ -1,7 +1,6 @@
 ---
 title: "Ruby"
-tags: []
-category: Guitar Charts
+tags: [00s, britpop, indie, kaiser-chiefs]
 hide:
   - toc
 ---

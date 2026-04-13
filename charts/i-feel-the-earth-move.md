@@ -1,7 +1,6 @@
 ---
 title: "I Feel The Earth Move"
-tags: []
-category: Guitar Charts
+tags: [70s, carole-king, folk, jazz-chords, singer-songwriter]
 hide:
   - toc
 ---

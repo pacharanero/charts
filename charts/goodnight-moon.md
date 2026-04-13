@@ -1,7 +1,6 @@
 ---
 title: "Goodnight Moon"
-tags: []
-category: Guitar Charts
+tags: [shivaree]
 hide:
   - toc
 ---

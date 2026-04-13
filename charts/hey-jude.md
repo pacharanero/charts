@@ -1,7 +1,6 @@
 ---
 title: "Hey Jude"
-tags: []
-category: Guitar Charts
+tags: [jazz-chords, lennon-mccartney]
 hide:
   - toc
 ---

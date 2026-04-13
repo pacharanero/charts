@@ -1,7 +1,6 @@
 ---
 title: "Under The Boardwalk"
-tags: []
-category: Guitar Charts
+tags: [50s, 60s, doo-wop, soul, the-drifters]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "In The Air Tonight"
-tags: []
-category: Guitar Charts
+tags: [phil-collins]
 hide:
   - toc
 ---

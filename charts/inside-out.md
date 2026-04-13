@@ -1,7 +1,6 @@
 ---
 title: "Inside Out"
-tags: []
-category: Guitar Charts
+tags: [imelda-may, irish, modern, rockabilly]
 hide:
   - toc
 ---

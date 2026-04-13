@@ -1,7 +1,6 @@
 ---
 title: "O Christmas Tree"
-tags: []
-category: Guitar Charts
+tags: [christmas, folk, irish, traditional]
 hide:
   - toc
 ---

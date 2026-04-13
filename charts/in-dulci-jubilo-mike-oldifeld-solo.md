@@ -1,7 +1,6 @@
 ---
 title: "In Dulci Jubilo"
-tags: []
-category: Guitar Charts
+tags: [j-s-bach-mike-oldfield-solo-tab]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Baby When You’re Gone"
-tags: []
-category: Guitar Charts
+tags: [00s, americana, bryan-adams, jazz-chords, rock]
 hide:
   - toc
 ---

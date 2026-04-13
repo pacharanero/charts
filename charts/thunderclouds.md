@@ -1,7 +1,6 @@
 ---
 title: "Thunderclouds"
-tags: []
-category: Guitar Charts
+tags: [lsd-sia]
 hide:
   - toc
 ---

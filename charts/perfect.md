@@ -1,7 +1,6 @@
 ---
 title: "Perfect"
-tags: []
-category: Guitar Charts
+tags: [80s, acoustic, fairground-attraction, folk]
 hide:
   - toc
 ---

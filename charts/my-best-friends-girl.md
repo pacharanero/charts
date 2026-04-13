@@ -1,7 +1,6 @@
 ---
 title: "My Best Friend’s Girl"
-tags: []
-category: Guitar Charts
+tags: [cars]
 hide:
   - toc
 ---

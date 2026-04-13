@@ -1,7 +1,6 @@
 ---
 title: "Canvas Bags"
-tags: []
-category: Guitar Charts
+tags: [comedy, modern, piano, tim-minchin]
 hide:
   - toc
 ---

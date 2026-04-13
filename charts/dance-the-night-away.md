@@ -1,7 +1,6 @@
 ---
 title: "Dance The Night Away"
-tags: []
-category: Guitar Charts
+tags: [jazz-chords, the-mavericks]
 hide:
   - toc
 ---

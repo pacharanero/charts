@@ -1,7 +1,6 @@
 ---
 title: "Jackie"
-tags: []
-category: Guitar Charts
+tags: [christmas, country, jazz-chords, scott-walker-jacques-brel-walker-brothers]
 hide:
   - toc
 ---

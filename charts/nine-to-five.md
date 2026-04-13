@@ -1,7 +1,6 @@
 ---
 title: "Nine To Five"
-tags: []
-category: Guitar Charts
+tags: [70s, blues, country, dolly-parton-sicknoted-key-e, folk]
 hide:
   - toc
 ---

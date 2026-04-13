@@ -1,7 +1,6 @@
 ---
 title: "Rock this Town"
-tags: []
-category: Guitar Charts
+tags: [80s, big-band, blues, jump-blues, psychobilly, rockabilly, stray-cats, stray-cats-brian-setzer-orchestra, swing-revival]
 hide:
   - toc
 ---

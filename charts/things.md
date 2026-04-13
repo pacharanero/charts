@@ -1,7 +1,6 @@
 ---
 title: "Things"
-tags: []
-category: Guitar Charts
+tags: [50s, 60s, bobby-darin, swing, vocal-jazz]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Dancing With Myself"
-tags: []
-category: Guitar Charts
+tags: [billy-idol]
 hide:
   - toc
 ---

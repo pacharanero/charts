@@ -1,7 +1,6 @@
 ---
 title: "Let’s Have a Party"
-tags: []
-category: Guitar Charts
+tags: [50s, elvis-presley, rock-and-roll, rockabilly]
 hide:
   - toc
 ---

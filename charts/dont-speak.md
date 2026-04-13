@@ -1,7 +1,6 @@
 ---
 title: "Don’t Speak"
-tags: []
-category: Guitar Charts
+tags: [90s, jazz-chords, no-doubt, pop, ska]
 hide:
   - toc
 ---

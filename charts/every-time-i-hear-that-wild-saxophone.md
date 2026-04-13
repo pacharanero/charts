@@ -1,7 +1,6 @@
 ---
 title: "(Every Time I Hear) That Wild Saxophone"
-tags: []
-category: Guitar Charts
+tags: [80s, psychobilly, rockabilly, stray-cats]
 hide:
   - toc
 ---

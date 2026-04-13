@@ -1,7 +1,6 @@
 ---
 title: "Englishman In New York"
-tags: []
-category: Guitar Charts
+tags: [jazz-chords, sting]
 hide:
   - toc
 ---

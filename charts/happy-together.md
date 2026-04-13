@@ -1,7 +1,6 @@
 ---
 title: "Happy Together"
-tags: []
-category: Guitar Charts
+tags: [jazz-chords, the-turtles-em-original-key-f-m]
 hide:
   - toc
 ---

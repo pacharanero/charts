@@ -1,7 +1,6 @@
 ---
 title: "We Have All The Time In The World"
-tags: []
-category: Guitar Charts
+tags: [louis-armstrong-flc]
 hide:
   - toc
 ---

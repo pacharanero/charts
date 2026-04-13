@@ -1,7 +1,6 @@
 ---
 title: "'49 Mercury Blues"
-tags: [rockabilly, blues, brian-setzer, guitar]
-category: Guitar Charts
+tags: [big-band, blues, brian-setzer-orchestra, jump-blues, rockabilly, stray-cats, swing-revival]
 hide:
   - toc
 ---

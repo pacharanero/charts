@@ -1,7 +1,6 @@
 ---
 title: "I Just Wanna Make Love To You"
-tags: []
-category: Guitar Charts
+tags: [blues, etta-james, r&b, soul]
 hide:
   - toc
 ---

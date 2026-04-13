@@ -1,7 +1,6 @@
 ---
 title: "Dream A Little Dream Of Me"
-tags: []
-category: Guitar Charts
+tags: [ella-fitzgerald-music-by-fabian-andre-and-wilbur-schwandt, instrumental, jazz, jazz-chords, swing, vocal-jazz]
 hide:
   - toc
 ---

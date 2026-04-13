@@ -1,7 +1,6 @@
 ---
 title: "Liquor Store"
-tags: []
-category: Guitar Charts
+tags: [blues, devil-doll]
 hide:
   - toc
 ---

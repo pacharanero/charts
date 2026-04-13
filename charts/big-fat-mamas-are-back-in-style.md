@@ -1,7 +1,6 @@
 ---
 title: "Big Fat Mamas Are Back In Style"
-tags: []
-category: Guitar Charts
+tags: [dana-gillespie]
 hide:
   - toc
 ---

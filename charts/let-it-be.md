@@ -1,7 +1,6 @@
 ---
 title: "Let It Be"
-tags: []
-category: Guitar Charts
+tags: [60s, beatles, british-invasion, rock]
 hide:
   - toc
 ---

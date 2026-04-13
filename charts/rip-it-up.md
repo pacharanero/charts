@@ -1,7 +1,6 @@
 ---
 title: "Rip It Up"
-tags: []
-category: Guitar Charts
+tags: [little-richard]
 hide:
   - toc
 ---

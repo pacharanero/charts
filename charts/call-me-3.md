@@ -1,7 +1,6 @@
 ---
 title: "Call Me"
-tags: []
-category: Guitar Charts
+tags: [hillbilly-moon-explosion, modern, rockabilly, swiss]
 hide:
   - toc
 ---

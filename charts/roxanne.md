@@ -1,7 +1,6 @@
 ---
 title: "Roxanne"
-tags: []
-category: Guitar Charts
+tags: [80s, new-wave, rock, the-police]
 hide:
   - toc
 ---

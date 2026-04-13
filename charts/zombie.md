@@ -1,7 +1,6 @@
 ---
 title: "Zombie"
-tags: []
-category: Guitar Charts
+tags: [90s, alternative, instrumental, irish, the-cranberries]
 hide:
   - toc
 ---

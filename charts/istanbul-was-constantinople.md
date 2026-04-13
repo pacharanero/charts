@@ -1,7 +1,6 @@
 ---
 title: "Istanbul (was Constantinople)"
-tags: []
-category: Guitar Charts
+tags: [jimmy-kennedy-nat-simon-1953]
 hide:
   - toc
 ---

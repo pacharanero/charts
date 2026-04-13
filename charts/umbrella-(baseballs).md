@@ -1,7 +1,6 @@
 ---
-title: "Umbrella"
-tags: []
-category: Guitar Charts
+title: "Umbrella (The Baseballs)"
+tags: [modern, rockabilly, the-baseballs]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "You Can't Do That (A)"
-tags: []
-category: Guitar Charts
+tags: [2-tone, 60s, 70s, british-invasion, rock, ska, the-beatles-orig-g]
 hide:
   - toc
 ---

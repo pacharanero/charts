@@ -1,7 +1,6 @@
 ---
 title: "500 Miles"
-tags: [pop, proclaimers, scottish, acoustic]
-category: Guitar Charts
+tags: [90s, acoustic, folk-rock, scottish, the-proclaimers]
 hide:
   - toc
 ---

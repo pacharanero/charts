@@ -1,7 +1,6 @@
 ---
 title: "Big Spender"
-tags: []
-category: Guitar Charts
+tags: [jazz-chords, shirley-bassey]
 hide:
   - toc
 ---

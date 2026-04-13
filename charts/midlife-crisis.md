@@ -1,7 +1,6 @@
 ---
 title: "Midlife Crisis"
-tags: []
-category: Guitar Charts
+tags: [faith-no-more]
 hide:
   - toc
 ---

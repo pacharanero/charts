@@ -1,7 +1,6 @@
 ---
 title: "Tribute"
-tags: []
-category: Guitar Charts
+tags: [00s, comedy-rock, hard-rock, tenacious-d]
 hide:
   - toc
 ---

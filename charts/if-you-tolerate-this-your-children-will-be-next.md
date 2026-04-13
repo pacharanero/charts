@@ -1,7 +1,6 @@
 ---
 title: "If You Tolerate This Your Children Will Be Next"
-tags: []
-category: Guitar Charts
+tags: [manic-street-preachers]
 hide:
   - toc
 ---

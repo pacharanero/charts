@@ -1,7 +1,6 @@
 ---
 title: "Let’s Live It Up"
-tags: []
-category: Guitar Charts
+tags: [big-band, brian-setzer-orchestra, jazz-chords, jump-blues, rockabilly, stray-cats, swing-revival]
 hide:
   - toc
 ---

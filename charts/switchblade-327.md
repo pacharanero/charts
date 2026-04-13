@@ -1,7 +1,6 @@
 ---
 title: "Switchblade 327"
-tags: []
-category: Guitar Charts
+tags: [big-band, brian-setzer-orchestra, jazz-chords, jump-blues, rockabilly, stray-cats, swing-revival]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Shake, Rattle, and Roll"
-tags: []
-category: Guitar Charts
+tags: [50s, elvis-presley-version-chords-e-a7-b7, rock-and-roll, rockabilly]
 hide:
   - toc
 ---

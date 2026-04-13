@@ -1,7 +1,6 @@
 ---
 title: "Merry Christmas Everybody"
-tags: []
-category: Guitar Charts
+tags: [70s, christmas, glam-rock, rock, slade]
 hide:
   - toc
 ---

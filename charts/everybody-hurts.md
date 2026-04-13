@@ -1,7 +1,6 @@
 ---
 title: "Everybody Hurts"
-tags: []
-category: Guitar Charts
+tags: [80s, alternative, r-e-m, rock]
 hide:
   - toc
 ---

@@ -1,7 +1,6 @@
 ---
 title: "I've Been Everywhere, Man"
-tags: []
-category: Guitar Charts
+tags: [90s, americana, britpop, country, irish, johnny-cash, rockabilly, ska]
 hide:
   - toc
 ---

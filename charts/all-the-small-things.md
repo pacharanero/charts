@@ -1,7 +1,6 @@
 ---
 title: "All The Small Things"
-tags: [punk, blink-182, pop-punk, alternative]
-category: Guitar Charts
+tags: [90s, blink-182, instrumental, pop-punk, punk]
 hide:
   - toc
 ---

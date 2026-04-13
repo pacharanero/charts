@@ -1,7 +1,6 @@
 ---
 title: "Down Under"
-tags: []
-category: Guitar Charts
+tags: [men-at-work]
 hide:
   - toc
 ---

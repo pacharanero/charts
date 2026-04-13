@@ -1,7 +1,6 @@
 ---
 title: "Bad Case Of Lovin’ You"
-tags: []
-category: Guitar Charts
+tags: [robert-palmer]
 hide:
   - toc
 ---
