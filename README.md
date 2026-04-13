@@ -34,8 +34,8 @@ Also, in most charts the chords are on a separate line above the lyrics, which I
 
 * Some key guitar phrases may be included in tablature, any tablature sections will be in a fixed-width font like this:
 
-```
-# intro riff to Johhny B Goode - Chuck Berry
+```text
+# intro riff to Johnny B Goode - Chuck Berry
 e|-----------------------|-5/6-6-6-5/6-6-6-5/6-6-|-6---------------------|-------------  
 B|-------------------6-8-|-5/6-6-6-5/6-6-6-5/6-6-|-6--9--8--6------------|-------------  
 G|---------------6/7-----|-----------------------|-------------6h7-------|-------------  

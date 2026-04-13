@@ -247,7 +247,6 @@ Backing vocal parts are indicated several ways:
 
 Guitar tablature for intros, solos, or signature riffs uses standard ASCII tab format with string labels (high e at top, low E at bottom), inside a fenced code block:
 
-````markdown
 ```text
 e|--12-10---------10--|
 B|--------12-10-------|
@@ -256,7 +255,6 @@ D|--------------------|
 A|--------------------|
 E|--------------------|
 ```
-````
 
 Where only the highest strings are relevant, partial tab is acceptable.
 
