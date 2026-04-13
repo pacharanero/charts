@@ -4,7 +4,6 @@ hide:
   - toc
 ---
 
-# Guitar Charts
 
 All guitar charts in the collection, following the Marcus Baw Charting System (MBCS) conventions. Each chart includes chord progressions, lyrics, and performance notes formatted for easy reading during live performance.
 
