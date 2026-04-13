@@ -16,7 +16,7 @@ Some [Am] things in life are [D] bad, they can [G] really make you [Em] mad
 When you're [Am] chewing on life's [D] gristle  
 Don't [G] grumble, give a [Em] whistle  
 And [Am] this'll help things turn out for the [D7] best  
-   
+
 ### CHORUS
 
 And [G]always [Em]look on the [Am]bright [D7]side of [G]life **[Em][Am][D7]**  
@@ -47,7 +47,7 @@ Life's a piece of shit when you look at it
 Life's a laugh and death's a joke, it's true  
 You'll see it's all a show, keep 'em laughing as you go  
 Just remember that the last laugh is on you  
-   
+
 ### CHORUS
 
 ### CHORUS - KEY CHANGE UP 1 TONE

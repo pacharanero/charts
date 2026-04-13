@@ -43,7 +43,7 @@ But you got dreams he’ll never take away
 In the same boat with a lot of your friends  
 Waitin’ for the day your ship’ll come in  
 And the tide’s gonna turn an’ it’s all gonna roll your way  
-   
+
 ### CHORUS A (again)
 
 ### CHORUS C

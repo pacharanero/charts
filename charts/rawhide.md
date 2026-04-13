@@ -23,7 +23,7 @@ Through [Em]rain and wind and weather, [G]hell-[D]bent for [Em] leather,
 [G] wishin’ [D] my [Em] gal was by my [B7]side.  
 [Em] All the things I’m missin’, good [G] vittles, [D] love and [Em] kissin’,  
 are  [G] waitin’ [D] at the [Em] end of [B7] my [Em] ride.  
-   
+
 ### CHORUS
 
 [Em]Move ’em on, head ’em up, head ’em up, move ’em on,  
@@ -41,7 +41,7 @@ Keep [Fm] movin’ movin’ movin’, though they are disapprovin’
 [Eb] soon we’ll be [Fm]livin’ high and [C7] wide.  
 [Fm] My heart’s calculatin’, my [Ab] true love [Eb] will be [Fm] waitin’,  
 - be [Ab] waitin’ [Eb] at the [Fm] end of [C7]  my [Fm] ride.  
-   
+
 ### CHORUS
 
 [Fm] Move ’em on, head ’em up, head ’em up, move ’em on,  

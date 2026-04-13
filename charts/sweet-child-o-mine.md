@@ -23,7 +23,7 @@ And if I [G] stared too long, I'd probably break down and [D] cry
 ### INSTRUMENTAL
 
 over | D   | D   | C   | C   | G   | G   | D   | D   |  
-   
+
 [Verse 2]She's got eyes of the bluest skies, As if they thought of rain  
 I'd hate to look into those eyes, And see an ounce of pain  
 Her hair reminds me of a warm safe place, Where as a child I'd hide  
@@ -37,17 +37,17 @@ over | D   | D   | C   | C   | G   | G   | D   | D   | **[x2]
 ### CHORUS
 
 simile [x3]  
-   
+
 ### SOLO PART 1
 
 over | Em    | C     | B7    | Am    | **[x 4]  
 ### SOLO PART 2
 
 over | Em      | G       | A       | C   D G | **[x4]  
-   
+
 ### OUTRO
 
-   
+
 [Em]Where do we go, [G] Where do we go, [A] Where do we go now---- [C] [D]  
 Where do we go, Where do we go, Where do we go now----  
 Where do we go, Sweet child, Where do we go now----  

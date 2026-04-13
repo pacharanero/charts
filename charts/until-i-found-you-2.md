@@ -47,5 +47,5 @@ Oh, I used to say
     
 ### CHORUS
 
-   
+
 ***(poco rit) [Bb]***  

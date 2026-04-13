@@ -18,7 +18,7 @@ You've done it [F] all, you've [C] broken every [G] code
 [F] For only [C] metal, what a [G] bore.  
 ***[oooh-oooh-lalala] [F]** Blue eyes, blue [C] eyes,*  
 ***[oooh-oooh-lalala] [F]** How can you [C] tell so many [G] lies?*  
-   
+
 ### CHORUS
 
 [Dm]** Come up and [F] see me, make me [C] smile **[G]  
@@ -31,10 +31,10 @@ Maybe you'll tarry for a while?
 It's just a test, a game for us to play,  
 Win or lose, it's hard to smile  
 Resist, resist, It's from yourself you have to hide  
-   
+
 ### CHORUS
 
-   
+
 ### SOLO
 
 [F]  [Em]  [F]  [Am]  [Em]  [Em]  [G]  [G]  

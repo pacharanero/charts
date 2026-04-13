@@ -12,14 +12,14 @@ hide:
 
 [Spoken]** "I wanna talk to you."  
 "The last time we talked, Mr. Smith, you reduced me to tears. I promise you it won't happen again."  
-   
+
 ### VERSE 1
 
 [G]** Do I attract you? Do I repulse you with my [D/F#]queasy [G]smile?  
 [G] Am I too dirty? Am I too flirty? Do I [D/F#] like what you [G] like?  
 I could be wholesome, I could be loathsome, I guess I'm a little bit shy  
 Why don't you like me, why don't you like me, Without making me try?  
-   
+
 ### PRE-CHORUS
 
 [G]** I tried to be like [Dm7] Grace Kelly, mmmm  
@@ -33,18 +33,18 @@ I could be [G] vi[G/A]-o[G/B]-let [C] sky
 [C] I could be hurtful, I could be [Dsus4] purple, I could be [D] anything you like  
 Gotta be green, gotta be mean, Gotta be everything more  
 Why don't you like me? Why don't you like me? Why don't you walk out the door!  
-   
+
 ### VERSE 2
 
 How can I help it, how can I help it, How can I help what you think?  
 Hello my baby, hello my baby Putting my life on the brink  
 Why don't you like me, why don't you like me, Why don't you liiike yourself?  
 Should I bend over? Should I look older, Just to be put on your shelf?  
-   
+
 ### PRE-CHORUS
 
 [Chorus]  
-   
+
 ### BRIDGE
 
 [C] [Cm7]** Say what you want to [G] satisfy yourself  
@@ -52,7 +52,7 @@ Should I bend over? Should I look older, Just to be put on your shelf?
     
 ### CHORUS
 
-   
+
 ### CHORUS
 
     

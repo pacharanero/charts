@@ -39,10 +39,10 @@ And you can't fight the tears that ain't coming
 Or the moment of truth in your lies  
 When everything feels like the movies  
 Yeah, you bleed just to know you're alive   
-   
+
 ### CHORUS
 
-   
+
 ### INSTRUMENTAL
 
 Bm  Bm/A  D  D  Bm  Bm/A  G  G (octaves) **[x 2]  
@@ -53,7 +53,7 @@ Bm  Bm/A  G  G **[x 4] [SOLO IN D MAJOR SCALE]**
 ### CHORUS
 
 [Chorus]  
-   
+
 ### OUTRO
 
 I just [Bm] want you to [A] know who I [G] am  

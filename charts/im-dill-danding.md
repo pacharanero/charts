@@ -11,7 +11,7 @@ hide:
 ### INTRO
 
 [Am]** / / / [Dm/A] / / / [E/A] / / / / / **[F/A] [G/A]** **x 2  
-   
+
 ### VERSE 1
 
 [A]** You could never know [D/A] what it's like.  
@@ -35,14 +35,14 @@ Looking like a [Dm7] true survivor, feeling like a [Fmaj7] little [G] kid.
 Picking up the [Dm7] pieces of my life without you on my [E7] mind.  
 I'm still [Am] standing. [Dm7] Yeah yeah [E7] yeah! [F/E] [G/E]  
 I'm still [Am] standing. [Dm7] Yeah yeah [E7] yeah! [F/E] [G/E]  
-   
+
 ### VERSE 3
 
 Once I never could hope to win.  
 You’re starting down the road of leaving me again.  
 The threats you made were meant to cut me down.  
 And if our love was just a circus you'd be a clown by now.  
-   
+
 ### CHORUS
 
     

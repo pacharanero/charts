@@ -31,7 +31,7 @@ Gimme gimme gimme a man after midnight
 Take me through the darkness to the break of the day  
 
 ***Stop, then [Arpeggio INTRO] again***  
-   
+
 ### VERSE 2
 
 ***(Movie stars)** Find the end of the rainbow, with that fortune to win*  

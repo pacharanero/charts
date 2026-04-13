@@ -9,14 +9,14 @@ hide:
 ### INTRO
 
 Am  G  F  E (same ostinato over choruses)  
-   
+
 ### CHORUS 1
 
 Too many mutha uckas, uckin' with my shi-  
 There's too many mutha uckas, uckin’ with my shi- (uckin, with my shi-)  
 Too many mutha uckas, uckin' with my shi-  
 How many mutha uckas? Too many to count, mutha uckas.  
-   
+
 ### VERSE 1
 
 [Am]** I pay my mutha uckin' rent fortnightly,  
@@ -27,7 +27,7 @@ Makes my payment short my rent comes back to me,
 Minus a twenty-five, dollar penalty, so you fee me 'cos of your mutha uckin' fee,  
 Read the words on my ATM slip, it said;  
 We're all mutha uckas and we're uckin' with your shi-, come on!  
-   
+
 ### CHORUS 2
 
 Too many mutha uckas, uckin' with my shi- (My transaction shi-)  
@@ -44,7 +44,7 @@ Cut the cra-... I need my red delicious.
 Tells me as a Kiwi that my money isn't valid,  
 Gonna dice the mutha ucka, like a mutha uckin' fruit salad.  
 Granny Smith...  avocado... B-...-A...mango…and pop an apple in his ass, yeah!  
-   
+
 ### CHORUS 3
 
 Too many mutha uckas, uckin' with my shi-  

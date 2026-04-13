@@ -37,7 +37,7 @@ that [E/D]carried [E/C]Luther [E/B] Lane
 I got [E7] good and drunk for Luther Lane  
 
 [Interlude/Solo] | [A] / / / | [D7] / / / | [A] / / / | [D7] / / / |  
-   
+
 ### VERSE 2
 
 Six white horses pulled the carriage,  

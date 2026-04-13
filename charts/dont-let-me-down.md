@@ -8,8 +8,6 @@ hide:
 
 ## The Beatles
 
- 
-
 ### INTRO
 
 [E] [riff]  
@@ -18,14 +16,14 @@ hide:
 
 [E]** Don't let me [F#m] down. Don't let me [E] down  
 Don't let me [F#m] down. Don't let me [E] down  
-   
+
 ### VERSE
 
 [E]** Nobody ever loved me like she [F#m7] does,  
 oo she does, yes she [Emaj7] does  
 And if somebody loved me like she [F#m] do me  
 oo she do me, yes she [E] does  
-   
+
 ### CHORUS
 
 ### BRIDGE
@@ -44,7 +42,7 @@ oo she done me, she does me good
     
 ### CHORUS
 
-   
+
 ### SOLO
 
 electric piano over [CHORUS] chords  

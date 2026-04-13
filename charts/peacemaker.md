@@ -8,7 +8,7 @@ hide:
 
 ## Green Day
 
-   
+
 ### INTRO
 
 [Bm] [fast strumming on acoustic]  
@@ -29,7 +29,7 @@ Death to the girl at the end of the serenade
 Vend[F#]etta, sweet vendetta. This Ber[Bm]etta of the night  
 This [Em] fire and the [Bm] desire.  
 [F#] Shots ringing out on a holy [Bm] parasite  
-   
+
 ### VERSE 2
 
 I am a killjoy from Detroit. I drink from a well of rage  

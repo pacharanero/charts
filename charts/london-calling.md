@@ -9,7 +9,7 @@ hide:
 ## The Clash
 
 [Intro](staccato strumming, all downstrokes) Em Em Em Em F F F F  x6  
-   
+
 ### VERSE 1
 
 [Em] London calling to the [F] faraway towns  
@@ -29,7 +29,7 @@ Em                       G
 [Em] Engines stop running, but [G] I have no fear  
 Em                             D (let ring)  
 'Cause [Em] London is drowning, and I [D] live by the river  
-   
+
 ### VERSE 2
 
 London calling to the imitation zone  
@@ -40,7 +40,7 @@ London calling, and I don't wanna shout
 But while we were talking, I saw you nodding out  
 London calling, see we ain't got no high  
 Except for that one with the yellowy eyes  
-   
+
 ### CHORUS 2
 
 The ice age is coming, the sun's zooming in  
@@ -51,17 +51,17 @@ A nuclear error, but I have no fear
 ### INTERLUDE
 
 (Play the same as the verse) Em F Em G  x4  
-   
+
 ### CHORUS 2 (again)
 
 ### INSTRUMENTAL (Em Em Em Em F F F F  x4)
 
-   
+
 Now get this! [Verse 3] London calling, yes, I was there, too  
 An' you know what they said? Well, some of it was true!  
 London calling at the top of the dial, After all this, won't you give me a smile?  
 London calling  
-   
+
 ### OUTRO
 
 [Em] I never felt so much alike [fading] alike alike alike...  

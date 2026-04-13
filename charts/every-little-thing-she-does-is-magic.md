@@ -11,7 +11,7 @@ hide:
 ### INTRO
 
 G A G/B A/C# (x2)  
-   
+
 ### VERSE 1
 
 Though I've [G] tried before to [A] tell her, of the  
@@ -26,7 +26,7 @@ Every little [A] thing she does is [D] magic, everything she
 [A] do just turn me [D] on, even though my [A] life before was [D] tragic,  
 now I know my [A] love for her goes on **[Bb] [F] [G] [A]**  
 ***(back to verse chords) [G] [A] [G/B] [A/C#]***  
-   
+
 ### VERSE 2
 
 Do I have to tell the story of a thousand rainy days since we first met?  
@@ -37,7 +37,7 @@ It's a big enough umbrella, but it's always me that ends up getting wet
 Every little thing she does is magic, everything she do just turn me on  
 Even though my life before was tragic, now I know my love for her goes on  
 ***[Bb] [F] [Bb] [F] (to bridge)***  
-   
+
 ### BRIDGE
 
 [Bb]**I resolve to [Am]call her up, a [Gm7]thousand times a [Am]day  

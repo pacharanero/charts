@@ -17,15 +17,15 @@ hide:
 she's waiting like an [A] iceberg  
 waiting to [Em7] change -but she's cold [A] inside  
 she wants to be [G] like the water  
-   
+
 D Dsus2 Dsus4 Dsus2  
-   
+
 ### VERSE 2
 
 all the muscles, tighten in her face  
 buries her soul, in one embrace  
 they're one and the same -  just like the water  
-   
+
 ### CHORUS
 
 [D] the  fire fades [Bm] away, most of every [G] day  
@@ -33,7 +33,7 @@ is full of [G/F#] tired [Em7] excuses, but it's [A] too hard to [D] say
 I wish it was [Bm] simple, but we give up [G] easily  
 you're [G/F#] close [Em7] enough to see [A] that  
 [Bm] you're [A] the [G] other side of the [A] world to me  
-   
+
 D Dsus2 Dsus4 Dsus2  
     
 ### VERSE 2

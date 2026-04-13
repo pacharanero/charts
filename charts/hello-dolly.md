@@ -21,7 +21,7 @@ one of your old [Gm7] favourite [C7] songs
 from way back [Fmaj7] when [E7b9] [E7]  
 So, [Am] take her [Em] wrap, fellas, [Am] find her an empty [Em] lap, fellas..  
 [D7] Dolly'll never [G7] go away again **[C7]   KEY CHANGE [G#7]**  
-   
+
 ### VERSE 2
 
 [LOUDER - guitar chords up, drums fuller]  

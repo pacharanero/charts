@@ -41,7 +41,7 @@ And you think love is to pray, but I’m sorry I don’t pray that way
 
 Don’t touch me please…I cannot stand the way you tease...  
 I love you but you hurt me so… So I’ve got to pack my things and go  
-   
+
 ### PRE-CHORUS
 
 [Repeat chorus to end - 18 bars total]  

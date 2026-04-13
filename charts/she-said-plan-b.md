@@ -15,7 +15,7 @@ hide:
 She said I love you baby oh oh oh ohh   
 [D#m] She said I love you more than words can say  
 She said I love you bayayayayby [A#]  
-   
+
 ***[STRAIGHT 4s FEEL] [4 BARS INTERLUDE]***  
 
 ***[4s / OFFBEATS] [D#m]** So I said, what you sayin’ girl it can’t be right -*  
@@ -24,9 +24,9 @@ She said I love you bayayayayby [A#]
 [A#] when I first heard love goes down, sthg started burning in my heart              
 [F#] I said stop this crazy [A#] talk                    
 [F#] and leave right now and close the [A#] door  
-   
+
 ***[4s / OFFBEATS] [HOOK/CHORUS again] \+** (‘yes you did’)*  
-   
+
 ### GUITAR SOLO (strings pattern maybe?)
 
 [RAP - OMIT] so now I'm up in the courts pleading my case in a witness box  

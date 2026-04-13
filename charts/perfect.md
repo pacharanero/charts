@@ -14,7 +14,7 @@ I don't [G] want half-hearted love [D] affairs
 I need [G] someone who really [D] cares  
 Life is too [G] short to play silly [Bm] games  
 I've promised [G] myself I won't [A]  do that [D] again [G A D - D7]  
-   
+
 ***[CHORUS**]*               
 It's got to [G] be... **[A] [D]** perfect  
 it's got to [G] be… **[A] [D]** worth it, yeah  

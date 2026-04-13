@@ -26,10 +26,8 @@ And I said - what about - Breakfast at Tiffany's,
 she said I think I remember the film  
 and as I recall I think we both kind of liked it,  
 and I said well that's the one thing we've got  
-   
 ### SOLO
 
-   
 ### VERSE 2 (+ ornamented clean guitar fills)
 
 I see you, the only one who knew me  
@@ -40,14 +38,12 @@ when so much is left undone
     
 ### CHORUS
 
-   
 ### VERSE 1
 
 ### CHORUS
 
 ### SOLO (again)
 
-   
 ### CHORUS
 
 ### SOLO (again)

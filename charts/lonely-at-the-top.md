@@ -11,13 +11,13 @@ hide:
 ### INTRO
 
 chords with horns line **[Gm] [D7]** **(x2)  
-   
+
 ### VERSE 1
 
 [Gm] I've been a-[D7] round the world  
 [Gm] had my pick of [D7] any girl.  
 [Gm] You'd think I'd be [D#] happy; but I'm [Gm] not [D7]  
-   
+
 ### CHORUS 1
 
 [Cm]Everybody [D7]knows my name,  

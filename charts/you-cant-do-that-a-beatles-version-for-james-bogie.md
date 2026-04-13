@@ -8,7 +8,7 @@ hide:
 
 ## The Beatles (orig G)
 
-   
+
 ### INTRO (riff)
 
 ----------6---5-6--  
@@ -35,14 +35,14 @@ Everybody's [C#7] gree-**[F#m]-**een,
 'cause [Bm] I'm the one who [C#m] won your [A7] love,  
 But if they'd [C#m] see--[F#m]--en, you [Bmaj] talking that way  
 they'd [C7] laugh in my [E] face  
-   
+
 ### VERSE 3
 
 So please listen to me if you wanna stay mine,  
 I can't help my feelings I go outta my mind  
 I'm gonna let you down, and leave you flat  
 Because I told you before, oh you can’t do that   
-   
+
 ### BRIDGE
 
 Everybody's gree--en, 'cause I'm the one who won your love,  

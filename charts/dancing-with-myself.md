@@ -18,13 +18,13 @@ When there's no-one else in sight
 In the crowded lonely night  
 Well I wait so long for my love vibration  
 And I'm dancing with myself  
-   
+
 ### CHORUS
 
 Oh-oh dancing with myself, oh-oh dancing with myself  
 When there's nothing to lose and there's nothing to prove  
 And I'm dancing with myself, oh oh oh  
-   
+
 ### VERSE 2
 
 If I looked all over the world  
@@ -35,25 +35,25 @@ So let's sink another drink
 'Cause it'll give me time to think  
 If I had the chance I'd ask the world to dance  
 And not be dancing with myself  
-   
+
 ### CHORUS
 
      
 ### SOLO
 
 [B]   [E]   [B]   [E]   [B]   [E]   [B]   [B]  
-   
+
 ### VERSE 2 AGAIN
 
-   
+
 ### CHORUS
 
-   
+
 ### SOLO
 
 [B]   [E]   [B]   [B]  
-   
+
 ### VERSE 3
 
-   
+
 ### OUTRO

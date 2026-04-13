@@ -9,7 +9,6 @@ hide:
 ### INTRO
 
 [Gm]       [Cm]   [Dm]   (+ 18th fret note top string occasionally)  
-   
 ### VERSE
 
 Ohhhh… Girl, tonight we're gonna make love  
@@ -45,7 +44,6 @@ You're wearing that baggy old ugly t-Shirt you got from your work several years 
 
 I remove my clothes very, very clumsily, tripping sensuously over my pants.      Now I'm naked except for my socks  
 And you know when I'm down to just my socks - what time it is.  
-   
 ### CHORUS
 
 It's business, it's business time, (You know when I'm down to my socks,  

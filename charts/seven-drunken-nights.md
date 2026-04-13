@@ -8,7 +8,7 @@ hide:
 
 ## The Dubliners (Trad)
 
-   
+
 ### VERSE 1
 
 [C]As I went home in Monday night, as drunk as drunk could be,  
@@ -44,7 +44,7 @@ Are you drunk, you drunk, you silly old fool? Still you cannot see,
 That's a lovely tin whistle that my mother had given to me.  
 Well, it's many a-day I travelled, a hundred miles and more,  
 But tobacco in a tin whistle sure I never saw before.  
-   
+
 ### VERSE 4
 
 As I went home on Thursday night, as drunk as drunk could be,  

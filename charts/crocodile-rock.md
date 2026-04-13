@@ -12,7 +12,7 @@ hide:
 ### INTRO
 
 [G] [Em] [C] [D]  
-   
+
 ### VERSE 1
 
 I [G] remember when rock was young  
@@ -23,7 +23,7 @@ But the biggest kick I ever got
 was doin' a thing called the Crocodile Rock  
 While the other kids were rockin' 'round the clock  
 we were hoppin' and boppin' to the Crocodile Rock, well  
-   
+
 ### CHORUS
 
 [Em]** Crocodile Rockin' is something shockin'  
@@ -32,11 +32,11 @@ when your [A7] feet just can't keep still
 [E] Oh, Lawdy mamma those Friday nights  
 when [A7] Susie wore her dresses tight and  
 [D7] the Crocodile Rockin' was out of [Csus4]sight**[C] [Csus4][C] [Csus4][C]**  
-   
+
 ### INTERLUDE
 
 [G] [Em] [C] [D]** laaaaaa lalalalalalaaaaaa etc  
-   
+
 ### VERSE 2
 
 But the years went by and rock just died  
@@ -47,7 +47,7 @@ but they'll never kill the thrills we got
 burnin' up to the Crocodile Rock,  
 Learning fast as the weeks went past  
 we really thought the Crocodile Rock would last, well  
-   
+
 ### CHORUS (again)
 
 ### INTERLUDE (again)
@@ -56,7 +56,7 @@ we really thought the Crocodile Rock would last, well
 
 ### CHORUS (again)
 
-   
+
 ### OUTRO
 
 [G] [Em] [C] [D]  

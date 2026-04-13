@@ -9,7 +9,7 @@ hide:
 ## Dusty Springfield
 
 [GUITAR INTRO]  
-   
+
 ### VERSE
 
 [E]** Billy Ray was a preacher's son  

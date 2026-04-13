@@ -8,14 +8,14 @@ hide:
 
 ## Simon and Garfunkel (C - original studio recording in B)
 
-   
+
 ### INTRO
 
 guitar riff to [C] Travis picking  
 eb|--3p0---0-----0-----0--------------|  
 Bb|------3---3-----3-----3---1-----1--|  
 Gb|------------3-----0-----0---3p0----|  
-   
+
 ### VERSE 1
 
 [C]** I am just a poor boy, though my story's [C/B] seldom [Am] told  
@@ -38,7 +38,7 @@ Lie la lie [Am] Lie-la [G]la la la la lie la la la la [C] lie
 Asking only workman's wages I come looking for a job but I get no offers  
 Just a come-on from the whores on Seventh Avenue. I do declare  
 There were times when I was so lonesome I took some comfort there La-la-la-la-la  
-   
+
 ### SOLO / INTERLUDE
 
 | C  | C C/B Am | G7 | G7 | C | C C/B Am | G7 | F  | C G7 | F | C |  

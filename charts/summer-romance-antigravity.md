@@ -29,7 +29,7 @@ I think I was dreaming of some thoughts that were seemingly possible... with you
 So I call you on the tin can phone…  
 We rendezvous a quarter-to, and make sure we're alone…  
 I think I've found a way for you and I to finally fly… Free  
-   
+
 ### PRE-CHORUS
 
 [Em7]** When we get there [Dmaj7] We're gonna fly so  
@@ -41,20 +41,20 @@ While we [Dmaj7] experience anti-gr[Bb dim]avity-[Bm]i-y-i-y-i-y-i-y
 [Bm7]**Aaan-tiii-graaa-viii-tyyy **[vocal sus2]  
 [Bm7]Aaan-tiii-graaa-viii-tyyy [vocal sus2 resolves]  
 ***[G5]       [F#5][E5][F#5][D5][C#5]    [B5] (cuban style rhythm)***  
-   
+
 ### VERSE
 
 [Bm7]** **[sleigh bells!] jazzy feel, guitar octaves  
 For years, I kept it to myself….  
 Now potentialities abound and living under my shelf…  
 Simply choose your destination from the diamond canopy…. And we'll be there  
-   
+
 ### PRE-CHORUS
 
 then [CHORUS]  
 
 ***[SAX SOLO] over [PRE-CHORUS]** **[CHORUS] chords***  
-   
+
 ### OUTRO
 
 [Bm7]**Aaan-tiii-graaa-viii-tyyy (vocal sus2)  

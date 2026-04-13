@@ -11,7 +11,7 @@ hide:
 ### INTRO
 
 [Cm]  
-   
+
 ### VERSE
 
 [Cm]** Baby, can't you see  - I'm calling  
@@ -33,7 +33,7 @@ With a [Cm] taste of the poison [Eb] paradise
 I'm [Ab] addicted to you, Don't you [G] know that you're toxic?  
 [clean guitar break] And I [Ab] love what you do  
 Don't you [G] know that you're toxic?  
-   
+
 ### VERSE
 
 It's getting late - To give you up  
@@ -44,14 +44,14 @@ Slowly, it's taking over me
 
 It's in the air and it's all around  
 Can you feel me now?  
-   
+
 ### CHORUS
 
 [Chorus]  
 ### CHORUS
 
 [Chorus]  
-   
+
 ### OUTRO (same chords as chorus)
 
 Intoxicate me now, With your lovin' now  
