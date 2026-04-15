@@ -1,6 +1,6 @@
 ---
 title: "Venus"
-tags: [60s, psychedelic, rock, venus-shocking-blue]
+tags: [60s, psychedelic, rock]
 hide:
   - toc
 ---

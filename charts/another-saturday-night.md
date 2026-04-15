@@ -1,6 +1,6 @@
 ---
 title: "Another Saturday Night"
-tags: [60s, r&b, sam-cooke, soul]
+tags: [60s, r&b, soul]
 hide:
   - toc
 ---

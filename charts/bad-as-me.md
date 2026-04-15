@@ -1,6 +1,5 @@
 ---
 title: "Bad As Me"
-tags: [tom-waits]
 hide:
   - toc
 ---

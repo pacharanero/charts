@@ -1,6 +1,6 @@
 ---
 title: "Welcome To The Wilderness Years"
-tags: [guitar, harrison-rimmer, instrumental, modern]
+tags: [guitar, instrumental, modern]
 hide:
   - toc
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Let Me Entertain You"
-tags: [00s, 90s, capo, jazz-chords, pop, robbie-williams]
+tags: [00s, 90s, capo, pop]
 hide:
   - toc
 ---

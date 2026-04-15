@@ -1,6 +1,5 @@
 ---
 title: "Sweet Dreams / Seven Nation Army"
-tags: [eurythmics-white-stripes-arr-pomplemoose]
 hide:
   - toc
 ---

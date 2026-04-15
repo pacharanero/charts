@@ -1,6 +1,6 @@
 ---
 title: "Flip, Flop and Fly"
-tags: [50s, bill-haley-his-comets, blues, rock-and-roll, rockabilly]
+tags: [50s, blues, rock-and-roll, rockabilly]
 hide:
   - toc
 ---

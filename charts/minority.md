@@ -1,6 +1,6 @@
 ---
 title: "Minority"
-tags: [90s, green-day, instrumental, pop-punk, punk]
+tags: [90s, instrumental, pop-punk, punk]
 hide:
   - toc
 ---

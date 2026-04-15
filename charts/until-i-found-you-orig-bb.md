@@ -1,6 +1,6 @@
 ---
 title: "Until I Found You"
-tags: [instrumental, stephen-sanchez]
+tags: [instrumental]
 hide:
   - toc
 ---

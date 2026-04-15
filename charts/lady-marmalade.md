@@ -1,6 +1,6 @@
 ---
 title: "Lady Marmalade"
-tags: [70s, funk, instrumental, patti-labelle, soul]
+tags: [70s, funk, instrumental, soul]
 hide:
   - toc
 ---

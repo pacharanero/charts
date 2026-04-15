@@ -1,6 +1,6 @@
 ---
 title: "Basket Case"
-tags: [90s, green-day, pop-punk, punk]
+tags: [90s, pop-punk, punk]
 hide:
   - toc
 ---

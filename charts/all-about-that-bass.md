@@ -1,6 +1,6 @@
 ---
 title: "All About That Bass"
-tags: [instrumental, jazz, jazz-chords, meghan-trainor-postmodern-jukebox, modern, pop, swing]
+tags: [instrumental, jazz, modern, pop, swing]
 hide:
   - toc
 ---

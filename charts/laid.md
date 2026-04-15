@@ -1,6 +1,6 @@
 ---
 title: "Laid"
-tags: [60s, 70s, blues, folk, funk, james, r&b, singer-songwriter, soul]
+tags: [60s, 70s, blues, folk, funk, r&b, singer-songwriter, soul]
 hide:
   - toc
 ---

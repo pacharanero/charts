@@ -1,6 +1,5 @@
 ---
 title: "Beyond The Sea"
-tags: [bobbie-darin, jazz-chords]
 hide:
   - toc
 ---

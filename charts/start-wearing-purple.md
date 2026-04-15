@@ -1,6 +1,5 @@
 ---
 title: "Start Wearing Purple"
-tags: [gogol-bordello]
 hide:
   - toc
 ---

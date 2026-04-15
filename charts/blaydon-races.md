@@ -1,6 +1,6 @@
 ---
 title: "Blaydon Races"
-tags: [folk, irish, traditional]
+tags: [folk, traditional]
 hide:
   - toc
 ---

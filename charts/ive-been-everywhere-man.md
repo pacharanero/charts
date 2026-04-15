@@ -1,6 +1,6 @@
 ---
 title: "I've Been Everywhere, Man"
-tags: [90s, americana, britpop, country, irish, johnny-cash, rockabilly, ska]
+tags: [90s, americana, britpop, country, rockabilly, ska]
 hide:
   - toc
 ---

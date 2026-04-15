@@ -1,6 +1,6 @@
 ---
 title: "C’mon Everybody"
-tags: [eddie-cochrane, folk]
+tags: [folk]
 hide:
   - toc
 ---

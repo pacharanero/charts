@@ -1,6 +1,5 @@
 ---
 title: "Oblivion"
-tags: [terrorvision]
 hide:
   - toc
 ---

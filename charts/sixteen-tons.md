@@ -1,6 +1,6 @@
 ---
 title: "Sixteen Tons"
-tags: [90s, americana, britpop, country, irish, johnny-cash, rockabilly, tab]
+tags: [90s, americana, britpop, country, rockabilly, tab]
 hide:
   - toc
 ---

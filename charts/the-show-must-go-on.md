@@ -1,6 +1,6 @@
 ---
 title: "The Show Must Go On"
-tags: [70s, glam-rock, jazz-chords, queen, rock, tab]
+tags: [70s, glam-rock, rock, tab]
 hide:
   - toc
 ---

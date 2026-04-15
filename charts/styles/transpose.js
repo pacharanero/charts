@@ -4,6 +4,22 @@
 (function () {
   'use strict';
 
+  const ITALIC_STORAGE_KEY = 'mbcs-italic';
+  function readItalicPref() {
+    try {
+      const v = localStorage.getItem(ITALIC_STORAGE_KEY);
+      return v === null ? true : v === 'on';
+    } catch (_) { return true; }
+  }
+  function writeItalicPref(on) {
+    try { localStorage.setItem(ITALIC_STORAGE_KEY, on ? 'on' : 'off'); } catch (_) {}
+  }
+  function applyItalicPref(on) {
+    document.documentElement.setAttribute('data-mbcs-italic', on ? 'on' : 'off');
+  }
+  // Apply the stored preference ASAP so body text doesn't flash upright.
+  applyItalicPref(readItalicPref());
+
   const SHARPS = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B'];
   const FLATS  = ['C', 'Db', 'D', 'Eb', 'E', 'F', 'Gb', 'G', 'Ab', 'A', 'Bb', 'B'];
   const NOTE_INDEX = {
@@ -151,6 +167,7 @@
       <span class="mbcs-t-val" aria-live="polite">0</span>
       <button type="button" class="mbcs-t-btn" data-dir="1" title="Up one semitone">+</button>
       <button type="button" class="mbcs-t-btn mbcs-t-reset" title="Reset">↺</button>
+      <button type="button" class="mbcs-t-btn mbcs-t-italic" title="Toggle italic body text" aria-pressed="false">I</button>
       <button type="button" class="mbcs-t-btn mbcs-t-print" title="Print (A4, single page)" aria-label="Print">🖨</button>
     `;
 
@@ -189,6 +206,21 @@
     });
     const printBtn = ctl.querySelector('.mbcs-t-print');
     if (printBtn) printBtn.addEventListener('click', () => window.print());
+
+    const italicBtn = ctl.querySelector('.mbcs-t-italic');
+    if (italicBtn) {
+      const syncItalicBtn = (on) => {
+        italicBtn.setAttribute('aria-pressed', on ? 'true' : 'false');
+        italicBtn.title = on ? 'Italics on (click to turn off)' : 'Italics off (click to turn on)';
+      };
+      syncItalicBtn(readItalicPref());
+      italicBtn.addEventListener('click', () => {
+        const next = !readItalicPref();
+        writeItalicPref(next);
+        applyItalicPref(next);
+        syncItalicBtn(next);
+      });
+    }
     return ctl;
   }
 

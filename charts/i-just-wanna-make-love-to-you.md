@@ -1,6 +1,6 @@
 ---
 title: "I Just Wanna Make Love To You"
-tags: [blues, etta-james, r&b, soul]
+tags: [blues, r&b, soul]
 hide:
   - toc
 ---

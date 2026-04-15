@@ -1,6 +1,6 @@
 ---
 title: "Drink"
-tags: [alestorm, comedy, folk-metal, metal]
+tags: [comedy, metal]
 hide:
   - toc
 ---

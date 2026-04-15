@@ -1,6 +1,6 @@
 ---
 title: "Baba O'Riley"
-tags: [60s, british-invasion, rock, the-who]
+tags: [60s, british-invasion, rock]
 hide:
   - toc
 ---

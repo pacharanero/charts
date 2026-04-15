@@ -1,6 +1,5 @@
 ---
 title: "Big Fat Mamas Are Back In Style"
-tags: [dana-gillespie]
 hide:
   - toc
 ---

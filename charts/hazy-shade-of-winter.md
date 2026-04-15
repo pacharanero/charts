@@ -1,6 +1,5 @@
 ---
 title: "Hazy Shade Of Winter"
-tags: [jazz-chords, simon-and-garfunkel]
 hide:
   - toc
 ---

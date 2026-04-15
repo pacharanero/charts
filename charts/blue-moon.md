@@ -1,6 +1,5 @@
 ---
 title: "Blue Moon"
-tags: [jazz-chords]
 hide:
   - toc
 ---

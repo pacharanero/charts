@@ -1,6 +1,6 @@
 ---
 title: "Hard To Handle"
-tags: [90s, blues-rock, instrumental, southern-rock, tab, the-black-crowes-version]
+tags: [90s, blues-rock, instrumental, southern-rock, tab]
 hide:
   - toc
 ---

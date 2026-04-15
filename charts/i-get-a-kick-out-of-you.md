@@ -1,6 +1,5 @@
 ---
 title: "I Get A Kick Out Of You"
-tags: [jazz-chords]
 hide:
   - toc
 ---

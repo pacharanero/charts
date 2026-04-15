@@ -1,6 +1,6 @@
 ---
 title: "In The Jailhouse Now"
-tags: [americana, country, soggy-bottom-boys, soundtrack]
+tags: [americana, country, soundtrack]
 hide:
   - toc
 ---

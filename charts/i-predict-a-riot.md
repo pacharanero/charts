@@ -1,6 +1,6 @@
 ---
 title: "I Predict A Riot"
-tags: [00s, britpop, disney, indie, kaiser-chiefs]
+tags: [00s, britpop, disney, indie]
 hide:
   - toc
 ---

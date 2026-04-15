@@ -1,6 +1,5 @@
 ---
 title: "Suddenly Seymour"
-tags: [jazz-chords, little-shop-of-horrors]
 hide:
   - toc
 ---

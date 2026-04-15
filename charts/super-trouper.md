@@ -1,6 +1,6 @@
 ---
 title: "Super Trouper"
-tags: [70s, abba, disco, heavy-metal, instrumental, jazz-chords, pop, rock]
+tags: [70s, disco, heavy-metal, instrumental, pop, rock]
 hide:
   - toc
 ---

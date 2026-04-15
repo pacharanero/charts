@@ -1,6 +1,6 @@
 ---
 title: "Daddy-O"
-tags: [blues, instrumental, jazz-chords, steve-lucky-and-the-rumba-bums]
+tags: [blues, instrumental]
 hide:
   - toc
 ---

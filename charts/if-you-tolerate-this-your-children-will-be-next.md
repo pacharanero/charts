@@ -1,6 +1,5 @@
 ---
 title: "If You Tolerate This Your Children Will Be Next"
-tags: [manic-street-preachers]
 hide:
   - toc
 ---

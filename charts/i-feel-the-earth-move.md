@@ -1,6 +1,6 @@
 ---
 title: "I Feel The Earth Move"
-tags: [70s, carole-king, folk, jazz-chords, singer-songwriter]
+tags: [70s, folk, singer-songwriter]
 hide:
   - toc
 ---

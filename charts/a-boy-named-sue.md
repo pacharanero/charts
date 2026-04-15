@@ -1,6 +1,6 @@
 ---
 title: "A Boy Named Sue"
-tags: [90s, americana, britpop, country, folk, irish, johnny-cash, rockabilly]
+tags: [90s, americana, britpop, country, folk, rockabilly]
 hide:
   - toc
 ---

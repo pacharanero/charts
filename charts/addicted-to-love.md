@@ -1,6 +1,5 @@
 ---
 title: "Addicted To Love"
-tags: [robert-palmer]
 hide:
   - toc
 ---

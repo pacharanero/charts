@@ -1,6 +1,6 @@
 ---
 title: "The Irish Rover"
-tags: [folk, irish, traditional]
+tags: [folk, traditional]
 hide:
   - toc
 ---

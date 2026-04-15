@@ -1,6 +1,5 @@
 ---
 title: "Stardust"
-tags: [key-of-c-4-4]
 hide:
   - toc
 ---

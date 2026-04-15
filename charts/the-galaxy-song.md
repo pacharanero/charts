@@ -1,6 +1,6 @@
 ---
 title: "The Galaxy Song"
-tags: [comedy, instrumental, jazz-chords, monty-python-s-flying-circus-eric-idle-john-du-prez, novelty]
+tags: [comedy, instrumental, novelty]
 hide:
   - toc
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Mildred Won’t You Behave?"
-tags: [blues, swing, the-bill-elliott-swing-orchestra]
+tags: [blues, swing]
 hide:
   - toc
 ---

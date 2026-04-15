@@ -1,10 +1,12 @@
 # The Marcus Baw Musical Charting System
 
-I write my music charts in a fairly unusual way.
+Welcome to my collection of guitar chord and lyric charts. These charts are formatted using the 'Marcus Baw Musical Charting System' (MBCS) — a simple but effective way of writing music charts that I've been refining for about 15 years.
 
-I started putting chords and lyrics together in a single page because I got irritated by multi-page printouts from websites, where you have to flip pages while playing, or when viewing on a digital device, you have to scroll.
+I started putting chords and lyrics together on a **single page** because I got irritated by multi-page printouts from site like Ultimate Guitar, where you have to flip pages while playing, or scroll when viewing on a digital device.
 
-Also, in most charts the chords are on a separate line above the lyrics, which I found made it harder to visually scan both the chords and lyrics at the same time when jamming. I made a collection of charts for jamming in this way by printing them all at A5 size and putting them in a lever arch folder, but not all of you will have this degree of OCD! Also, eventually I decided A5 was too small for dimly lit pubs so have moved to printing them at A4 (141% print scale)
+Also, in most charts the chords are printed on a separate line above the lyrics, which I found made it harder to visually scan both at the same time when jamming. I made a collection of charts for jamming in this way by printing them all at A5 size and putting them in a lever arch folder — but not all of you will have this degree of OCD! Eventually I decided A5 was too small for dimly lit pubs, so have moved to printing them at A4 (141% print scale).
+
+These charts have been collected and arranged over many years, originally in .doc format, then Google Documents, and now converted to Markdown for better maintainability and interaction with modern tools. They use trailing spaces for proper line breaks and are optimised for both digital viewing and printing.
 
 ## The Aim Of These Charts
 
@@ -16,23 +18,25 @@ Also, in most charts the chords are on a separate line above the lyrics, which I
 
 * Include the key performance notes and directions for players, without restricting the freedom of the performer with an exact tablature or arrangement.
 
-* Don't repeat chord changes if they are the same for subsequent verses or choruses (to save space)
+* Don't repeat chord changes if they are the same for subsequent verses or choruses (to save space).
 
 ## MBCS Conventions
 
-* Chords are in square brackets and bold eg. **[F]** = an F major chord
+* **Chords** are in square brackets and bold, eg. **[F]** = an F major chord. Chords and notes are placed in-line with the lyrics, at the point where they are played.
 
-* Octaved notes are in curly brackets and bold eg. **{F}** = F notes played 1 octave apart.
+* **Octaved notes** are in curly brackets and bold, eg. **{F}** = F notes played 1 octave apart.
 
-* Single notes are in lower case eg. **[g f# e]** =  three-note run down from G.
+* **Single notes** are in lower case, eg. **[g f# e]** = three-note run down from G.
 
-* Chords and notes are placed in-line with the lyrics, at the point where they are played.
+* **Section markers** are bold and uppercase, eg. **[VERSE]**, **[CHORUS]**, **[BRIDGE]**.
 
-* Underline = emphasis - eg. emphasised backing vocals
+* **Underline** = emphasis, eg. emphasised backing vocals.
 
-* Repeated sections won’t necessarily be repeated in full text, they would be ‘defined’ the first time with a label like **[VERSE 1]**, and then repeated by reference, with something like **[VERSE 1]**  again
+* **Repeated sections** won't necessarily be repeated in full text — they would be 'defined' the first time with a label like **[VERSE 1]**, and then repeated by reference, with something like **[VERSE 1]** again. Full chord notation is shown in the first verse/section; subsequent sections show lyrics only when the chord pattern repeats.
 
-* Some key guitar phrases may be included in tablature, any tablature sections will be in a fixed-width font like this:
+* **Performance notes** are included where helpful for timing, stops, and changes.
+
+* Some key guitar phrases may be included in **tablature**. Any tablature sections will be in a fixed-width font like this:
 
 ```text
 # intro riff to Johnny B Goode - Chuck Berry
@@ -43,3 +47,7 @@ D|-----------------------|-----------------------|------------------8--8-|-8--8-
 A|-----------------------|-----------------------|-----------------------|-8--8--8--8--  
 E|-----------------------|-----------------------|-----------------------|-------------
 ```
+
+## Browse Charts
+
+Use the navigation menu to browse all available charts, or visit the [Charts Index](charts/) to see the complete alphabetical listing.

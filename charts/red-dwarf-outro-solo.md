@@ -1,6 +1,5 @@
 ---
 title: "Red Dwarf Outro Solo"
-tags: [howard-goodall]
 hide:
   - toc
 ---

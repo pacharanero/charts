@@ -1,6 +1,5 @@
 ---
 title: "Feel It Still"
-tags: [portugal-the-man]
 hide:
   - toc
 ---

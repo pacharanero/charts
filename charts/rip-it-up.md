@@ -1,6 +1,5 @@
 ---
 title: "Rip It Up"
-tags: [little-richard]
 hide:
   - toc
 ---

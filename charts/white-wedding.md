@@ -1,6 +1,5 @@
 ---
 title: "White Wedding"
-tags: [billy-idol]
 hide:
   - toc
 ---

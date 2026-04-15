@@ -1,6 +1,6 @@
 ---
 title: "Summertime Blues"
-tags: [blues, eddie-cochrane]
+tags: [blues]
 hide:
   - toc
 ---

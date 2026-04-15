@@ -1,6 +1,6 @@
 ---
 title: "O Christmas Tree"
-tags: [christmas, folk, irish, traditional]
+tags: [christmas, folk, traditional]
 hide:
   - toc
 ---

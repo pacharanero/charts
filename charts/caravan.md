@@ -1,6 +1,6 @@
 ---
 title: "Caravan"
-tags: [duke-ellington-arr-brian-setzer, rockabilly, stray-cats, swing-revival]
+tags: [rockabilly, swing-revival]
 hide:
   - toc
 ---

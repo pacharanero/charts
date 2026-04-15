@@ -1,6 +1,6 @@
 ---
 title: "I Love Rock And Roll"
-tags: [joan-jett, tab]
+tags: [tab]
 hide:
   - toc
 ---

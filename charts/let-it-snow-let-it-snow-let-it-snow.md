@@ -1,6 +1,5 @@
 ---
 title: "Let It Snow! Let It Snow! Let It Snow!"
-tags: [jazz-chords, words-music-by-sammy-cahn-jule-styne-1945]
 hide:
   - toc
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Grace Kelly"
-tags: [jazz-chords, mika]
 hide:
   - toc
 ---

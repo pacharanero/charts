@@ -1,6 +1,6 @@
 ---
 title: "Dont Be Cruel (D)"
-tags: [50s, otis-blackwell-elvis-presley, rock-and-roll, rockabilly]
+tags: [50s, rock-and-roll, rockabilly]
 hide:
   - toc
 ---

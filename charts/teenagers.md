@@ -1,6 +1,6 @@
 ---
 title: "Teenagers"
-tags: [blues, mcr]
+tags: [blues]
 hide:
   - toc
 ---

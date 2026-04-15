@@ -1,5 +1,5 @@
 ---
-tags: [60s, georgie-fame-the-blue-flames, r&b, soul]
+tags: [60s, r&b, soul]
 hide:
   - toc
 ---

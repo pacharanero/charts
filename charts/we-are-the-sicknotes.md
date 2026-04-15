@@ -1,6 +1,6 @@
 ---
 title: "We Are The Sicknotes"
-tags: [70s, blues, comedy, glam-rock, jazz-chords, modern, queen-sicknotes, rock, uk]
+tags: [70s, blues, comedy, glam-rock, modern, rock, uk]
 hide:
   - toc
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Umbrella (The Baseballs)"
-tags: [modern, rockabilly, the-baseballs]
+tags: [modern, rockabilly]
 hide:
   - toc
 ---

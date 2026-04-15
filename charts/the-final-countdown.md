@@ -1,6 +1,5 @@
 ---
 title: "The Final Countdown"
-tags: [europe, jazz-chords]
 hide:
   - toc
 ---

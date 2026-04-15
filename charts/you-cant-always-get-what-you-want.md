@@ -1,6 +1,6 @@
 ---
 title: "You Can't Always Get What You Want"
-tags: [60s, blues-rock, rock, rolling-stones]
+tags: [60s, blues-rock, rock]
 hide:
   - toc
 ---

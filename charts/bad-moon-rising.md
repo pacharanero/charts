@@ -1,6 +1,5 @@
 ---
 title: "Bad Moon Rising"
-tags: [creedence-clearwater-revival]
 hide:
   - toc
 ---

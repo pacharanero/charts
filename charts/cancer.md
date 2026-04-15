@@ -1,6 +1,5 @@
 ---
 title: "Cancer"
-tags: [jazz-chords, my-chemical-romance]
 hide:
   - toc
 ---

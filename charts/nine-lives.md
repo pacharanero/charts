@@ -1,6 +1,6 @@
 ---
 title: "Nine Lives"
-tags: [80s, jazz-chords, psychobilly, rockabilly, stray-cats]
+tags: [80s, psychobilly, rockabilly]
 hide:
   - toc
 ---

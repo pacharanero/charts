@@ -1,6 +1,6 @@
 ---
 title: "Zombie"
-tags: [90s, alternative, instrumental, irish, the-cranberries]
+tags: [90s, alternative, instrumental]
 hide:
   - toc
 ---

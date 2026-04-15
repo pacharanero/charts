@@ -1,6 +1,6 @@
 ---
 title: "Upside Down"
-tags: [modern, paloma-faith, pop, soul]
+tags: [modern, pop, soul]
 hide:
   - toc
 ---

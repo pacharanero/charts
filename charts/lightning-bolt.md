@@ -1,6 +1,5 @@
 ---
 title: "Lightning Bolt"
-tags: [jake-bugg-original-key-e]
 hide:
   - toc
 ---

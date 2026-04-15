@@ -1,6 +1,5 @@
 ---
 title: "Poison"
-tags: [alice-cooper]
 hide:
   - toc
 ---

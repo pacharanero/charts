@@ -1,6 +1,6 @@
 ---
 title: "Umbrella (Rihanna)"
-tags: [00s, pop, r&b, rihanna]
+tags: [00s, pop, r&b]
 hide:
   - toc
 ---

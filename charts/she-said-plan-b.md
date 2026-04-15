@@ -1,6 +1,6 @@
 ---
 title: "She Said"
-tags: [plan-b, swing]
+tags: [swing]
 hide:
   - toc
 ---

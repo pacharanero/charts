@@ -1,6 +1,6 @@
 ---
 title: "Man of Constant Sorrow"
-tags: [americana, country, soggy-bottom-boys, soundtrack]
+tags: [americana, country, soundtrack]
 hide:
   - toc
 ---

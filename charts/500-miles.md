@@ -1,6 +1,6 @@
 ---
 title: "500 Miles"
-tags: [90s, acoustic, folk-rock, scottish, the-proclaimers]
+tags: [90s, acoustic, folk-rock, scottish]
 hide:
   - toc
 ---

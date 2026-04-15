@@ -1,6 +1,6 @@
 ---
 title: "You Are My Sunshine"
-tags: [folk, irish, trad, traditional]
+tags: [folk, trad, traditional]
 hide:
   - toc
 ---

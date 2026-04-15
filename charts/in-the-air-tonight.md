@@ -1,6 +1,5 @@
 ---
 title: "In The Air Tonight"
-tags: [phil-collins]
 hide:
   - toc
 ---

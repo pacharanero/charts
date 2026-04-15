@@ -1,6 +1,6 @@
 ---
 title: "While My Guitar Gently Weeps"
-tags: [2-tone, 60s, 70s, british-invasion, jazz-chords, rock, ska, the-beatles]
+tags: [2-tone, 60s, 70s, british-invasion, rock, ska]
 hide:
   - toc
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Fat Bottomed Girls"
-tags: [70s, glam-rock, queen, rock]
+tags: [70s, glam-rock, rock]
 hide:
   - toc
 ---

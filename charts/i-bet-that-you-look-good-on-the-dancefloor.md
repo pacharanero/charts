@@ -1,6 +1,6 @@
 ---
 title: "I Bet That You Look Good On The Dancefloor"
-tags: [00s, arctic-monkeys, indie, rock]
+tags: [00s, indie, rock]
 hide:
   - toc
 ---

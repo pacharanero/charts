@@ -1,6 +1,6 @@
 ---
 title: "Lady Marmalade (E)"
-tags: [70s, funk, jazz-chords, patti-labelle, soul]
+tags: [70s, funk, soul]
 hide:
   - toc
 ---

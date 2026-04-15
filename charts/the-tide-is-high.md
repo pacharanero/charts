@@ -1,6 +1,6 @@
 ---
 title: "The Tide is High"
-tags: [70s, 80s, blondie-john-holt, instrumental, new-wave, punk]
+tags: [70s, 80s, instrumental, new-wave, punk]
 hide:
   - toc
 ---

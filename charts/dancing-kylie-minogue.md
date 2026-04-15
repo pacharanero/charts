@@ -1,6 +1,6 @@
 ---
 title: "Dancing"
-tags: [00s, dance, jazz-chords, kylie-minogue, pop]
+tags: [00s, dance, pop]
 hide:
   - toc
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Where Have You Been Tonight?"
-tags: [shed-7]
 hide:
   - toc
 ---

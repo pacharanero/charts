@@ -1,6 +1,6 @@
 ---
 title: "Johnny Got A Boom Boom"
-tags: [imelda-may, irish, modern, rockabilly]
+tags: [modern, rockabilly]
 hide:
   - toc
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Everybody Wants To Be A Cat"
-tags: [disney, disney-the-aristocats-brian-setzer-version, rockabilly, stray-cats, swing, swing-revival]
+tags: [disney, rockabilly, swing, swing-revival]
 hide:
   - toc
 ---

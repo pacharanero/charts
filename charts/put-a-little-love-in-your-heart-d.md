@@ -1,6 +1,5 @@
 ---
 title: "Put A Little Love In Your Heart (D)"
-tags: [written-by-jackie-de-shannon]
 hide:
   - toc
 ---

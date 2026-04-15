@@ -1,6 +1,5 @@
 ---
 title: "Cheap Thrills"
-tags: [sia]
 hide:
   - toc
 ---

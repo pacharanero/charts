@@ -1,6 +1,5 @@
 ---
 title: "Somebody Told Me"
-tags: [the-killers-richard-cheese-inspired-version]
 hide:
   - toc
 ---

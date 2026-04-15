@@ -1,6 +1,5 @@
 ---
 title: "The Impossible Dream"
-tags: [jazz-chords]
 hide:
   - toc
 ---

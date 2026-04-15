@@ -1,6 +1,6 @@
 ---
 title: "Jolene"
-tags: [70s, country, dolly-parton]
+tags: [70s, country]
 hide:
   - toc
 ---

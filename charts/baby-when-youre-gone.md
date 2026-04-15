@@ -1,6 +1,6 @@
 ---
 title: "Baby When You’re Gone"
-tags: [00s, americana, bryan-adams, jazz-chords, rock]
+tags: [00s, americana, rock]
 hide:
   - toc
 ---

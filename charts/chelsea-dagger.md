@@ -1,6 +1,6 @@
 ---
 title: "Chelsea Dagger"
-tags: [00s, fratellis, garage-rock, indie]
+tags: [00s, indie]
 hide:
   - toc
 ---

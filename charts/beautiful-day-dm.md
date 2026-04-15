@@ -1,6 +1,6 @@
 ---
 title: "Beautiful Day (Dm)"
-tags: [90s, celtic, folk-rock, instrumental, irish, levellers-feat-imelda-may, modern, rockabilly]
+tags: [90s, celtic, folk-rock, instrumental, modern, rockabilly]
 hide:
   - toc
 ---

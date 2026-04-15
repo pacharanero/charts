@@ -1,6 +1,6 @@
 ---
 title: "Every Little Thing She Does Is Magic"
-tags: [80s, jazz-chords, new-wave, rock, the-police]
+tags: [80s, new-wave, rock]
 hide:
   - toc
 ---

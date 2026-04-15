@@ -1,6 +1,6 @@
 ---
 title: "Get Lucky"
-tags: [00s, daft-punk-pharrell, electronic, funk, jazz-chords, punk]
+tags: [00s, electronic, funk, punk]
 hide:
   - toc
 ---

@@ -1,6 +1,6 @@
 ---
 title: "My Love For Evermore"
-tags: [hillbilly-moon-explosion, modern, rockabilly, swiss]
+tags: [modern, rockabilly, swiss]
 hide:
   - toc
 ---

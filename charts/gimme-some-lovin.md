@@ -1,6 +1,5 @@
 ---
 title: "GIMME SOME LOVIN"
-tags: [spencer-davis-group]
 hide:
   - toc
 ---

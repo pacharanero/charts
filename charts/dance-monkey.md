@@ -1,6 +1,5 @@
 ---
 title: "Dance Monkey"
-tags: [tones-and-i]
 hide:
   - toc
 ---

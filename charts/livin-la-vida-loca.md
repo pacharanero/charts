@@ -1,6 +1,5 @@
 ---
 title: "Livin’ La Vida Loca"
-tags: []
 hide:
   - toc
 ---

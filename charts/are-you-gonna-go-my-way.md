@@ -1,6 +1,6 @@
 ---
 title: "Are You Gonna Go My Way?"
-tags: [00s, 90s, lenny-kravitz, rock]
+tags: [00s, 90s, rock]
 hide:
   - toc
 ---

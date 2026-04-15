@@ -1,6 +1,6 @@
 ---
 title: "Take Another Piece of My Heart (A) - Janis Joplin"
-tags: [60s, big-brother-the-holding-company-j-joplin, blues-rock, psychedelic]
+tags: [60s, blues-rock, psychedelic]
 hide:
   - toc
 ---

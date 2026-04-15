@@ -1,6 +1,6 @@
 ---
 title: "The Most Beautiful Girl In The Room"
-tags: [comedy, flight-of-the-conchords, folk, jazz-chords, novelty]
+tags: [comedy, folk, novelty]
 hide:
   - toc
 ---

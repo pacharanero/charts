@@ -1,6 +1,5 @@
 ---
 title: "Crocodile Rock"
-tags: [elton-john, jazz-chords]
 hide:
   - toc
 ---

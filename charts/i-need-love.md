@@ -1,6 +1,6 @@
 ---
 title: "I Need Love"
-tags: [guitar, harrison-rimmer, instrumental, modern]
+tags: [guitar, instrumental, modern]
 hide:
   - toc
 ---

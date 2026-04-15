@@ -1,6 +1,6 @@
 ---
 title: "Sunny Afternoon"
-tags: [60s, british-invasion, kinks, rock]
+tags: [60s, british-invasion, rock]
 hide:
   - toc
 ---

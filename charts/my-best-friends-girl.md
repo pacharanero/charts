@@ -1,6 +1,5 @@
 ---
 title: "My Best Friend’s Girl"
-tags: [cars]
 hide:
   - toc
 ---

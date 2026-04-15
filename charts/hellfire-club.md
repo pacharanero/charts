@@ -1,6 +1,6 @@
 ---
 title: "Hellfire Club"
-tags: [imelda-may, irish, modern, rockabilly]
+tags: [modern, rockabilly]
 hide:
   - toc
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Happy Together"
-tags: [jazz-chords, the-turtles-em-original-key-f-m]
 hide:
   - toc
 ---

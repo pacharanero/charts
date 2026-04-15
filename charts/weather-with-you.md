@@ -1,6 +1,5 @@
 ---
 title: "Weather With You"
-tags: [crowded-house, jazz-chords]
 hide:
   - toc
 ---

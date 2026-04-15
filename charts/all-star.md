@@ -1,6 +1,6 @@
 ---
 title: "All Star"
-tags: [90s, britpop, instrumental, irish, jazz-chords, ska, smash-mouth]
+tags: [90s, britpop, instrumental, ska]
 hide:
   - toc
 ---

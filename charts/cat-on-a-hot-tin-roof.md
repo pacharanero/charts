@@ -1,6 +1,6 @@
 ---
 title: "Cat On A Hot Tin Roof"
-tags: [big-band, blues, brian-setzer-orchestra, jazz-chords, jump-blues, rockabilly, stray-cats, swing-revival]
+tags: [big-band, blues, jump-blues, rockabilly, swing-revival]
 hide:
   - toc
 ---

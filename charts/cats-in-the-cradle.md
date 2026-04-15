@@ -1,6 +1,6 @@
 ---
 title: "Cat's In The Cradle"
-tags: [70s, cat-stevens, folk, jazz-chords, singer-songwriter]
+tags: [70s, folk, singer-songwriter]
 hide:
   - toc
 ---

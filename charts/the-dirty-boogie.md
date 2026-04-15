@@ -1,6 +1,6 @@
 ---
 title: "The Dirty Boogie"
-tags: [big-band, jump-blues, rockabilly, stray-cats, swing-revival, the-brian-setzer-orchestra]
+tags: [big-band, jump-blues, rockabilly, swing-revival]
 hide:
   - toc
 ---

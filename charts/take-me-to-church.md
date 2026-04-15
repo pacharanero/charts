@@ -1,6 +1,6 @@
 ---
 title: "Take Me To Church"
-tags: [comedy, hozier, indie, modern, soul]
+tags: [comedy, indie, modern, soul]
 hide:
   - toc
 ---

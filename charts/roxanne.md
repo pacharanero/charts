@@ -1,6 +1,6 @@
 ---
 title: "Roxanne"
-tags: [80s, new-wave, rock, the-police]
+tags: [80s, new-wave, rock]
 hide:
   - toc
 ---

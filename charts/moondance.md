@@ -1,6 +1,6 @@
 ---
 title: "Moondance"
-tags: [60s, irish, soul, van-morrison]
+tags: [60s, soul]
 hide:
   - toc
 ---

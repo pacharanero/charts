@@ -1,6 +1,6 @@
 ---
 title: "Jump, Jive and Wail"
-tags: [big-band, jazz-chords, jump-blues, rockabilly, stray-cats, swing, swing-revival, the-brian-setzer-orchestra]
+tags: [big-band, jump-blues, rockabilly, swing, swing-revival]
 hide:
   - toc
 ---

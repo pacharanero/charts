@@ -1,6 +1,6 @@
 ---
 title: "A Nightingale Sang In Berkeley Square"
-tags: [jazz-chords, maschwitz-manning-sherwin-d, swing]
+tags: [swing]
 hide:
   - toc
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Does Your Chewing Gum Lose Its Flavour"
-tags: [50s, folk, lonnie-donegan, skiffle]
+tags: [50s, folk, skiffle]
 hide:
   - toc
 ---

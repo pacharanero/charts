@@ -1,6 +1,6 @@
 ---
 title: "Mmm Mmm Mmm Mmm"
-tags: [90s, britpop, capo, crash-test-dummies, irish]
+tags: [90s, britpop, capo]
 hide:
   - toc
 ---

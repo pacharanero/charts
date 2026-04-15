@@ -1,6 +1,6 @@
 ---
 title: "Tennessee Flat Top Box"
-tags: [90s, britpop, capo, irish, roseanne-cash]
+tags: [90s, britpop, capo]
 hide:
   - toc
 ---

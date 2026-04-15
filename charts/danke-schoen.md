@@ -1,6 +1,5 @@
 ---
 title: "Danke Schoen"
-tags: [wayne-newton]
 hide:
   - toc
 ---

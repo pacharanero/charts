@@ -1,6 +1,6 @@
 ---
 title: "Call Me"
-tags: [hillbilly-moon-explosion, modern, rockabilly, swiss]
+tags: [modern, rockabilly, swiss]
 hide:
   - toc
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Tennessee Waltz"
-tags: [country, written-1946-by-pee-wee-king-and-redd-stewart]
+tags: [country]
 hide:
   - toc
 ---

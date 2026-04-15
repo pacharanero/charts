@@ -1,6 +1,5 @@
 ---
 title: "Stressed Out"
-tags: [twenty-one-pilots]
 hide:
   - toc
 ---

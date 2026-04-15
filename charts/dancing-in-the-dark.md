@@ -1,6 +1,6 @@
 ---
 title: "Dancing In The Dark"
-tags: [70s, bruce-springsteen, heartland-rock, rock]
+tags: [70s, heartland-rock, rock]
 hide:
   - toc
 ---

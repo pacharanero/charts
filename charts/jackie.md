@@ -1,6 +1,6 @@
 ---
 title: "Jackie"
-tags: [christmas, country, jazz-chords, scott-walker-jacques-brel-walker-brothers]
+tags: [christmas, country]
 hide:
   - toc
 ---

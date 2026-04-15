@@ -1,6 +1,6 @@
 ---
 title: "Stand By Me"
-tags: [60s, ben-e-king, instrumental, jazz-chords, soul]
+tags: [60s, instrumental, soul]
 hide:
   - toc
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Tribute"
-tags: [00s, comedy-rock, hard-rock, tenacious-d]
+tags: [00s, comedy-rock, hard-rock]
 hide:
   - toc
 ---

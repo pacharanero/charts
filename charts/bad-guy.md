@@ -1,6 +1,6 @@
 ---
 title: "Bad Guy"
-tags: [billie-eilish, ska, tab]
+tags: [ska, tab]
 hide:
   - toc
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Seven Drunken Nights"
-tags: [folk, irish, the-dubliners-trad, traditional]
+tags: [folk, traditional]
 hide:
   - toc
 ---

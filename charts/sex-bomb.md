@@ -1,6 +1,6 @@
 ---
 title: "Sex Bomb"
-tags: [blues, tom-jones-and-mousse-t]
+tags: [blues]
 hide:
   - toc
 ---

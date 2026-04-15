@@ -1,6 +1,6 @@
 ---
 title: "Auld Lang Syne"
-tags: [folk, irish, traditional]
+tags: [folk, traditional]
 hide:
   - toc
 ---

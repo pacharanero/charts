@@ -1,6 +1,5 @@
 ---
 title: "Istanbul (was Constantinople)"
-tags: [jimmy-kennedy-nat-simon-1953]
 hide:
   - toc
 ---

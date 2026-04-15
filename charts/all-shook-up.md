@@ -1,6 +1,6 @@
 ---
 title: "All Shook Up"
-tags: [50s, words-music-by-otis-blackwell]
+tags: [50s]
 hide:
   - toc
 ---

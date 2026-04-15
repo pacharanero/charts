@@ -1,6 +1,5 @@
 ---
 title: "Perhaps, Perhaps, Perhaps"
-tags: [written-by-osvaldo-farr-s-music-joe-davis-english-lyrics]
 hide:
   - toc
 ---

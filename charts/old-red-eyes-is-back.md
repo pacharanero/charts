@@ -1,6 +1,5 @@
 ---
 title: "Old Red Eyes Is Back"
-tags: [the-beautiful-south]
 hide:
   - toc
 ---

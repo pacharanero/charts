@@ -1,6 +1,6 @@
 ---
 title: "The Wild Rover"
-tags: [folk, irish, traditional]
+tags: [folk, traditional]
 hide:
   - toc
 ---

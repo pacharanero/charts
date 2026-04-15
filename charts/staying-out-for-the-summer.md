@@ -1,6 +1,6 @@
 ---
 title: "Staying Out For The Summer"
-tags: [90s, britpop, dodgy, rock, tab]
+tags: [90s, britpop, rock, tab]
 hide:
   - toc
 ---

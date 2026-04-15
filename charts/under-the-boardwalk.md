@@ -1,6 +1,6 @@
 ---
 title: "Under The Boardwalk"
-tags: [50s, 60s, doo-wop, soul, the-drifters]
+tags: [50s, 60s, doo-wop, soul]
 hide:
   - toc
 ---

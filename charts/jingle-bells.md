@@ -1,6 +1,5 @@
 ---
 title: "Jingle Bells"
-tags: []
 hide:
   - toc
 ---

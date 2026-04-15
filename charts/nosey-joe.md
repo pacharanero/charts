@@ -1,6 +1,6 @@
 ---
 title: "Nosey Joe"
-tags: [blues, bull-moose-jackson, jazz-chords, swing]
+tags: [blues, swing]
 hide:
   - toc
 ---

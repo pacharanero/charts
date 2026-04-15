@@ -1,6 +1,5 @@
 ---
 title: "Sound Of The Underground"
-tags: [girls-aloud]
 hide:
   - toc
 ---

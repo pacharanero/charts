@@ -1,6 +1,6 @@
 ---
 title: "All I Could Do Was Cry"
-tags: [blues, etta-james, r&b, soul]
+tags: [blues, r&b, soul]
 hide:
   - toc
 ---

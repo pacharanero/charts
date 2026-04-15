@@ -1,6 +1,5 @@
 ---
 title: "Spooky"
-tags: [dusty-springfield, jazz-chords]
 hide:
   - toc
 ---

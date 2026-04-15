@@ -1,6 +1,5 @@
 ---
 title: "Shake, Shake, Senora"
-tags: [harry-belafonte]
 hide:
   - toc
 ---

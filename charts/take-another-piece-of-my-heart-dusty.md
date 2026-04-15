@@ -1,6 +1,5 @@
 ---
 title: "Take Another Piece Of My Heart (D) - Dusty Springfield"
-tags: [dusty-springfield]
 hide:
   - toc
 ---

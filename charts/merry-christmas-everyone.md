@@ -1,6 +1,6 @@
 ---
 title: "Merry Christmas, Everyone"
-tags: [christmas, rockabilly, shakin-stevens]
+tags: [christmas, rockabilly]
 hide:
   - toc
 ---

@@ -1,6 +1,6 @@
 ---
 title: "White Rabbit"
-tags: [jefferson-airplane, tab]
+tags: [tab]
 hide:
   - toc
 ---

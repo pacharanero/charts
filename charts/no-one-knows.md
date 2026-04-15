@@ -1,6 +1,6 @@
 ---
 title: "No One Knows"
-tags: [70s, glam-rock, jazz-chords, queens-of-the-stone-age, rock]
+tags: [70s, glam-rock, rock]
 hide:
   - toc
 ---

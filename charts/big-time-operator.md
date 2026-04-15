@@ -1,6 +1,6 @@
 ---
 title: "Big Time Operator"
-tags: [90s, big-bad-voodoo-daddy, neo-swing, swing-revival]
+tags: [90s, neo-swing, swing-revival]
 hide:
   - toc
 ---

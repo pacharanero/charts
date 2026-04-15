@@ -1,6 +1,5 @@
 ---
 title: "Strangers In The Night"
-tags: [jazz-chords]
 hide:
   - toc
 ---

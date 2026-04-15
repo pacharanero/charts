@@ -1,6 +1,6 @@
 ---
 title: "Teenage Kicks"
-tags: [70s, irish, punk, the-undertones]
+tags: [70s, punk]
 hide:
   - toc
 ---

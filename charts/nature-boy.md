@@ -1,6 +1,5 @@
 ---
 title: "Nature Boy"
-tags: [jazz-chords, words-music-by-eden-ahbez]
 hide:
   - toc
 ---

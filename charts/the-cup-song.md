@@ -1,6 +1,5 @@
 ---
 title: "The Cup Song"
-tags: [anna-kendrick]
 hide:
   - toc
 ---

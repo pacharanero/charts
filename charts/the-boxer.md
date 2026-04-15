@@ -1,6 +1,5 @@
 ---
 title: "The Boxer"
-tags: [simon-and-garfunkel-c-original-studio-recording-in-b]
 hide:
   - toc
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Twenty Flight Rock"
-tags: [blues, eddie-cochrane, instrumental]
+tags: [blues, instrumental]
 hide:
   - toc
 ---

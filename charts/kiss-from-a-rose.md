@@ -1,6 +1,5 @@
 ---
 title: "Kiss From A Rose"
-tags: [seal]
 hide:
   - toc
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Johnny B. Goode"
-tags: [chuck-berry, country, tab]
+tags: [country, tab]
 hide:
   - toc
 ---

@@ -1,6 +1,6 @@
 ---
 title: "The South"
-tags: [guitar, harrison-rimmer, instrumental, jazz-chords, modern]
+tags: [guitar, instrumental, modern]
 hide:
   - toc
 ---

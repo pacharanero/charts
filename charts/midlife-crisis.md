@@ -1,6 +1,5 @@
 ---
 title: "Midlife Crisis"
-tags: [faith-no-more]
 hide:
   - toc
 ---

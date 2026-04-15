@@ -1,6 +1,6 @@
 ---
 title: "Higher Ground"
-tags: [70s, funk, soul, stevie-wonder]
+tags: [70s, funk, soul]
 hide:
   - toc
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Dancing With Myself"
-tags: [billy-idol]
 hide:
   - toc
 ---

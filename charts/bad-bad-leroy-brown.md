@@ -1,6 +1,5 @@
 ---
 title: "Bad, Bad, Leroy Brown"
-tags: []
 hide:
   - toc
 ---

@@ -1,6 +1,5 @@
 ---
 title: "These Boots Are Made For Walking"
-tags: [nancy-sinatra]
 hide:
   - toc
 ---

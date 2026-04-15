@@ -1,6 +1,5 @@
 ---
 title: "You’re Nobody ‘Till Somebody Loves You"
-tags: [dean-martin-version, jazz-chords]
 hide:
   - toc
 ---

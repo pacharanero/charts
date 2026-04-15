@@ -1,6 +1,5 @@
 ---
 title: "Bad Things"
-tags: [jace-everett]
 hide:
   - toc
 ---

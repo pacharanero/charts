@@ -1,6 +1,6 @@
 ---
 title: "The Bug"
-tags: [80s, blues-rock, dire-straits, rock]
+tags: [80s, blues-rock, rock]
 hide:
   - toc
 ---

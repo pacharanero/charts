@@ -1,6 +1,6 @@
 ---
 title: "Back To Black"
-tags: [00s, amy-winehouse, r&b, soul]
+tags: [00s, r&b, soul]
 hide:
   - toc
 ---

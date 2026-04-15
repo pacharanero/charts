@@ -1,6 +1,6 @@
 ---
 title: "Iris"
-tags: [goo-goo-dolls, instrumental, jazz-chords]
+tags: [instrumental]
 hide:
   - toc
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Love Shack"
-tags: [b-52, folk]
+tags: [folk]
 hide:
   - toc
 ---

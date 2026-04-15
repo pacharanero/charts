@@ -1,6 +1,5 @@
 ---
 title: "Englishman In New York"
-tags: [jazz-chords, sting]
 hide:
   - toc
 ---

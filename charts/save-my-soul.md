@@ -1,6 +1,6 @@
 ---
 title: "Save My Soul"
-tags: [90s, big-bad-voodoo-daddy, blues, neo-swing, swing, swing-revival]
+tags: [90s, blues, neo-swing, swing, swing-revival]
 hide:
   - toc
 ---

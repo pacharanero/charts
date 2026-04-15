@@ -1,6 +1,5 @@
 ---
 title: "Choo-Choo Ch'Boogie"
-tags: []
 hide:
   - toc
 ---

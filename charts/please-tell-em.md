@@ -1,6 +1,6 @@
 ---
 title: "Please Tell ‘Em"
-tags: [indigo-swing, jazz-chords, swing]
+tags: [swing]
 hide:
   - toc
 ---

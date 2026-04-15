@@ -1,6 +1,5 @@
 ---
 title: "Teenage Dirtbag"
-tags: [jazz-chords, wheatus]
 hide:
   - toc
 ---

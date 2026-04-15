@@ -1,6 +1,6 @@
 ---
 title: "You've Got A Friend In Me"
-tags: [70s, folk, randy-newman, singer-songwriter, soundtrack]
+tags: [70s, folk, singer-songwriter, soundtrack]
 hide:
   - toc
 ---

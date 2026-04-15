@@ -1,6 +1,6 @@
 ---
 title: "SOS"
-tags: [70s, abba, disco, heavy-metal, pop, rock]
+tags: [70s, disco, heavy-metal, pop, rock]
 hide:
   - toc
 ---

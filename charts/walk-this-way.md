@@ -1,6 +1,6 @@
 ---
 title: "Walk This Way"
-tags: [70s, aerosmith, hard-rock, rock, swing]
+tags: [70s, hard-rock, rock, swing]
 hide:
   - toc
 ---

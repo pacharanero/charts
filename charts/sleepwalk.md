@@ -1,6 +1,6 @@
 ---
 title: "Sleepwalk"
-tags: [big-band, brian-setzer, jump-blues, rockabilly, stray-cats, swing-revival]
+tags: [big-band, jump-blues, rockabilly, swing-revival]
 hide:
   - toc
 ---

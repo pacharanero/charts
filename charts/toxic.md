@@ -1,6 +1,5 @@
 ---
 title: "Toxic"
-tags: [britney-spears]
 hide:
   - toc
 ---

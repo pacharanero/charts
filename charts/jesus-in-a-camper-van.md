@@ -1,6 +1,6 @@
 ---
 title: "Jesus In A Camper Van"
-tags: [00s, 90s, instrumental, jazz-chords, pop, robbie-williams]
+tags: [00s, 90s, instrumental, pop]
 hide:
   - toc
 ---

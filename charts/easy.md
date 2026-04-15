@@ -1,6 +1,5 @@
 ---
 title: "Easy"
-tags: [faith-no-more-lionel-ritchie]
 hide:
   - toc
 ---

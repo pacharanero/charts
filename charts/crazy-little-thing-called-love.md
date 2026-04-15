@@ -1,6 +1,6 @@
 ---
 title: "Crazy Little Thing Called Love"
-tags: [70s, glam-rock, queen, rock, swing]
+tags: [70s, glam-rock, rock, swing]
 hide:
   - toc
 ---

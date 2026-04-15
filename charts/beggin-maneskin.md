@@ -1,6 +1,5 @@
 ---
 title: "Beggin’"
-tags: [m-neskin]
 hide:
   - toc
 ---

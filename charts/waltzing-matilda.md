@@ -1,6 +1,6 @@
 ---
 title: "Waltzing Matilda"
-tags: [australian-traditional, folk, irish, traditional]
+tags: [australian-traditional, folk, traditional]
 hide:
   - toc
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Bad Habit"
-tags: [imelda-may, instrumental, irish, modern, rockabilly]
+tags: [instrumental, modern, rockabilly]
 hide:
   - toc
 ---

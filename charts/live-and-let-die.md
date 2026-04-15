@@ -1,6 +1,5 @@
 ---
 title: "Live and Let Die"
-tags: [jazz-chords, wings]
 hide:
   - toc
 ---

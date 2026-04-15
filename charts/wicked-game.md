@@ -1,6 +1,6 @@
 ---
 title: "Wicked Game"
-tags: [chris-isaak, instrumental, tab]
+tags: [instrumental, tab]
 hide:
   - toc
 ---

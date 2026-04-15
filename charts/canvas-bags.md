@@ -1,6 +1,6 @@
 ---
 title: "Canvas Bags"
-tags: [comedy, modern, piano, tim-minchin]
+tags: [comedy, modern, piano]
 hide:
   - toc
 ---

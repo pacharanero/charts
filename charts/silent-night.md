@@ -1,6 +1,5 @@
 ---
 title: "Silent Night"
-tags: [franz-gruber]
 hide:
   - toc
 ---

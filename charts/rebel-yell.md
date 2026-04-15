@@ -1,6 +1,5 @@
 ---
 title: "Rebel Yell"
-tags: [billy-idol]
 hide:
   - toc
 ---

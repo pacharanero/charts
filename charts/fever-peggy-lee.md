@@ -1,6 +1,5 @@
 ---
 title: "Fever"
-tags: [peggy-lee]
 hide:
   - toc
 ---

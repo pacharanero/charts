@@ -1,6 +1,6 @@
 ---
 title: "I Touch Myself"
-tags: [tab, the-divinyls]
+tags: [tab]
 hide:
   - toc
 ---

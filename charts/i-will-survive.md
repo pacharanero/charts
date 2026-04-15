@@ -1,6 +1,6 @@
 ---
 title: "I Will Survive"
-tags: [70s, disco, gloria-gaynor]
+tags: [70s, disco]
 hide:
   - toc
 ---

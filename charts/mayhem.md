@@ -1,6 +1,6 @@
 ---
 title: "Mayhem"
-tags: [imelda-may, irish, jazz-chords, modern, rockabilly]
+tags: [modern, rockabilly]
 hide:
   - toc
 ---

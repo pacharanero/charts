@@ -1,6 +1,6 @@
 ---
 title: "Breakfast at Tiffany's"
-tags: [deep-blue-something, soundtrack]
+tags: [soundtrack]
 hide:
   - toc
 ---

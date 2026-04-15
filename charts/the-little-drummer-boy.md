@@ -1,6 +1,5 @@
 ---
 title: "The Little Drummer Boy"
-tags: []
 hide:
   - toc
 ---

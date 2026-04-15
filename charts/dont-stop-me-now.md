@@ -1,6 +1,6 @@
 ---
 title: "Don't Stop Me Now"
-tags: [70s, glam-rock, jazz-chords, queen, rock]
+tags: [70s, glam-rock, rock]
 hide:
   - toc
 ---

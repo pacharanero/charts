@@ -1,6 +1,6 @@
 ---
 title: "All The Small Things"
-tags: [90s, blink-182, instrumental, pop-punk, punk]
+tags: [90s, instrumental, pop-punk, punk]
 hide:
   - toc
 ---

@@ -1,6 +1,5 @@
 ---
 title: "They All Laughed"
-tags: [george-ira-gershwin, jazz-chords]
 hide:
   - toc
 ---

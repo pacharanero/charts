@@ -1,6 +1,6 @@
 ---
 title: "People Are Strange"
-tags: [60s, psychedelic, rock, the-doors-echo-and-the-bunnymen]
+tags: [60s, psychedelic, rock]
 hide:
   - toc
 ---

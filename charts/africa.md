@@ -1,6 +1,6 @@
 ---
 title: "Africa"
-tags: [80s, pop, rock, toto]
+tags: [80s, pop, rock]
 hide:
   - toc
 ---

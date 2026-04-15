@@ -1,6 +1,6 @@
 ---
 title: "Feeling Good"
-tags: [blues, instrumental, jazz, nina-simone-gm-muse-bm-kit-frost-or-kitty-lee-em, soul]
+tags: [blues, instrumental, jazz, soul]
 hide:
   - toc
 ---

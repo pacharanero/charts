@@ -1,6 +1,6 @@
 ---
 title: "Madness"
-tags: [muse, tab]
+tags: [tab]
 hide:
   - toc
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Come As You Are"
-tags: [90s, alternative, grunge, instrumental, lounge, modern, nirvana-bebo-best-the-super-lounge-orchestra-version]
+tags: [90s, alternative, instrumental, lounge, modern]
 hide:
   - toc
 ---

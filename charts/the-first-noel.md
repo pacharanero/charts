@@ -1,6 +1,6 @@
 ---
 title: "The First Noel"
-tags: [folk, irish, traditional, traditional-publ-1833]
+tags: [folk, traditional]
 hide:
   - toc
 ---

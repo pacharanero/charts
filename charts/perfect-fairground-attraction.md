@@ -1,6 +1,6 @@
 ---
 title: "Perfect"
-tags: [80s, acoustic, fairground-attraction, folk]
+tags: [80s, acoustic, folk]
 hide:
   - toc
 ---

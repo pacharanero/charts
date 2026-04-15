@@ -1,6 +1,6 @@
 ---
 title: "Don’t Speak"
-tags: [90s, jazz-chords, no-doubt, pop, ska]
+tags: [90s, pop, ska]
 hide:
   - toc
 ---

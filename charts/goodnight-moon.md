@@ -1,6 +1,5 @@
 ---
 title: "Goodnight Moon"
-tags: [shivaree]
 hide:
   - toc
 ---

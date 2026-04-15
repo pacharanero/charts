@@ -1,6 +1,6 @@
 ---
 title: "Hello Dolly"
-tags: [50s, 60s, jazz-chords, louis-armstrong-bobby-darin-version, swing, vocal-jazz]
+tags: [50s, 60s, swing, vocal-jazz]
 hide:
   - toc
 ---

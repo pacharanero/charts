@@ -1,6 +1,5 @@
 ---
 title: "The Monster Mash"
-tags: [bobby-picket-and-the-crypt-kickers]
 hide:
   - toc
 ---

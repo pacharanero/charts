@@ -1,6 +1,6 @@
 ---
 title: "Crash"
-tags: [tab, the-primitives]
+tags: [tab]
 hide:
   - toc
 ---

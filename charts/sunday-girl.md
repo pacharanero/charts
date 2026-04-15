@@ -1,6 +1,6 @@
 ---
 title: "Sunday Girl"
-tags: [70s, 80s, blondie, blues, folk, new-wave, punk]
+tags: [70s, 80s, blues, folk, new-wave, punk]
 hide:
   - toc
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Barcelona"
-tags: [70s, freddie-mercury-and-montserrat-caballe, glam-rock, jazz-chords, rock]
+tags: [70s, glam-rock, rock]
 hide:
   - toc
 ---

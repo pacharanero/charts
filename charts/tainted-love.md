@@ -1,6 +1,6 @@
 ---
 title: "Tainted Love"
-tags: [imelda-may, irish, modern, rockabilly]
+tags: [modern, rockabilly]
 hide:
   - toc
 ---

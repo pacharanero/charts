@@ -1,6 +1,5 @@
 ---
 title: "Hey Jude"
-tags: [jazz-chords, lennon-mccartney]
 hide:
   - toc
 ---

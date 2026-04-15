@@ -1,6 +1,6 @@
 ---
 title: "Luther Lane"
-tags: [cherry-poppin-daddies, folk, jazz-chords]
+tags: [folk]
 hide:
   - toc
 ---

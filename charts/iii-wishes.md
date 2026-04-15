@@ -1,6 +1,5 @@
 ---
 title: "III Wishes"
-tags: [terrorvision]
 hide:
   - toc
 ---

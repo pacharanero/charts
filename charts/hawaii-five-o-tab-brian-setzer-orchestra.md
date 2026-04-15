@@ -1,6 +1,6 @@
 ---
 title: "Hawaii Five-O"
-tags: [big-band, brian-setzer-orchestra, jump-blues, rockabilly, stray-cats, swing-revival, tab]
+tags: [big-band, jump-blues, rockabilly, swing-revival, tab]
 hide:
   - toc
 ---

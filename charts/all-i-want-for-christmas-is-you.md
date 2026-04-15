@@ -1,6 +1,6 @@
 ---
 title: "All I Want For Christmas Is You"
-tags: [christmas, jazz-chords, mariah-carey]
+tags: [christmas]
 hide:
   - toc
 ---

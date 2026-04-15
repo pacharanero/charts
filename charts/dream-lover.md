@@ -1,6 +1,6 @@
 ---
 title: "Dream Lover"
-tags: [50s, 60s, bobby-darin, jazz-chords, swing, vocal-jazz]
+tags: [50s, 60s, swing, vocal-jazz]
 hide:
   - toc
 ---

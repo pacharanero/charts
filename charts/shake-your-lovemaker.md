@@ -1,6 +1,6 @@
 ---
 title: "Shake Your Lovemaker"
-tags: [cherry-poppin-daddies, swing]
+tags: [swing]
 hide:
   - toc
 ---

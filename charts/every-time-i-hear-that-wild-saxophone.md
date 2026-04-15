@@ -1,6 +1,6 @@
 ---
 title: "(Every Time I Hear) That Wild Saxophone"
-tags: [80s, psychobilly, rockabilly, stray-cats]
+tags: [80s, psychobilly, rockabilly]
 hide:
   - toc
 ---

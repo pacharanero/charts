@@ -1,6 +1,5 @@
 ---
 title: "The Sound Of Silence"
-tags: [simon-and-garfunkel]
 hide:
   - toc
 ---

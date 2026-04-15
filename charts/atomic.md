@@ -1,6 +1,6 @@
 ---
 title: "Atomic"
-tags: [70s, 80s, blondie, new-wave, punk]
+tags: [70s, 80s, new-wave, punk]
 hide:
   - toc
 ---

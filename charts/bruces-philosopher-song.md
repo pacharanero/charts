@@ -1,6 +1,6 @@
 ---
 title: "Bruce's Philosopher Song"
-tags: [comedy, monty-python, novelty]
+tags: [comedy, novelty]
 hide:
   - toc
 ---

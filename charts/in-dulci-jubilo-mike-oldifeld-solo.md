@@ -1,6 +1,5 @@
 ---
 title: "In Dulci Jubilo"
-tags: [j-s-bach-mike-oldfield-solo-tab]
 hide:
   - toc
 ---

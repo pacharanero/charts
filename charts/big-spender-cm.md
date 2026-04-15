@@ -1,6 +1,5 @@
 ---
 title: "Big Spender"
-tags: [jazz-chords, shirley-bassey]
 hide:
   - toc
 ---

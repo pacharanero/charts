@@ -1,6 +1,6 @@
 ---
 title: "Stray Cat Strut"
-tags: [80s, blues, jazz-chords, psychobilly, rockabilly, the-stray-cats]
+tags: [80s, blues, psychobilly, rockabilly]
 hide:
   - toc
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Right Here, Right Now"
-tags: [10s, fat-boy-slim]
+tags: [10s]
 hide:
   - toc
 ---

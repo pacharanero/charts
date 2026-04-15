@@ -1,6 +1,5 @@
 ---
 title: "Don't Sit Under The Apple Tree With Anyone Else But Me"
-tags: [the-puppini-sisters]
 hide:
   - toc
 ---

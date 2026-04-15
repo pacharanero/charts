@@ -1,6 +1,6 @@
 ---
 title: "A Little Respect"
-tags: [80s, erasure, new-wave, synth-pop]
+tags: [80s, new-wave, synth-pop]
 hide:
   - toc
 ---

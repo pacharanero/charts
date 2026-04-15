@@ -1,6 +1,5 @@
 ---
 title: "(You Gotta) Fight For Your Right (To Party)"
-tags: [beastie-boys]
 hide:
   - toc
 ---

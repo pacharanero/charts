@@ -1,6 +1,6 @@
 ---
 title: "Where Is My Mind"
-tags: [tab, the-pixies]
+tags: [tab]
 hide:
   - toc
 ---

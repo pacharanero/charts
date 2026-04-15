@@ -1,6 +1,5 @@
 ---
 title: "Down Under"
-tags: [men-at-work]
 hide:
   - toc
 ---

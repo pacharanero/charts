@@ -1,6 +1,5 @@
 ---
 title: "Four To The Floor"
-tags: [jazz-chords, starsailor]
 hide:
   - toc
 ---

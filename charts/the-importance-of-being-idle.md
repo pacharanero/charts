@@ -1,6 +1,6 @@
 ---
 title: "The Importance Of Being Idle"
-tags: [90s, britpop, instrumental, oasis, rock]
+tags: [90s, britpop, instrumental, rock]
 hide:
   - toc
 ---

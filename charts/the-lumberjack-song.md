@@ -1,6 +1,6 @@
 ---
 title: "The Lumberjack Song"
-tags: [comedy, monty-python, novelty]
+tags: [comedy, novelty]
 hide:
   - toc
 ---

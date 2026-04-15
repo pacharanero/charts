@@ -1,6 +1,6 @@
 ---
 title: "My Girl"
-tags: [60s, instrumental, motown, soul, the-temptations]
+tags: [60s, instrumental, motown, soul]
 hide:
   - toc
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Pretty Vacant"
-tags: [sex-pistols]
 hide:
   - toc
 ---

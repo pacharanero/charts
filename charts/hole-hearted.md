@@ -1,6 +1,6 @@
 ---
 title: "Hole-Hearted"
-tags: [80s, 90s, alternative, extreme, rock]
+tags: [80s, 90s, alternative, rock]
 hide:
   - toc
 ---

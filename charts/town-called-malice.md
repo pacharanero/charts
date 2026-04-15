@@ -1,6 +1,6 @@
 ---
 title: "Town Called Malice"
-tags: [70s, mod, punk, swing, the-jam]
+tags: [70s, mod, punk, swing]
 hide:
   - toc
 ---

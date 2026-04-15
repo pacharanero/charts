@@ -1,6 +1,6 @@
 ---
 title: "Think About It"
-tags: [comedy, flight-of-the-conchords, folk, jazz-chords, novelty, punk]
+tags: [comedy, folk, novelty, punk]
 hide:
   - toc
 ---

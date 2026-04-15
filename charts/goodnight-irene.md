@@ -1,6 +1,6 @@
 ---
 title: "Goodnight Irene"
-tags: [country, leadbelly]
+tags: [country]
 hide:
   - toc
 ---

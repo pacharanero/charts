@@ -1,6 +1,6 @@
 ---
 title: "First Date"
-tags: [blink-182, tab]
+tags: [tab]
 hide:
   - toc
 ---

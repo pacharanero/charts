@@ -1,6 +1,6 @@
 ---
 title: "Faith (key B)"
-tags: [blues, george-michael]
+tags: [blues]
 hide:
   - toc
 ---

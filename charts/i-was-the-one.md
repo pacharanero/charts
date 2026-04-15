@@ -1,6 +1,6 @@
 ---
 title: "I Was The One"
-tags: [50s, recorded-by-elvis-presley, rock-and-roll, rockabilly]
+tags: [50s, rock-and-roll, rockabilly]
 hide:
   - toc
 ---

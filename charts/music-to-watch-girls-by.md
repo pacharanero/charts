@@ -1,6 +1,5 @@
 ---
 title: "Music to Watch Girls By"
-tags: [andy-williams, jazz-chords]
 hide:
   - toc
 ---

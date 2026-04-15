@@ -1,6 +1,5 @@
 ---
 title: "Son Of A Preacher Man"
-tags: [dusty-springfield]
 hide:
   - toc
 ---

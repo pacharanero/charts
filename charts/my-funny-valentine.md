@@ -1,6 +1,5 @@
 ---
 title: "My Funny Valentine"
-tags: [jazz-chords, words-music-by-lorenz-hart-richard-rodgers-1937]
 hide:
   - toc
 ---

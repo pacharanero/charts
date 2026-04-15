@@ -1,6 +1,6 @@
 ---
 title: "Summer Romance / Antigravity"
-tags: [incubus, jazz-chords, tab]
+tags: [tab]
 hide:
   - toc
 ---

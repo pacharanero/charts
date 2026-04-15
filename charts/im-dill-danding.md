@@ -1,6 +1,5 @@
 ---
 title: "I’m Dill Danding"
-tags: [elton-dohn, jazz-chords]
 hide:
   - toc
 ---

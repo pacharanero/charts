@@ -1,6 +1,5 @@
 ---
 title: "Delilah"
-tags: [tom-jones]
 hide:
   - toc
 ---

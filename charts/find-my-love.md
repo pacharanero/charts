@@ -1,6 +1,6 @@
 ---
 title: "Find My Love"
-tags: [80s, acoustic, fairground-attraction, folk, instrumental]
+tags: [80s, acoustic, folk, instrumental]
 hide:
   - toc
 ---

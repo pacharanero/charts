@@ -1,6 +1,5 @@
 ---
 title: "Golden Brown"
-tags: [the-stranglers]
 hide:
   - toc
 ---

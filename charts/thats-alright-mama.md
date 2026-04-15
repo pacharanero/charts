@@ -1,6 +1,6 @@
 ---
 title: "That’s Alright Mama"
-tags: [50s, elvis-presley, rock-and-roll, rockabilly]
+tags: [50s, rock-and-roll, rockabilly]
 hide:
   - toc
 ---

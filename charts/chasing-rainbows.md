@@ -1,6 +1,6 @@
 ---
 title: "Chasing Rainbows"
-tags: [90s, britpop, instrumental, jazz-chords, rock, shed-seven]
+tags: [90s, britpop, instrumental, rock]
 hide:
   - toc
 ---

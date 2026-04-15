@@ -1,6 +1,5 @@
 ---
 title: "Wake Me Up"
-tags: [avicii]
 hide:
   - toc
 ---

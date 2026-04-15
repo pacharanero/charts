@@ -1,6 +1,6 @@
 ---
 title: "Birthday"
-tags: [2-tone, 60s, 70s, british-invasion, instrumental, rock, ska, the-beatles]
+tags: [2-tone, 60s, 70s, british-invasion, instrumental, rock, ska]
 hide:
   - toc
 ---

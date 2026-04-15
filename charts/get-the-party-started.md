@@ -1,6 +1,5 @@
 ---
 title: "Get The Party Started"
-tags: [dick-brave-and-the-backbeats]
 hide:
   - toc
 ---

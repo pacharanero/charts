@@ -1,6 +1,6 @@
 ---
 title: "Liquor Store"
-tags: [blues, devil-doll]
+tags: [blues]
 hide:
   - toc
 ---

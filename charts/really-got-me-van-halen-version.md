@@ -1,6 +1,5 @@
 ---
 title: "Really Got Me (Van Halen Version)"
-tags: []
 hide:
   - toc
 ---

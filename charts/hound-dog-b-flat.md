@@ -1,6 +1,6 @@
 ---
 title: "Hound Dog"
-tags: [50s, elvis-presley, rock-and-roll, rockabilly]
+tags: [50s, rock-and-roll, rockabilly]
 hide:
   - toc
 ---

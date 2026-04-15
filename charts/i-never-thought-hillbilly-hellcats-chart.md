@@ -1,6 +1,6 @@
 ---
 title: "I Never Thought"
-tags: [danish, modern, rockabilly, the-hillbilly-hellcats]
+tags: [danish, modern, rockabilly]
 hide:
   - toc
 ---

@@ -1,6 +1,6 @@
 ---
 title: "My Guy"
-tags: [60s, jazz-chords, mary-wells, motown, soul]
+tags: [60s, motown, soul]
 hide:
   - toc
 ---

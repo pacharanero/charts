@@ -1,6 +1,6 @@
 ---
 title: "Ruby"
-tags: [00s, britpop, indie, kaiser-chiefs]
+tags: [00s, britpop, indie]
 hide:
   - toc
 ---

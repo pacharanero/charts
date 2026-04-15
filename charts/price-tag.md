@@ -1,6 +1,5 @@
 ---
 title: "Price Tag"
-tags: [jessie-j]
 hide:
   - toc
 ---

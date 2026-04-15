@@ -1,6 +1,6 @@
 ---
 title: "Pinball Wizard"
-tags: [60s, british-invasion, instrumental, jazz-chords, rock, the-who]
+tags: [60s, british-invasion, instrumental, rock]
 hide:
   - toc
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Bad Case Of Lovin’ You"
-tags: [robert-palmer]
 hide:
   - toc
 ---

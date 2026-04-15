@@ -1,6 +1,5 @@
 ---
 title: "Don't Sit Under The Apple Tree (Ebm)"
-tags: [the-puppini-sisters]
 hide:
   - toc
 ---

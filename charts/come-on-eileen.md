@@ -1,6 +1,6 @@
 ---
 title: "Come On Eileen"
-tags: [dexy-s-midnight-runners, instrumental]
+tags: [instrumental]
 hide:
   - toc
 ---

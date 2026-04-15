@@ -1,6 +1,6 @@
 ---
 title: "The Air That I Breathe"
-tags: [instrumental, jazz-chords, the-hollies]
+tags: [instrumental]
 hide:
   - toc
 ---

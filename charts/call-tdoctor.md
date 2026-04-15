@@ -1,6 +1,5 @@
 ---
 title: "Call t'Doctor"
-tags: []
 hide:
   - toc
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Good Riddance (Time Of Your Life)"
-tags: [90s, green-day, jazz-chords, pop-punk, punk]
+tags: [90s, pop-punk, punk]
 hide:
   - toc
 ---

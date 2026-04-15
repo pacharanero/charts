@@ -1,6 +1,5 @@
 ---
 title: "What's Up?"
-tags: []
 hide:
   - toc
 ---

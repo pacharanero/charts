@@ -1,6 +1,5 @@
 ---
 title: "Looky There Over There"
-tags: [rose-maddox]
 hide:
   - toc
 ---

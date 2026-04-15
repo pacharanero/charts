@@ -1,6 +1,5 @@
 ---
 title: "I'm So Excited"
-tags: [the-pointer-sisters]
 hide:
   - toc
 ---

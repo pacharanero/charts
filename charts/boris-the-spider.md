@@ -1,6 +1,6 @@
 ---
 title: "Boris the Spider"
-tags: [60s, british-invasion, rock, the-who]
+tags: [60s, british-invasion, rock]
 hide:
   - toc
 ---

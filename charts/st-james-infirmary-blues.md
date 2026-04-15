@@ -1,6 +1,6 @@
 ---
 title: "St James’ Infirmary Blues"
-tags: [blues, trad-blues-tom-jones-version]
+tags: [blues]
 hide:
   - toc
 ---

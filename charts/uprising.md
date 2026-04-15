@@ -1,6 +1,5 @@
 ---
 title: "Uprising"
-tags: [muse]
 hide:
   - toc
 ---

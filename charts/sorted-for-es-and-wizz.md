@@ -1,6 +1,6 @@
 ---
 title: "Sorted for Es and Wizz"
-tags: [90s, britpop, pulp, rock]
+tags: [90s, britpop, rock]
 hide:
   - toc
 ---

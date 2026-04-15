@@ -1,6 +1,6 @@
 ---
 title: "Don’t Stop Movin’"
-tags: [blues, swing, the-beautiful-south]
+tags: [blues, swing]
 hide:
   - toc
 ---

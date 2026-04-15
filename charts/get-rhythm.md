@@ -1,6 +1,6 @@
 ---
 title: "Get Rhythm"
-tags: [90s, americana, blues, britpop, country, instrumental, irish, johnny-cash, rockabilly]
+tags: [90s, americana, blues, britpop, country, instrumental, rockabilly]
 hide:
   - toc
 ---

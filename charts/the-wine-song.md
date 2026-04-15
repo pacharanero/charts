@@ -1,6 +1,6 @@
 ---
 title: "The Wine Song"
-tags: [cat-empire, instrumental, jazz-chords]
+tags: [instrumental]
 hide:
   - toc
 ---

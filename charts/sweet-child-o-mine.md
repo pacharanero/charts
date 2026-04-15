@@ -1,6 +1,6 @@
 ---
 title: "Sweet Child O’ Mine"
-tags: [blues, guns-n-roses, instrumental]
+tags: [blues, instrumental]
 hide:
   - toc
 ---

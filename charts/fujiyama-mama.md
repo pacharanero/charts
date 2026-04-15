@@ -1,6 +1,5 @@
 ---
 title: "Fujiyama Mama"
-tags: [rose-maddox]
 hide:
   - toc
 ---

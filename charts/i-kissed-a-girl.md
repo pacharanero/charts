@@ -1,6 +1,5 @@
 ---
 title: "I Kissed A Girl"
-tags: [katy-perry]
 hide:
   - toc
 ---

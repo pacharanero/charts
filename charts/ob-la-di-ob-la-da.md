@@ -1,6 +1,6 @@
 ---
 title: "Ob-la-di, Ob-la-da"
-tags: [2-tone, 60s, 70s, british-invasion, rock, ska, the-beatles]
+tags: [2-tone, 60s, 70s, british-invasion, rock, ska]
 hide:
   - toc
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Molly Malone (Minor Key Version)"
-tags: [imelda-may, irish, jazz-chords, modern, rockabilly]
+tags: [modern, rockabilly]
 hide:
   - toc
 ---

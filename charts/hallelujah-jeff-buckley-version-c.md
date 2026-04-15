@@ -1,6 +1,5 @@
 ---
 title: "Hallelujah"
-tags: [jeff-buckley-version-c]
 hide:
   - toc
 ---

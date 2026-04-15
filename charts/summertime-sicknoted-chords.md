@@ -1,6 +1,5 @@
 ---
 title: "Summertime (Sicknoted Chords)"
-tags: [george-gershwin]
 hide:
   - toc
 ---

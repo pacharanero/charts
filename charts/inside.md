@@ -1,6 +1,6 @@
 ---
 title: "Inside"
-tags: [stiltskin, swing, tab]
+tags: [swing, tab]
 hide:
   - toc
 ---

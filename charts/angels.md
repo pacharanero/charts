@@ -1,6 +1,6 @@
 ---
 title: "Angels"
-tags: [00s, 90s, jazz-chords, pop, robbie-williams]
+tags: [00s, 90s, pop]
 hide:
   - toc
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Brick House"
-tags: [the-commodores]
 hide:
   - toc
 ---

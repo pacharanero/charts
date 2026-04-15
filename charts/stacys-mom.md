@@ -1,6 +1,6 @@
 ---
 title: "Stacy's Mom"
-tags: [00s, 90s, fountains-of-wayne, jazz-chords, power-pop, tab]
+tags: [00s, 90s, power-pop, tab]
 hide:
   - toc
 ---

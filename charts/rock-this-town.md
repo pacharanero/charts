@@ -1,6 +1,6 @@
 ---
 title: "Rock this Town"
-tags: [80s, big-band, blues, jump-blues, psychobilly, rockabilly, stray-cats, stray-cats-brian-setzer-orchestra, swing-revival]
+tags: [80s, big-band, blues, jump-blues, psychobilly, rockabilly, swing-revival]
 hide:
   - toc
 ---

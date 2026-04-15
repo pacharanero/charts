@@ -1,6 +1,5 @@
 ---
 title: "In Hell I’ll Be In Good Company"
-tags: [the-dead-south]
 hide:
   - toc
 ---

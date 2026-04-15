@@ -1,6 +1,6 @@
 ---
 title: "Heard It Through The Grapevine"
-tags: [70s, marvin-gaye, motown, soul]
+tags: [70s, motown, soul]
 hide:
   - toc
 ---

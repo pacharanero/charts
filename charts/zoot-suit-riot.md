@@ -1,6 +1,6 @@
 ---
 title: "Zoot Suit Riot"
-tags: [cherry-poppin-daddies, swing]
+tags: [swing]
 hide:
   - toc
 ---

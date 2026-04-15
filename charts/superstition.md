@@ -1,6 +1,6 @@
 ---
 title: "Superstition"
-tags: [70s, funk, jazz-chords, soul, stevie-wonder]
+tags: [70s, funk, soul]
 hide:
   - toc
 ---

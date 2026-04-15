@@ -1,6 +1,6 @@
 ---
 title: "Prejudice"
-tags: [comedy, jazz-chords, modern, piano, tim-minchin]
+tags: [comedy, modern, piano]
 hide:
   - toc
 ---

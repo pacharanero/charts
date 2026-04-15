@@ -1,6 +1,6 @@
 ---
 title: "Ain't No Sunshine"
-tags: [70s, acoustic, bill-withers, soul]
+tags: [70s, acoustic, soul]
 hide:
   - toc
 ---

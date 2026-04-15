@@ -1,6 +1,5 @@
 ---
 title: "Tu Vuo’ fa’ l’Americano"
-tags: [jazz-chords, renato-carosone]
 hide:
   - toc
 ---

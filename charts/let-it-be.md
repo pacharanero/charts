@@ -1,6 +1,6 @@
 ---
 title: "Let It Be"
-tags: [60s, beatles, british-invasion, rock]
+tags: [60s, british-invasion, rock]
 hide:
   - toc
 ---

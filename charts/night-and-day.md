@@ -1,6 +1,5 @@
 ---
 title: "Night and Day"
-tags: [cole-porter, jazz-chords]
 hide:
   - toc
 ---

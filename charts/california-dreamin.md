@@ -1,6 +1,5 @@
 ---
 title: "California Dreamin’"
-tags: [jazz-chords, the-mamas-the-papas]
 hide:
   - toc
 ---

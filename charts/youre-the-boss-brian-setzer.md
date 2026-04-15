@@ -1,6 +1,6 @@
 ---
 title: "You’re The Boss - Brian Setzer"
-tags: [instrumental, jazz-chords, swing]
+tags: [instrumental, swing]
 hide:
   - toc
 ---

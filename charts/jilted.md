@@ -1,6 +1,5 @@
 ---
 title: "Jilted"
-tags: [jazz-chords, puppini-sisters]
 hide:
   - toc
 ---

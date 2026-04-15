@@ -1,6 +1,6 @@
 ---
 title: Beautiful Day (The Levellers)
-tags: [90s, celtic, folk-rock, the-levellers]
+tags: [90s, celtic, folk-rock]
 hide:
   - toc
 ---

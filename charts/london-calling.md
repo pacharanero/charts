@@ -1,6 +1,6 @@
 ---
 title: "London Calling"
-tags: [70s, 90s, britpop, instrumental, irish, punk, rock, swing, the-clash]
+tags: [70s, 90s, britpop, instrumental, punk, rock, swing]
 hide:
   - toc
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Rock n Roll Nerd"
-tags: [comedy, modern, piano, tim-minchin]
+tags: [comedy, modern, piano]
 hide:
   - toc
 ---

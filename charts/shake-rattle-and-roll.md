@@ -1,6 +1,6 @@
 ---
 title: "Shake, Rattle, and Roll"
-tags: [50s, elvis-presley-version-chords-e-a7-b7, rock-and-roll, rockabilly]
+tags: [50s, rock-and-roll, rockabilly]
 hide:
   - toc
 ---

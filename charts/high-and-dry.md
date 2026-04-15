@@ -1,6 +1,6 @@
 ---
 title: "High and Dry"
-tags: [radiohead, tab]
+tags: [tab]
 hide:
   - toc
 ---

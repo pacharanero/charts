@@ -1,6 +1,6 @@
 ---
 title: "Dream A Little Dream Of Me"
-tags: [ella-fitzgerald-music-by-fabian-andre-and-wilbur-schwandt, instrumental, jazz, jazz-chords, swing, vocal-jazz]
+tags: [instrumental, jazz, swing, vocal-jazz]
 hide:
   - toc
 ---

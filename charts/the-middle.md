@@ -1,6 +1,5 @@
 ---
 title: "The Middle"
-tags: [jimmy-eat-world]
 hide:
   - toc
 ---

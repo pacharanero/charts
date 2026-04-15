@@ -1,6 +1,6 @@
 ---
 title: "Rumble"
-tags: [50s, instrumental, link-wray, rock-and-roll]
+tags: [50s, instrumental, rock-and-roll]
 hide:
   - toc
 ---

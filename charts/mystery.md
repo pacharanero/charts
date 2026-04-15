@@ -1,6 +1,6 @@
 ---
 title: "Mystery"
-tags: [country, hugh-laurie, jazz-chords]
+tags: [country]
 hide:
   - toc
 ---

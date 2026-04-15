@@ -1,6 +1,5 @@
 ---
 title: "Dance The Night Away"
-tags: [jazz-chords, the-mavericks]
 hide:
   - toc
 ---

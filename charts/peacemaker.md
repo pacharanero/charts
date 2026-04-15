@@ -1,6 +1,6 @@
 ---
 title: "Peacemaker"
-tags: [90s, acoustic, green-day, pop-punk, punk]
+tags: [90s, acoustic, pop-punk, punk]
 hide:
   - toc
 ---

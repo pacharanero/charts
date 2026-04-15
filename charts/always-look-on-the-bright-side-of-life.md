@@ -1,6 +1,6 @@
 ---
 title: "Always Look On The Bright Side Of Life"
-tags: [comedy, eric-idle, novelty]
+tags: [comedy, novelty]
 hide:
   - toc
 ---

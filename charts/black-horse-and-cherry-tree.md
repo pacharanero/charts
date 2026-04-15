@@ -1,6 +1,5 @@
 ---
 title: "Black Horse and Cherry Tree"
-tags: [jazz-chords, kt-tunstall]
 hide:
   - toc
 ---

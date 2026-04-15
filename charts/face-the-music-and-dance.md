@@ -1,6 +1,5 @@
 ---
 title: "Face The Music And Dance"
-tags: [jazz-chords]
 hide:
   - toc
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Rawhide"
-tags: [90s, britpop, irish, ned-washington-dimitri-tiomkin-1958]
+tags: [90s, britpop]
 hide:
   - toc
 ---

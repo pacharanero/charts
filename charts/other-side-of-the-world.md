@@ -1,6 +1,5 @@
 ---
 title: "Other Side Of the World"
-tags: [jazz-chords, k-t-tunstall]
 hide:
   - toc
 ---

@@ -1,6 +1,6 @@
 ---
 title: "I Can See Clearly Now"
-tags: [90s, britpop, irish, johnny-nash]
+tags: [90s, britpop]
 hide:
   - toc
 ---

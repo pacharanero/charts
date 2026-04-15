@@ -1,6 +1,6 @@
 ---
 title: "Merry Christmas Everybody"
-tags: [70s, christmas, glam-rock, rock, slade]
+tags: [70s, christmas, glam-rock, rock]
 hide:
   - toc
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Lonely At The Top"
-tags: [70s, randy-newman, singer-songwriter, soundtrack]
+tags: [70s, singer-songwriter, soundtrack]
 hide:
   - toc
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Until I Found You (C)"
-tags: [stephen-sanchez]
 hide:
   - toc
 ---

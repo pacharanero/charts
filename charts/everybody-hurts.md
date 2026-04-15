@@ -1,6 +1,6 @@
 ---
 title: "Everybody Hurts"
-tags: [80s, alternative, r-e-m, rock]
+tags: [80s, alternative, rock]
 hide:
   - toc
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Wondrous Place"
-tags: [billy-fury, jazz-chords]
 hide:
   - toc
 ---

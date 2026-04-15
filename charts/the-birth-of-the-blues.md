@@ -1,6 +1,6 @@
 ---
 title: "The Birth of the Blues"
-tags: [blues, jazz-chords]
+tags: [blues]
 hide:
   - toc
 ---

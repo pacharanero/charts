@@ -1,6 +1,6 @@
 ---
 title: "Let’s Live It Up"
-tags: [big-band, brian-setzer-orchestra, jazz-chords, jump-blues, rockabilly, stray-cats, swing-revival]
+tags: [big-band, jump-blues, rockabilly, swing-revival]
 hide:
   - toc
 ---

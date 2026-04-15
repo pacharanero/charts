@@ -1,6 +1,6 @@
 ---
 title: "Heartwork"
-tags: [guitar, harrison-rimmer, instrumental, modern]
+tags: [guitar, instrumental, modern]
 hide:
   - toc
 ---

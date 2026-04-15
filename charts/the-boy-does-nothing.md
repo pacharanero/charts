@@ -1,6 +1,5 @@
 ---
 title: "The Boy Does Nothing"
-tags: [alesha-dixon]
 hide:
   - toc
 ---

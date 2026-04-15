@@ -1,6 +1,5 @@
 ---
 title: "Breaking The Girl"
-tags: [red-hot-chilli-peppers]
 hide:
   - toc
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Nine To Five"
-tags: [70s, blues, country, dolly-parton-sicknoted-key-e, folk]
+tags: [70s, blues, country, folk]
 hide:
   - toc
 ---

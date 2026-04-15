@@ -1,6 +1,6 @@
 ---
 title: "Paint It Black"
-tags: [60s, blues-rock, rock, rolling-stones]
+tags: [60s, blues-rock, rock]
 hide:
   - toc
 ---

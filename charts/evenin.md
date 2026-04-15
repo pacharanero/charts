@@ -1,6 +1,6 @@
 ---
 title: "Evenin'"
-tags: [40s, blues, electric-blues, t-bone-walker]
+tags: [40s, blues, electric-blues]
 hide:
   - toc
 ---

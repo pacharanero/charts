@@ -1,6 +1,6 @@
 ---
 title: "Havana"
-tags: [camila-cabello, instrumental]
+tags: [instrumental]
 hide:
   - toc
 ---

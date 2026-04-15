@@ -1,6 +1,6 @@
 ---
 title: "Roll Over Beethoven"
-tags: [blues, chuck-berry]
+tags: [blues]
 hide:
   - toc
 ---

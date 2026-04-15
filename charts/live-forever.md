@@ -1,6 +1,6 @@
 ---
 title: "Live Forever"
-tags: [90s, britpop, jazz-chords, oasis, rock]
+tags: [90s, britpop, rock]
 hide:
   - toc
 ---

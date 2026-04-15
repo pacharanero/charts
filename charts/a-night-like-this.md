@@ -1,6 +1,6 @@
 ---
 title: "A Night Like This"
-tags: [caro-emerald, jazz, jazz-chords, modern, swing]
+tags: [jazz, modern, swing]
 hide:
   - toc
 ---

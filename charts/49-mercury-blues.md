@@ -1,6 +1,6 @@
 ---
 title: "'49 Mercury Blues"
-tags: [big-band, blues, brian-setzer-orchestra, jump-blues, rockabilly, stray-cats, swing-revival]
+tags: [big-band, blues, jump-blues, rockabilly, swing-revival]
 hide:
   - toc
 ---
