@@ -9,7 +9,7 @@ hide:
 
 ### INTRO
 
-[E] [Bm] [E]  x2
+[E] [Bm] [E]  x2  
 
 ### VERSE 1
 
