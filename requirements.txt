@@ -1,2 +1,2 @@
-zensical>=0.0.32
+zensical>=0.0.38
 mkdocs-awesome-pages-plugin>=2.9.2
