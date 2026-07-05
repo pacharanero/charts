@@ -1,14 +1,16 @@
 # The Marcus Baw Musical Charting System
 
-Welcome to my collection of guitar chord and lyric charts. These charts are formatted using the 'Marcus Baw Musical Charting System' (MBCS) — a simple but effective way of writing music charts that I've been refining for about 15 years.
+Welcome to my collection of guitar chord and lyric charts. These charts are formatted using the 'Marcus Baw Musical Charting System' (MBCS) — a simple music chart format that I've been refining for about 15 years.
 
-I started putting chords and lyrics together on a **single page** because I got irritated by multi-page printouts from site like Ultimate Guitar, where you have to flip pages while playing, or scroll when viewing on a digital device.
+I started putting chords and lyrics together on a **single page** because I got irritated by multi-page printouts from site like Ultimate Guitar, where you have to flip pages while playing, or scroll when viewing on a digital device. So one design goal is that the entire chart needs to fit on a single page.
 
-Also, in most charts the chords are printed on a separate line above the lyrics, which I found made it harder to visually scan both at the same time when jamming. I made a collection of charts for jamming in this way by printing them all at A5 size and putting them in a lever arch folder — but not all of you will have this degree of OCD! Eventually I decided A5 was too small for dimly lit pubs, so have moved to printing them at A4 (141% print scale).
+Also, in most charts the chords are printed on a separate line above the lyrics, which made it harder to visually scan both at the same time when jamming. So the chords are printed in **[square brackets]** within the lyrics, and where possible at exactly the correct syllable boundary.
 
-These charts have been collected and arranged over many years, originally in .doc format, then Google Documents, and now converted to Markdown for better maintainability and interaction with modern tools. They use trailing spaces for proper line breaks and are optimised for both digital viewing and printing.
+I made a collection of charts for jamming in this way by printing them all at A5 size and putting them in a lever arch folder — but not all of you will have this degree of OCD! Eventually I decided A5 was too small for dimly lit pubs, so have moved to printing them at A4 (141% print scale).
 
-## The Aim Of These Charts
+These charts have been collected over years, originally in .doc format, then moved manually to Google Documents, and now converted to Markdown for better maintainability and interaction with modern tools like LLMs.
+
+## Aims
 
 * Get the entire chords and lyrics on **one page**, as simply as possible.
 

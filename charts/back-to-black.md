@@ -5,43 +5,56 @@ hide:
   - toc
 ---
 
+# Back To Black
 
 ## Amy Winehouse
 
+SLOW 4/4  
+*(Live at Other Voices, 2006 - Dm)*
+
 ### INTRO
 
-Dm  Gm  Bb  A  
+[Dm] / / / / | [Gm] / / / / | [Bb] / / / / | [A] / / / / |
 
-### VERSE
+### VERSE 1
 
-He left no time to re-gret,  
+[Dm] He left no time to re-[Gm]gret,  
 Kept his dick wet, with his same old safe bet.  
-Me... and my head high,  
-And my tears dry; get on without my guy.  
+[Bb] Me... and my head high,  
+[A] And my tears dry; get on without my guy.  
 
-You went back to what you knew,  
-So far removed, from all that we went through.  
-And I... tread a troubled track,  
-My odds are stacked; I'll go back to black.  
+[Dm] You went back to what you knew,  
+[Gm] So far removed, from all that we went through.  
+[Bb] And I... tread a troubled track,  
+[A] My odds are stacked; I'll go back to black.  
 
-We only said goodbye with words; I died a hundred times.  
-You go back to her and I go back to...I go back to us.  
+### CHORUS
 
-I love you much,  
-It's not e-nough; you love blow and I love puff.  
-And life is like a pipe,  
-And I'm a tiny penny rolling up the walls inside.  
+[Dm] We only said goodbye with [Gm] words; I died a hundred [Bb] times.  
+You go back to [A] her and I go back to black.  
 
-We only said goodbye with words; I died a hundred times.  
-You go back to her and I go back to...  
+### VERSE 2
 
-We only said goodbye with words; I died a hundred times.  
-You go back to her and I go back to...  
+[Dm] I love you much,  
+[Gm] It's not e-nough; you love blow and I love puff.  
+[Bb] And life is like a pipe,  
+[A] And I'm a tiny penny rolling up the walls inside.  
 
-Dm        Bbmaj7   	F         A  
-Black... black,	 Black... black.  
+### CHORUS
 
-We only said goodbye with words; I died a hundred times.  
-You go back to her and I go back to...  
-We only said goodbye with words; I died a hundred times.  
-You go back to her and I go back to black.  
+### CHORUS
+
+[Dm] We only said goodbye with [Gm] words; I died a hundred [Bb] times.  
+You go back to [A] her and I go back to...
+
+### CODA
+
+[Dm] Black... [Bbmaj7] black, [F] Black... [A] black.  
+
+### CHORUS
+
+### CHORUS
+
+### OUTRO
+
+[Dm] / / / / | [Gm] / / / / | [Bb] / / / / | [A] / / / / | [Dm] **STOP**
