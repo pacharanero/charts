@@ -1,4 +1,4 @@
-site_name: Marcus Baw Guitar Charts
+site_name: charts
 site_description: A collection of guitar chord and lyric charts in Markdown format
 site_author: Marcus Baw
 site_url: https://pacharanero.github.io/charts
@@ -95,4 +95,3 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/pacharanero
-

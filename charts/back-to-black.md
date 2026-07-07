@@ -10,46 +10,46 @@ hide:
 ## Amy Winehouse
 
 SLOW 4/4  
-*(Live at Other Voices, 2006 - Dm)*
+*(Live at Other Voices, 2006 - Cm)*
 
 ### INTRO
 
-[Dm] / / / / | [Gm] / / / / | [Bb] / / / / | [A] / / / / |
+[Cm] / / / / | [Fm] / / / / | [Ab] / / / / | [G] / / / / |
 
 ### VERSE 1
 
-[Dm] He left no time to re-[Gm]gret,  
+[Cm] He left no time to re-[Fm]gret,  
 Kept his dick wet, with his same old safe bet.  
-[Bb] Me... and my head high,  
-[A] And my tears dry; get on without my guy.  
+[Ab] Me... and my head high,  
+[G] And my tears dry; get on without my guy.  
 
-[Dm] You went back to what you knew,  
-[Gm] So far removed, from all that we went through.  
-[Bb] And I... tread a troubled track,  
-[A] My odds are stacked; I'll go back to black.  
+[Cm] You went back to what you knew,  
+[Fm] So far removed, from all that we went through.  
+[Ab] And I... tread a troubled track,  
+[G] My odds are stacked; I'll go back to black.  
 
 ### CHORUS
 
-[Dm] We only said goodbye with [Gm] words; I died a hundred [Bb] times.  
-You go back to [A] her and I go back to black.  
+[Cm] We only said goodbye with [Fm] words; I died a hundred [Ab] times.  
+You go back to [G] her and I go back to black.
 
 ### VERSE 2
 
-[Dm] I love you much,  
-[Gm] It's not e-nough; you love blow and I love puff.  
-[Bb] And life is like a pipe,  
-[A] And I'm a tiny penny rolling up the walls inside.  
+[Cm] I love you much,  
+[Fm] It's not e-nough; you love blow and I love puff.  
+[Ab] And life is like a pipe,  
+[G] And I'm a tiny penny rolling up the walls inside.  
 
 ### CHORUS
 
 ### CHORUS
 
-[Dm] We only said goodbye with [Gm] words; I died a hundred [Bb] times.  
-You go back to [A] her and I go back to...
+[Cm] We only said goodbye with [Fm] words; I died a hundred [Ab] times.  
+You go back to [G] her and I go back to...
 
 ### CODA
 
-[Dm] Black... [Bbmaj7] black, [F] Black... [A] black.  
+[Cm] Black... [Abmaj7] black, [Eb] Black... [G] black.
 
 ### CHORUS
 
@@ -57,4 +57,4 @@ You go back to [A] her and I go back to...
 
 ### OUTRO
 
-[Dm] / / / / | [Gm] / / / / | [Bb] / / / / | [A] / / / / | [Dm] **STOP**
+[Cm] / / / / | [Fm] / / / / | [Ab] / / / / | [G] / / / / | [Cm] **STOP**

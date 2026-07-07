@@ -1,32 +1,62 @@
 /* Import Google Fonts: Source Serif Pro for body text, JetBrains Mono for tab blocks */
-@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=JetBrains+Mono:wght@400;500&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=JetBrains+Mono:wght@400;500&display=swap");
 
 :root {
-  /* Brand color palette - consistent across modes */
-  --brand-primary: #8B4513;
-  --brand-primary-light: #A0522D;
-  --brand-primary-dark: #654321;
-  --brand-primary-darker: #4A2C17;
-  
+  /*
+   * MBCS palette: warm walnut + parchment, with a muted teal accent.
+   * This is an analogous earth palette with a complementary blue-green accent:
+   * cosy for music/charts, but with WCAG-friendly foreground/background pairs.
+   */
+  --brand-primary: #6f451c;
+  --brand-primary-light: #a96d2a;
+  --brand-primary-dark: #4a2c13;
+  --brand-primary-darker: #2b1a0d;
+  --brand-accent: #2f6f73;
+
+  --mbcs-header-bg: #3a2414;
+  --mbcs-header-fg: #fff4dc;
+  --mbcs-header-muted: #f1d29a;
+  --mbcs-header-accent: #f0b84f;
+  --mbcs-header-control-bg: #fff4dc;
+  --mbcs-header-control-fg: #2b1a0d;
+  --mbcs-header-control-border: #f0b84f;
+
   /* Light scheme colors */
   --md-primary-fg-color: var(--brand-primary);
   --md-primary-fg-color--light: var(--brand-primary-light);
-  --md-primary-fg-color--dark: var(--brand-primary-darker);
-  --md-primary-bg-color: #ffffff;
-  --md-primary-bg-color--light: #f5f5f2;
-  
+  --md-primary-fg-color--dark: var(--brand-primary-dark);
+  --md-primary-bg-color: #fffaf0;
+  --md-primary-bg-color--light: #fff4dc;
+  --md-accent-fg-color: var(--brand-accent);
+
   /* Typography overrides */
-  --md-text-font: "Source Serif Pro", Georgia, "Times New Roman", "Noto Serif", serif;
+  --md-text-font:
+    "Source Serif Pro", Georgia, "Times New Roman", "Noto Serif", serif;
   --md-code-font: "JetBrains Mono", "SF Mono", Menlo, Consolas, monospace;
 }
 
 /* Dark scheme overrides */
 [data-md-color-scheme="slate"] {
+  --brand-primary: #d99d3f;
+  --brand-primary-light: #f0c46b;
+  --brand-primary-dark: #f4d58d;
+  --brand-primary-darker: #ffe3a3;
+  --brand-accent: #7cc6c8;
+
+  --mbcs-header-bg: #1f160f;
+  --mbcs-header-fg: #fff1d2;
+  --mbcs-header-muted: #ddb978;
+  --mbcs-header-accent: #ffca62;
+  --mbcs-header-control-bg: #fff1d2;
+  --mbcs-header-control-fg: #1f160f;
+  --mbcs-header-control-border: #ffca62;
+
   --md-primary-fg-color: var(--brand-primary);
   --md-primary-fg-color--light: var(--brand-primary-light);
   --md-primary-fg-color--dark: var(--brand-primary-dark);
-  --md-primary-bg-color: #1c1c1c;
-  --md-primary-bg-color--light: #2a2a2a;
+  --md-primary-bg-color: #1f1b17;
+  --md-primary-bg-color--light: #2a241e;
+  --md-accent-fg-color: var(--brand-accent);
 }
 
 /* Improve contrast for links on tinted backgrounds */
@@ -35,43 +65,63 @@
 }
 
 /* Header / nav brand adjustments */
-.md-header, .md-tabs {
-  background-color: var(--md-primary-fg-color--dark);
+.md-header,
+.md-tabs {
+  background-color: var(--mbcs-header-bg);
+  color: var(--mbcs-header-fg);
+}
+.md-header a,
+.md-header button,
+.md-header .md-icon,
+.md-header__title,
+.md-header__source {
+  color: var(--mbcs-header-fg);
 }
 
-/* ------------------------------------------------------------------
-   Header size — ~60% taller than Material's 2.4rem default, with the
-   contents scaled up to match so the controls are easier to hit.
-   ------------------------------------------------------------------ */
+/* Header size follows the Recipes site proportions: bigger than the
+   Zensical default, without crowding the nav with chart controls. */
 .md-header,
 .md-header__inner {
-  height: 3.85rem;
+  height: 2.8rem;
 }
 .md-container {
-  padding-top: 3.85rem;
+  padding-top: 2.8rem;
 }
 .md-header__title {
   font-size: 1.1rem;
-  line-height: 1.2;
+  line-height: 1.1;
+}
+.md-header__topic,
+.md-header__topic:first-child,
+.md-header__ellipsis {
+  font-size: inherit;
+  line-height: inherit;
+  opacity: 1;
 }
 .md-header__button.md-logo img,
 .md-header__button.md-logo svg {
-  height: 1.75rem;
+  height: 1.45rem;
   width: auto;
 }
 .md-header__button {
-  font-size: 1.3rem;
-  padding: 0.5rem;
+  font-size: 1.05rem;
+  padding: 0.36rem;
 }
 .md-search__form {
-  height: 2.4rem;
+  height: 2rem;
+  background-color: color-mix(in srgb, var(--mbcs-header-fg) 16%, transparent);
+  border: 1px solid color-mix(in srgb, var(--mbcs-header-fg) 28%, transparent);
 }
 .md-search__input {
-  height: 2.4rem;
-  font-size: 0.9rem;
+  height: 2rem;
+  font-size: 0.85rem;
+  color: var(--mbcs-header-fg);
+}
+.md-search__input::placeholder {
+  color: color-mix(in srgb, var(--mbcs-header-fg) 76%, transparent);
 }
 .md-search__icon[for="__search"] {
-  top: 0.6rem;
+  top: 0.38rem;
 }
 /* This site doesn't use the navigation.tabs feature, so the tabs bar
    would otherwise render as an empty coloured band under the header. */
@@ -80,13 +130,15 @@
 }
 
 /* Active nav link contrast */
-.md-nav__item .md-nav__link--active, .md-tabs__link--active {
-  color: #2d2d2d;
-  font-weight: 600;
+.md-nav__item .md-nav__link--active,
+.md-tabs__link--active {
+  color: var(--md-primary-fg-color--dark);
+  font-weight: 700;
 }
 
 /* Buttons using primary */
-.md-button--primary, .md-typeset .md-button--primary {
+.md-button--primary,
+.md-typeset .md-button--primary {
   background-color: var(--md-primary-fg-color);
   color: #2d2d2d;
 }
@@ -96,9 +148,42 @@
   box-shadow: 0 0 0 2px var(--md-primary-fg-color--dark);
 }
 
+/* Tighten the on-screen layout; print layout is handled separately below. */
+.md-main__inner {
+  margin-top: 0.6rem;
+}
+.md-content {
+  flex: 1 1 auto;
+}
+@media (max-width: 76.25em) {
+  .md-sidebar {
+    display: none;
+  }
+  .md-content {
+    flex: 0 1 48rem;
+    margin: 0 auto;
+  }
+}
+.md-content__inner,
+.md-content__inner:not(:empty),
+[dir="ltr"] .md-content--post > .md-content__inner,
+[dir="ltr"]
+  .md-sidebar--primary:not([hidden])
+  ~ .md-content
+  > .md-content__inner {
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0.25rem 1.2rem 0;
+}
+
 /* Typography improvements for musical charts */
+.md-content__inner {
+  font-size: var(--mbcs-chart-font-size, 0.8rem);
+}
 .md-typeset {
   font-family: var(--md-text-font);
+  font-size: inherit;
 }
 
 /* Italic body text by default — toggleable via the header control.
@@ -108,7 +193,10 @@ html:not([data-mbcs-italic="off"]) .md-typeset li {
   font-style: italic;
 }
 
-.md-typeset h1, .md-typeset h2, .md-typeset h3, .md-typeset h4 {
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
   font-family: var(--md-text-font);
   font-weight: 600;
 }
@@ -134,7 +222,8 @@ html:not([data-mbcs-italic="off"]) .md-typeset li {
   letter-spacing: 0.02em;
 }
 
-.md-typeset h4, .md-typeset h5 {
+.md-typeset h4,
+.md-typeset h5 {
   font-size: 1em;
   margin: 0.5em 0 0.15em 0;
 }
@@ -147,10 +236,12 @@ html:not([data-mbcs-italic="off"]) .md-typeset li {
 /* Navigation and interface text */
 .md-nav__title,
 .md-nav__item,
-.md-header__title,
 .md-tabs__link {
   font-family: var(--md-text-font);
   font-size: 1.05em;
+}
+.md-header__title {
+  font-family: var(--md-text-font);
 }
 
 /* Musical notation styling */
@@ -178,7 +269,11 @@ html:not([data-mbcs-italic="off"]) .md-typeset li {
   text-align: center;
 }
 
-/* Tablature stays left-aligned and monospaced so columns line up */
+/* Tablature is centred as a block, but left-aligned internally so columns line up. */
+.md-typeset .highlight,
+.md-typeset div.highlight {
+  text-align: center;
+}
 .md-typeset pre,
 .md-typeset pre code,
 .md-typeset code {
@@ -188,8 +283,18 @@ html:not([data-mbcs-italic="off"]) .md-typeset li {
 }
 .md-typeset pre {
   display: inline-block;
+  width: auto;
+  max-width: 100%;
   text-align: left;
   margin: 0.5em auto;
+  overflow-x: auto;
+}
+.md-typeset pre code.mbcs-tab-needs-arrangement {
+  color: #8a1f11;
+  font-weight: 700;
+}
+[data-md-color-scheme="slate"] .md-typeset pre code.mbcs-tab-needs-arrangement {
+  color: #ffb4a8;
 }
 
 /* Tight line-height and minimal paragraph margins for single-page density */
@@ -198,7 +303,8 @@ html:not([data-mbcs-italic="off"]) .md-typeset li {
   margin: 0 0 0.35em 0;
 }
 
-.md-typeset ul, .md-typeset ol {
+.md-typeset ul,
+.md-typeset ol {
   margin: 0.25em 0 0.35em 1.2em;
 }
 .md-typeset li {
@@ -218,80 +324,147 @@ html:not([data-mbcs-italic="off"]) .md-typeset li {
   white-space: nowrap;
 }
 
-/* --- MBCS transpose control --- */
-#mbcs-transpose {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5em;
-  font-size: 1em;
-  /* inherit the header's text colour, which Material/Zensical drives from the
-     primary-bg-color variable and adjusts per color scheme */
-  color: inherit;
-}
-
-/* When injected into the site header, sit alongside the search bar and
-   pick up the header's colour scheme automatically via currentColor. */
-#mbcs-transpose.mbcs-in-header {
-  margin: 0 0.8rem;
-  padding: 0.35em 0.7em;
-  background: color-mix(in srgb, currentColor 12%, transparent);
-  border: 1px solid color-mix(in srgb, currentColor 25%, transparent);
-  border-radius: 999px;
-  flex-shrink: 0;
-  transition: background 0.15s;
-}
-#mbcs-transpose.mbcs-in-header:hover {
-  background: color-mix(in srgb, currentColor 18%, transparent);
-}
-#mbcs-transpose.mbcs-in-header .mbcs-t-label {
-  font-weight: 600;
-  margin-right: 0.35em;
+/* --- MBCS floating chart tools --- */
+#mbcs-transpose.mbcs-tools {
+  position: fixed;
+  right: 1rem;
+  top: calc(2.8rem + 0.75rem);
+  z-index: 5;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  max-width: min(19rem, calc(100vw - 2rem));
+  padding: 0.45rem;
+  color: var(--mbcs-header-control-fg);
+  background: color-mix(in srgb, var(--md-primary-bg-color) 90%, white 10%);
+  border: 2px solid var(--mbcs-header-control-border);
+  border-radius: 0.8rem;
+  box-shadow: 0 0.4rem 1.2rem color-mix(in srgb, #000 24%, transparent);
   font-family: var(--md-text-font);
-  font-size: 1em;
-  color: inherit;
-  opacity: 0.95;
+  font-size: 0.72rem;
 }
-#mbcs-transpose.mbcs-in-header .mbcs-t-btn {
-  background: color-mix(in srgb, currentColor 22%, transparent);
-  color: inherit;
-  border: none;
-  border-radius: 50%;
-  width: 2em;
-  height: 2em;
-  font-size: 1.1em;
-  line-height: 1;
-  cursor: pointer;
-  padding: 0;
+[data-md-color-scheme="slate"] #mbcs-transpose.mbcs-tools {
+  background: color-mix(in srgb, var(--md-primary-bg-color) 86%, black 14%);
+  color: var(--mbcs-header-fg);
+}
+#mbcs-transpose .mbcs-tool-group {
+  display: grid;
+  grid-template-columns: minmax(3.8rem, 1fr) 1.75rem 2.45rem 1.75rem 1.75rem;
+  align-items: center;
+  gap: 0.28rem;
+}
+#mbcs-transpose .mbcs-tool-group--compact {
+  grid-template-columns: repeat(2, 2.25rem);
+  justify-content: end;
+}
+#mbcs-transpose .mbcs-t-label {
+  font-weight: 700;
+  color: var(--md-primary-fg-color--dark);
+}
+[data-md-color-scheme="slate"] #mbcs-transpose .mbcs-t-label {
+  color: var(--mbcs-header-muted);
+}
+#mbcs-transpose .mbcs-t-btn {
+  width: 1.75rem;
+  height: 1.75rem;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  transition: background 0.15s;
+  padding: 0;
+  cursor: pointer;
+  color: var(--mbcs-header-control-fg);
+  background: var(--mbcs-header-control-bg);
+  border: 2px solid var(--mbcs-header-control-border);
+  border-radius: 999px;
+  box-shadow: 0 1px 3px color-mix(in srgb, #000 28%, transparent);
+  font: 800 0.8rem/1 var(--md-code-font);
+  transition:
+    background 0.15s,
+    border-color 0.15s,
+    transform 0.15s;
 }
-#mbcs-transpose.mbcs-in-header .mbcs-t-btn:hover {
-  background: color-mix(in srgb, currentColor 40%, transparent);
+#mbcs-transpose .mbcs-t-btn:hover,
+#mbcs-transpose .mbcs-t-btn:focus-visible {
+  background: var(--mbcs-header-accent);
+  border-color: var(--md-primary-fg-color--dark);
+  outline: none;
+  transform: translateY(-1px);
 }
-#mbcs-transpose.mbcs-in-header .mbcs-t-italic[aria-pressed="true"] {
-  background: color-mix(in srgb, currentColor 45%, transparent);
+#mbcs-transpose .mbcs-t-btn:disabled {
+  cursor: not-allowed;
+  opacity: 0.45;
+  transform: none;
+}
+#mbcs-transpose [data-mbcs-transpose-available="false"] .mbcs-t-label,
+#mbcs-transpose [data-mbcs-transpose-available="false"] .mbcs-t-val {
+  opacity: 0.6;
+}
+#mbcs-transpose .mbcs-t-italic[aria-pressed="true"] {
+  background: var(--mbcs-header-accent);
+  border-color: var(--md-primary-fg-color--dark);
   font-style: italic;
 }
-#mbcs-transpose.mbcs-in-header .mbcs-t-italic {
-  font-weight: 700;
+#mbcs-transpose .mbcs-t-italic {
+  font-family: var(--md-text-font);
 }
-#mbcs-transpose.mbcs-in-header .mbcs-t-val {
-  min-width: 2.2em;
+#mbcs-transpose .mbcs-t-val,
+#mbcs-transpose .mbcs-zoom-val {
+  min-width: 2.8rem;
   text-align: center;
   font-variant-numeric: tabular-nums;
+  font-weight: 800;
+  color: var(--md-primary-fg-color--dark);
+}
+#mbcs-transpose .mbcs-tab-warning {
+  margin: 0.2rem 0 0;
+  max-width: 16rem;
+  color: #8a1f11;
+  font-size: 0.72rem;
   font-weight: 700;
-  font-size: 1.05em;
-  color: inherit;
+  line-height: 1.2;
+  text-align: left;
+}
+[data-md-color-scheme="slate"] #mbcs-transpose .mbcs-t-val,
+[data-md-color-scheme="slate"] #mbcs-transpose .mbcs-zoom-val {
+  color: var(--mbcs-header-fg);
+}
+[data-md-color-scheme="slate"] #mbcs-transpose .mbcs-tab-warning {
+  color: #ffb4a8;
 }
 
-/* Hide the "Transpose" label on narrow headers where space is tight */
 @media (max-width: 76.25em) {
-  #mbcs-transpose.mbcs-in-header .mbcs-t-label { display: none; }
+  #mbcs-transpose.mbcs-tools {
+    left: 0.6rem;
+    right: 0.6rem;
+    top: auto;
+    bottom: 0.6rem;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+}
+@media (max-width: 40em) {
+  #mbcs-transpose.mbcs-tools {
+    font-size: 0.72rem;
+  }
+  #mbcs-transpose .mbcs-t-label {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+  }
+  #mbcs-transpose .mbcs-tool-group {
+    grid-template-columns: repeat(4, 1.9rem);
+  }
+  #mbcs-transpose .mbcs-tool-group--compact {
+    grid-template-columns: repeat(2, 1.9rem);
+  }
 }
 @media print {
-  #mbcs-transpose { display: none !important; }
+  #mbcs-transpose {
+    display: none !important;
+  }
 }
 
 /* ============================================================
@@ -319,7 +492,8 @@ html:not([data-mbcs-italic="off"]) .md-typeset li {
   }
 
   /* Reset the main layout so content fills the A4 page */
-  html, body,
+  html,
+  body,
   .md-container,
   .md-main,
   .md-main__inner,
@@ -378,13 +552,18 @@ html:not([data-mbcs-italic="off"]) .md-typeset li {
   }
 
   /* Try hard not to split sections across pages */
-  .md-typeset h1, .md-typeset h2, .md-typeset h3 {
+  .md-typeset h1,
+  .md-typeset h2,
+  .md-typeset h3 {
     page-break-after: avoid;
     break-after: avoid;
   }
 
   /* Don't print link underlines / button styling inside the content */
-  a { color: inherit !important; text-decoration: none !important; }
+  a {
+    color: inherit !important;
+    text-decoration: none !important;
+  }
 
   /* Tags are noise on a printed chart — hide them. */
   .md-tags,

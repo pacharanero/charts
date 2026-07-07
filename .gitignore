@@ -1,5 +1,6 @@
 export-md/
 site/
+.playwright-mcp/
 
 .claude
 .qwen

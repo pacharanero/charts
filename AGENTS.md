@@ -1,63 +1,80 @@
 # Agent Instructions
 
-This repo is a collection of guitar chord/lyric charts written in a personal markdown convention called **MBCS** (Marcus Baw Musical Charting System), published as a [Zensical](https://zensical.org/) site.
+This repo is a collection of guitar chord/lyric charts written in a personal markdown convention called **MBCS** (Marcus Baw Musical Charting System), published as a [Zensical](https://zensical.org/) site. It is content-first: chart readability, one-page print layout, and reliable transposition matter more than generic Markdown prettiness.
 
-Before doing any work here, read `spec/mbcs.md` — it is the authoritative reference for the charting conventions and takes precedence over anything else.
+This file is the entry point for AI coding agents. Read it before changing anything.
 
-## Repository layout
+## Read First
 
-- `charts/` — the mkdocs `docs_dir`. Every chart lives here as `charts/<slug>.md`. Nothing outside `charts/` is published.
-- `charts/styles/brand.css` — site styling, print rules, header layout.
-- `charts/styles/transpose.js` — client-side +/- semitone transposer. It parses `[...]` and `{...}` tokens, so those delimiters are reserved for pitched content only (see `spec/mbcs.md`).
-- `charts/index.md` — site homepage.
-- `charts/tags.md` — tag index page. The Zensical tags index directive is not implemented yet (tracked at [zensical/backlog#38](https://github.com/zensical/backlog/issues/38)), so this page is a stub until upstream ships.
-- `spec/` — living specification:
-  - `mbcs.md` — charting conventions (delimiters, sections, rhythm, performance directions).
-  - `conversion.md` — Google Docs → Markdown export workflow.
-  - `roadmap.md` — outstanding work.
-  - `spec.md` — older combined spec (superseded by `mbcs.md`).
-- `scripts/` — migration helpers (e.g. `migrate-v02-to-v03.py`).
-- `export-md/` — raw Google Docs exports staged for cleanup.
-- `README.md` — GitHub-facing front page (the site has its own `index.md`).
-- `mkdocs.yml` — site config. Note `docs_dir: charts` — any top-level doc file is NOT part of the site.
+- [README.md](README.md) - project overview and publishing context.
+- [spec/mbcs.md](spec/mbcs.md) - authoritative charting convention; this overrides existing legacy charts and this file.
+- [spec/conversion.md](spec/conversion.md) - Google Docs to Markdown cleanup workflow.
+- [spec/interface.md](spec/interface.md) - Zensical UI, layout, colour, and chart tool conventions.
+- [spec/roadmap.md](spec/roadmap.md) - outstanding repo work.
+- [~/code/house-style/AGENTS.md](~/code/house-style/AGENTS.md) - cross-repo engineering standards; follow it unless this file documents a local exception.
 
-## Hard rules
+## Repository Layout
 
-1. **Single page**. Every chart fits on one A4 page at 141% print scale. Tab sections are the only accepted overflow. If you add content and it no longer fits, compress by referencing repeated sections rather than re-writing them.
-2. **Delimiters are reserved.** `[...]` = chord or lowercase note-run. `{...}` = octaved/unison notes. Both are machine-parsed by `transpose.js`. Do NOT use `[...]` for section labels or performance directions — use `### SECTION` (H3, uppercase) and plain `**bold**` text respectively.
-3. **One chart per file**, kebab-case slug filename, matching the song title.
-4. **Frontmatter**: `title:`, optional `tags:` (see the tag taxonomy below), `hide: [toc]` on every chart.
+- `charts/` - the Zensical `docs_dir`; every published chart lives here as `charts/<slug>.md`.
+- `charts/styles/brand.css` - Zensical site styling, screen/print layout, colours, and chart tool presentation.
+- `charts/styles/transpose.js` - client-side chart tools: transpose, simple tab transposition, zoom, italic toggle, and print.
+- `charts/index.md` - site homepage.
+- `charts/tags.md` - tag index stub until Zensical implements the tags index directive.
+- `spec/` - living charting and conversion specifications.
+- `scripts/` - migration helpers for legacy exports.
+- `export-md/` - raw Google Docs exports staged for cleanup.
+- `site/` - generated output; do not edit by hand.
 
-## Tag taxonomy
+## Core Invariants
 
-Tags are restricted to genres, eras, and descriptors. Do **not** add artist names as tags — they clutter the index without adding navigational value. Use the song title heading for artist attribution instead.
+- Read [spec/mbcs.md](spec/mbcs.md) before editing charts. It is the source of truth.
+- Every chart must fit on one A4 page at 141% print scale. Tab sections are the only accepted overflow.
+- `[...]` is only for chords or lowercase note-runs. `{...}` is only for octaved/unison notes. Both are parsed by `charts/styles/transpose.js`.
+- Do not use square brackets for section labels, directions, or comments. Use `### SECTION` headings and plain `**bold**` performance directions.
+- One chart per file, with a kebab-case slug matching the song title.
+- Every chart frontmatter must include `title:` and `hide: [toc]`. Tags are optional but must follow the taxonomy below.
+- Do not hand-edit generated `site/` output.
+- GitHub Actions must be pinned to full commit SHAs with trailing `# vX.Y.Z` comments, per [~/code/house-style/ci.md](~/code/house-style/ci.md).
 
-Allowed tag categories (see recent history for the current set):
+## Chart Tags
+
+Tags are restricted to genres, eras, descriptors, and origin/language. Do not add artist names as tags.
+
+Allowed categories:
 
 - Eras: `40s`, `50s`, `60s`, `70s`, `80s`, `90s`, `00s`, `10s`
 - Genre: `rock`, `rockabilly`, `blues`, `jazz`, `soul`, `swing`, `folk`, `country`, `pop`, `punk`, `ska`, `motown`, `r&b`, `big-band`, `jump-blues`, `doo-wop`, `rock-and-roll`, `britpop`, `new-wave`, `psychobilly`, `swing-revival`, `neo-swing`, `vocal-jazz`, `glam-rock`, `2-tone`, `folk-rock`, `blues-rock`, `hard-rock`, `heavy-metal`, `indie`, `alternative`, `disco`, `electric-blues`, `electronic`, `synth-pop`, `southern-rock`, `heartland-rock`, `power-pop`, `pop-punk`, `comedy-rock`, `mod`, `skiffle`, `celtic`, `americana`, `british-invasion`, `singer-songwriter`, `acoustic`, `dance`, `funk`, `psychedelic`
 - Descriptors: `instrumental`, `tab`, `capo`, `guitar`, `piano`, `christmas`, `comedy`, `novelty`, `soundtrack`, `modern`, `traditional`, `trad`, `disney`
 - Origin/language: `scottish`, `danish`, `swiss`, `uk`, `australian-traditional`
 
-If a genuinely new genre tag is needed for a chart, add it deliberately — not reflexively.
+Add a new genre tag only deliberately, not reflexively.
 
-## Local development
+## Workflow
 
-```bash
-mkdocs serve
+- `zensical build` - build the site.
+- `zensical serve -a 127.0.0.1:8000` - serve locally, choosing another port if 8000 is already in use.
+- `s/up` - Docker Compose dev server wrapper, where Docker is the intended local route.
+- `s/down` - stop the Docker Compose setup.
+- `s/remove-containers-and-images` - stop Compose and remove local images.
+
+## Before Every Commit
+
+```sh
+zensical build
+git diff --check
 ```
 
-Opens at `http://127.0.0.1:8000`. `docs_dir: charts`, so only files under `charts/` reload.
+For chart changes, also verify:
 
-## Testing your work
+- The chart renders on one A4 page in print preview.
+- Transpose +/- changes every chord, note-run, and `{...}` token.
+- The italic toggle leaves chord tokens upright.
+- `hide: [toc]` is present.
 
-Before declaring a chart done:
+## Approval Required
 
-1. Serve the site and confirm the chart renders on one page in print preview (Chrome: Ctrl+P → "Save as PDF", A4 portrait).
-2. Click the transpose +/– buttons — every chord, note-run, and `{...}` token should change. If any bracketed content doesn't transpose, you probably mis-used `[...]` for something non-pitched.
-3. Check the italic toggle (`I` button in the header) leaves chord tokens upright.
-4. Verify `hide: [toc]` is set so the right-hand ToC doesn't compete with the single-page layout.
+Ask before publishing, deleting remote branches, force-pushing, changing secrets, or taking externally visible GitHub actions. Routine local reads, formatting, and Zensical builds do not need approval.
 
-## When in doubt
+## When In Doubt
 
-`spec/mbcs.md` > any existing chart > this file. Existing charts contain historical inconsistencies from the pre-v0.3 era; `mbcs.md` is the target state.
+[spec/mbcs.md](spec/mbcs.md) > existing chart precedent > this file > [~/code/house-style/AGENTS.md](~/code/house-style/AGENTS.md) > generic defaults. Existing charts contain historical inconsistencies from the pre-v0.3 era; `mbcs.md` is the target state.
