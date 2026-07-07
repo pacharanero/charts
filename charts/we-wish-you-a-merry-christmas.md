@@ -22,11 +22,11 @@ We wish you a Merry Christmas,
 
 And a Happy New Year.  
 
-**G D A7 D7**  
+**[G] [D] [A7] [D7]**  
 
 **Good tidings we bring to you and your kin,**  
 
-**G Am D7 G**  
+**[G] [Am] [D7] [G]**  
 
 **We wish you a Merry Christmas and a Happy New Year.**  
 

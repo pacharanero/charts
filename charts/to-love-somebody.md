@@ -44,8 +44,8 @@ If I ain't got you Ain't got you
 
 ### OUTRO
 
-[E] I... love you *(A)*  
+[E] I... love you *[A]*  
 
 ### CHORUS
 
-[E] No-no-no-no-no-no *(A)*  
+[E] No-no-no-no-no-no *[A]*  

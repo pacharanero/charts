@@ -35,7 +35,7 @@ Everything will be just fine, everything, everything will be alright (alright)
 
 ### SOLO
 
-A    D     A    D    G    D     A  
+[A]    [D]     [A]    [D]    [G]    [D]     [A]  
   
 ### VERSE
 

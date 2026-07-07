@@ -45,7 +45,7 @@ He was with me, yeah me, singin'
 
 ### BRIDGE
 
-A                   B          E          B  
+[A]                   [B]          [E]          [B]  
 Said can I take you home where we can be alone  
 Next we'll be movin' on, he was with me, yeah me  
 An' we'll be movin' on, an' singin' that same old song  

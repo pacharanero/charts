@@ -35,8 +35,8 @@ Why, why, why, Delilah
 So before they come to break down the door  
 Forgive me, Delilah, I just couldn't take any more  
 
-Am E7  
-Am E7  
+[Am] [E7]  
+[Am] [E7]  
     
 She stood there laughing  
 I felt the knife in my hand, and she laughed no more  

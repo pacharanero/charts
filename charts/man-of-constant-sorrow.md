@@ -8,7 +8,7 @@ hide:
 
 ## Soggy Bottom Boys
 
-Intro:  F     Bb  C  Bb  F         Bb        C      Bb          F  
+Intro:  [F]     [Bb]  [C]  [Bb]  [F]         [Bb]        [C]      [Bb]          [F]  
 (Constant sorrow through his days)  
 
 [F} I am the man of constant [Bb] sorrow  

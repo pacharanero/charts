@@ -8,11 +8,11 @@ hide:
 
 ## James
 
-C        C/F   C    G  
+[C]        [C/F]   [C]    [G]  
 This bed is on fire with passion and love  
-C        C/F     C        G  
+[C]        [C/F]     [C]        [G]  
 The neighbors complain about the noises above  
-C      C/F   C      G  
+[C]      [C/F]   [C]      [G]  
 But she only comes when she's on top  
 **C / / /           G / / /**  
 

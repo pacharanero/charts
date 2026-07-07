@@ -10,19 +10,19 @@ hide:
 
 Chords:  
 
-A x02220  
+[A] x02220  
 
-A7 x02020  
+[A7] x02020  
 
-Asus4 x02230  
+[Asus4] x02230  
 
-Bbmaj7 x13231  
+[Bbmaj7] x13231  
 
-C x32010  
+[C] x32010  
 
 Dm xx0231  
 
-Dm/A x00231  
+[Dm/A] x00231  
 
 E/G# 4x2450  
 
@@ -42,23 +42,23 @@ Gm7 353333
 
 **Verse 1:**  
 
-Dm Gm7  
+[Dm] [Gm7]  
 
 Oh\_\_ it seemed for-ev-er stopped to-day\_  
 
-C  
+[C]  
 
 All the lone_ly hearts in Lon-don  
 
-Fmaj7  
+[Fmaj7]  
 
 Caught a plane\_ and flew a-way\_  
 
-Dm/A  
+[Dm/A]  
 
 And all the best\_ wo-men are mar-ried\_  
 
-E/G#  
+[E/G#]  
 
 All the hand_some men are gay  
 
@@ -82,15 +82,15 @@ Will you sur-vive?\_ you must sur-vive\_\_
 
 **Chorus:**  
 
-Dm Bbmaj7  
+[Dm] [Bbmaj7]  
 
 When there's no\_\_ love in town\_  
 
-F Asus4  
+[F] [Asus4]  
 
 This new cen-tu-ry\_ keeps bring-ing you down\_  
 
-A Dm Bbmaj7  
+[A] [Dm] [Bbmaj7]  
 
 All the pla_ces you have been\_  
 
@@ -154,7 +154,7 @@ Do you be-lieve?\_ you must be-lieve\_\_
 
 **Outro:**  
 
-Dm Bbmaj7  
+[Dm] [Bbmaj7]  
 
 Come-and-live-a-love su_preme\_  
 

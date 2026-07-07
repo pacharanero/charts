@@ -11,7 +11,7 @@ hide:
 
 I like digging holes and Hiding things inside them  
 When I grow old, I hope I won't forget to find them  
-Em 						G	A	  
+[Em] 						[G]	[A]	  
 Cause, I've got memories and Travel like gypsies in the night  
 
 ### VERSE 2
@@ -20,7 +20,7 @@ I build a home and wait for Someone to tear it down
 Then pack it up in boxes Head for the next town running  
 Cause, I've got memories and Travel like gypsies in the night  
 
-Em						G 	A  
+[Em]						[G] 	[A]  
 ### BRIDGE
 
 And a thousand times I've seen this road,  A thousand times  

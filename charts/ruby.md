@@ -10,15 +10,15 @@ hide:
 
 **Intro** X2  
 
-Ab--G  
+[Ab]--[G]  
 
 [Bbm] [Fm] [Eb]  
 
-Bbm Fm Eb /Db /C /Bb  
+[Bbm] [Fm] [Eb] /Db /C /Bb  
 
 [Bbm] [Fm] [Eb]  
 
-Bbm Fm Eb /Db /C /Bb /Ab /G /F /Eb  
+[Bbm] [Fm] [Eb] /Db /C /Bb /Ab /G /F /Eb  
 
 [Bbm] [Fm]  
 
@@ -68,9 +68,9 @@ Let the clock’s be reset, and the pendulum’s held
 
 Finding out what you're called, and repeating your name  
 
-Chorus (E)  
+Chorus [E]  
 
-Fm Dd  
+[Fm] Dd  
 
 Could it be, could it be, that you’re joking with me  
 
@@ -86,4 +86,4 @@ X2
 
 **Chorus**  
 
-**Fm**  
+**[Fm]**  

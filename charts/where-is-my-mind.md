@@ -10,7 +10,7 @@ hide:
 
 ### INTRO
 
-E   C#m   G#   A  
+[E]   [C#m]   [G#]   [A]  
 ```text
 e|-----4-------4---|-----4-------4---|-----4-------4---|-0---0---0---0---|  
 B|-5-------5-------|-5-------5-------|-4-------4-------|-5---5p4-5---5-0-|  
@@ -19,7 +19,7 @@ G|-----------------|-----------------|-----------------|-----------------|
 
 ### VERSE 1
 
-E                        C#m               G#  A  
+[E]                        [C#m]               [G#]  [A]  
 With your feet in the air and your head on the ground  
 Try this trick and spin it, yeah, your head will collapse  
 But there's nothing in it, and you'll ask yourself  
@@ -29,7 +29,7 @@ But there's nothing in it, and you'll ask yourself
 Where is my mind?  
 Where is my mind?  
 Where is my mind?  
-E   G#         A             Am        C#m   B  
+[E]   [G#]         [A]             [Am]        [C#m]   [B]  
 Way out in the water, see it swimming.  
 
 ### VERSE 2
@@ -55,5 +55,5 @@ D|----------------------------9--|-------------------------------------|
 
 ### OUTRO
 
-E  C#m  G#  A  
-E  C#m  G#  A
+[E]  [C#m]  [G#]  [A]  
+[E]  [C#m]  [G#]  [A]

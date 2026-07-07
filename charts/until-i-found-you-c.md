@@ -8,7 +8,7 @@ hide:
 
 ### INTRO
 
-[C]  [Em] [F]  [Fm] (Fm)  
+[C]  [Em] [F]  [Fm] [Fm]  
 
 ### VERSE 1
 

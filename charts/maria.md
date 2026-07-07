@@ -57,7 +57,7 @@ Walking on imported air - Oooh it makes you wanna' die
 ***[2 bars drum break] [Chorus]***  
 
 **Guitar solo:**  
-D / E / F#m / F#m / B / B / F#m / B / B / D / E  
+[D] / [E] / [F#m] / [F#m] / [B] / [B] / [F#m] / [B] / [B] / [D] / [E]  
 
 ### CHORUS
 

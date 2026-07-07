@@ -55,5 +55,5 @@ Aih, Aih, Aih, Aih, Aih, Aih, Aih where do we gooooooooooooo  now----
 Where do we gooooooooooo, where do we go now----  
 Where do we gooooooo, where do we go now----   
 Where do we go-----, where do we go now Now-now-now-now-now-now-now  
-Em     G             A C D      Em  
+[Em]     [G]             [A] [C] [D]      [Em]  
 Sweet child, sweet chi-. . ld of mine  

@@ -34,7 +34,7 @@ His hair had turned from black into bright white
 
 He said that it was from when  
 
-G# C/F\*\* F  
+[G#] [C/F]\*\* [F]  
 
 The cars had smashed soooo hard  
 

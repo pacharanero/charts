@@ -16,7 +16,7 @@ Better stop dreaming of the quiet life - Cos it's the one we'll never know
 
 And quit running for that runaway bus - Cos those rosey days are few  
 
-G f#m  
+[G] f#m  
 
 And - stop apologising for the things you've never done,  
 
@@ -44,7 +44,7 @@ Fast and furious
 
 In a town called malice.  
 
-G em  
+[G] em  
 
 Struggle after struggle - year after year  
 

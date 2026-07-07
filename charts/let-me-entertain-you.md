@@ -12,7 +12,7 @@ hide:
 
 Chords:  
 
-A x02220  
+[A] x02220  
 
 A/C# x4222x  
 
@@ -24,7 +24,7 @@ E 022100
 
 G/D xx0433  
 
-G/E x55433  
+[G/E] x55433  
 
 G 320003  
 
@@ -52,7 +52,7 @@ You're my rock of em-pa-thy, my dear. So come-on
 
 **Chorus:**  
 
-E G A E  
+[E] [G] [A] [E]  
 
 Let me\_\_\_\_\_ en-ter-tain\_ you\_\_  
 
@@ -90,11 +90,11 @@ The dew is wet but the grass is sweet, my dear
 
 **Bridge:**  
 
-E G/D  
+[E] [G/D]  
 
 Your mind gets burned with the ha-bits you've learned\_  
 
-A/C# E  
+[A/C#] [E]  
 
 But we're the ge-ne-ra-tion that's got-ta be heard\_  
 

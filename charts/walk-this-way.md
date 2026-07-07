@@ -60,7 +60,7 @@ walk this way, talk this way
 
 just gimme a kiss  
 
-Solo: C7  
+Solo: [C7]  
 
 schoolgirl sweetie with a classy kinda sassy  
 

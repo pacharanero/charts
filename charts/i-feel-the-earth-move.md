@@ -15,9 +15,9 @@ I feel the sky tumbling down
 I feel my [F7] heart start to tremblin'  
 Whenever [Cm7] you're [Bb7+] around  
 
-**Ebmaj7         	G#maj7	 Fm7                    Bb**  
+**[Ebmaj7]         	[G#maj7]	 [Fm7]                    [Bb]**  
 Ooh baby when I see your face Mellow as the month of May  
-**Ebmaj7                G#maj7	         Fm7         G7     Bdim**  
+**[Ebmaj7]                [G#maj7]	         [Fm7]         [G7]     [Bdim]**  
 Oh darlin' I can't stand it When you look at me that way  
 
 I feel the earth move under my feet, I feel the sky tumbling down  

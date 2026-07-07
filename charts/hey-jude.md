@@ -18,7 +18,7 @@ don't [Gm7] carry the [C/E] world [F]  upon [Fmaj7] your [F7] shoulders
 For well you know that its a [Bb] fool who [Bb/A] plays it [Gm] cool  
 by [Gm7] making his [C/E] world [C] a little [F]  colder  
 
-F6 F7      C  Csus4  CaddG       C  F  C7  
+[F6] [F7]      [C]  [Csus4]  CaddG       [C]  [F]  [C7]  
 Da da da da da   Da   da    da    da  
 
 Hey Jude don't let me down, you have found her now go and get her  
@@ -36,9 +36,9 @@ take a  sad   song  and make it better
 Remember to let her under your skin  
 and then you'll begin to make it better  
 
-F     		   Eb  
+[F]     		   [Eb]  
 Na na na na na na na  
-Bb		  
+[Bb]		  
 Na na na na  
-F		  
+[F]		  
 Hey Jude   (Repeat and fade)  

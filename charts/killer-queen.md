@@ -40,7 +40,7 @@ Fastidious and precise
 Drop of a hat she's as willing as playful as a pussycat  
 Then momentarily out of action, temporarily out of gas  
 To absolutely drive you wild, wild, she's out to get you  
-(G7) / E7 Am E7 Am / G C G C / B7 EmD G D Gm D - - /  
+[G7] / [E7] [Am] [E7] [Am] / [G] [C] [G] [C] / [B7] [Em] [D] [G] [D] [Gm] [D] - - /  
 
 Ooh, recommended at the price  
 Insatiable an appetite, what a drag  

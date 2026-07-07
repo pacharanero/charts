@@ -8,7 +8,7 @@ hide:
 
 ## Big Bad Voodoo Daddy
 
-Dm  
+[Dm]  
 
 I walk the streets of new Orleans  
 With the girl of my dreams  

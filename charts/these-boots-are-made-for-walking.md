@@ -37,6 +37,6 @@ One of these days these boots are gonna walk all over you.
 
 ### OUTRO
 
-E   
+[E]   
 Are you ready boots, start walking....  
-E        E        E      E     
+[E]        [E]        [E]      [E]     

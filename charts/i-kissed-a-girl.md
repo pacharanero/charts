@@ -7,7 +7,7 @@ hide:
 
 ## Katy Perry
 
-Am          C            Dm     Em    F         Em   
+[Am]          [C]            [Dm]     [Em]    [F]         [Em]   
 This was never the way I planned, not my intention.  
 I got so brave, drink in hand, lost my discretion.   
 It's not what I'm used to, just want to try you on.   
@@ -25,10 +25,10 @@ My head gets so confused, Hard to erase.
 
 I kissed a girl, and I liked it. The taste of her cherry chapstick….  
 
-C             Bm        Am                 Bm                    
+[C]             [Bm]        [Am]                 [Bm]                    
 Us girls we are so magical, Soft skin, red lips, so kissable,   
 Hard to resist, so touchable. To good to deny it.   
-F                               Em   
+[F]                               [Em]   
 Ain't no big deal,  Its innocent.  
 
 I kissed a girl, and I liked it. The taste of her cherry chapstick…..  

@@ -39,9 +39,9 @@ Teenage wasteland - It's only teenage wasteland
 Teenage wasteland, Oh, yeah  Teenage wasteland  
 They're all wasted!  
 
-**C C Bb Bb**  
-**C     Bb    F    Eb**  
-**C    Bb    F    Eb**  
-**F     F     Bb**  
+**[C] [C] [Bb] [Bb]**  
+**[C]     [Bb]    [F]    [Eb]**  
+**[C]    [Bb]    [F]    [Eb]**  
+**[F]     [F]     [Bb]**  
     
 OUTRO Violin Solo over [F] alternating bass  

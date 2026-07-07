@@ -10,19 +10,19 @@ hide:
 
 ***Gm** (intro \+ verse)*  
 
-**Gm**  
+**[Gm]**  
 I said Lord here's the total of what I done  
 Sometimes I did good, sometimes I done wrong  
 But I did the best I could from where I come from  
 And I'll keep on tryin' till my day is done  
 
-***Gm**                **Bb***  
+***[Gm]**                **[Bb]***  
 And so I'm proud and humble, humble and proud  
-**C                 Gm**  
+**[C]                 [Gm]**  
 Yeah, I'm proud and humble, humble and proud  
-**Gm                Bb                       D7**  
+**[Gm]                [Bb]                       [D7]**  
 I'll be proud and humble, humble and proud when I come  
-**Gm**  
+**[Gm]**  
 Yeah, when I'm done  
 
 Oh, I made the most from what I knew then  

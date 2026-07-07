@@ -11,7 +11,7 @@ hide:
 
 ### INTRO
 
-[F#m]   (F#/E)[D]   (D/C#)[Bmsus2] (Bm/A) [E+6]  [C#/E#]**  **x4  
+[F#m]   [F#/E][D]   [D/C#][Bmsus2] [Bm/A] [E+6]  [C#/E#]**  **x4  
 [F#m] [E/G#] [A] [D] [C#]  
 
 ### VERSE

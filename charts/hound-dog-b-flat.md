@@ -10,9 +10,9 @@ hide:
 
 (note: original key **A**)  
                        
-You ain't nothin' but a **(B♭)** hound dog, crying all the time                    
-You ain't nothin' but a **(E♭)** hound dog, crying all the **(B♭)** time                                                 
-Well, you ain't **(F)** never caught a rabbit, you **(E♭)** ain't no friend of **(B♭)** mine  
+You ain't nothin' but a **[Bb]** hound dog, crying all the time                    
+You ain't nothin' but a **[Eb]** hound dog, crying all the **[Bb]** time                                                 
+Well, you ain't **[F]** never caught a rabbit, you **[Eb]** ain't no friend of **[Bb]** mine  
                          
 They said you was high-classed, but that was just a lie  
 They said you was high-classed, but that was just a lie  

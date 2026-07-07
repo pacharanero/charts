@@ -25,7 +25,7 @@ London calling, see we ain't got no swing
 
 The [Em] ice age is coming, the [G] sun's zooming in  
 [Em] Meltdown expected, the [G] wheat is growing thin  
-Em                       G  
+[Em]                       [G]  
 [Em] Engines stop running, but [G] I have no fear  
 Em                             D (let ring)  
 'Cause [Em] London is drowning, and I [D] live by the river  

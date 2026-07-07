@@ -50,4 +50,4 @@ D                        Db  Bm                (Db-1st time, A-2nd)
 
 ### OUTRO
 
-D    G    A    D  
+[D]    [G]    [A]    [D]  

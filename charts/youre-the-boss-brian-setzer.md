@@ -51,7 +51,7 @@ You're the boss. You're the boss. You're the boss. You're the boss!
 
 ### INSTRUMENTAL (Fm    Fm/D#   Fm/D  Fm/C#   Em  Fm)
 
-Fm  Gm7b5  C7#9  C#7#9  C7#9 Fm  C7#9  Fm  G#  
+[Fm]  Gm7b5  [C7#9]  [C#7#9]  [C7#9] [Fm]  [C7#9]  [Fm]  [G#]  
 
 ### CHORUS 3
 

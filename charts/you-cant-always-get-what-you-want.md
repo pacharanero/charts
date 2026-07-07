@@ -46,8 +46,8 @@ I sung my song to Mr. Jimmy. Yeah, and he said one word to me, and that was "dea
 
 ### CHORUS
 
-Dm Am7 F Dm G  
-C    F    x3 D   F    C     F  
+[Dm] [Am7] [F] [Dm] [G]  
+[C]    [F]    x3 [D]   [F]    [C]     [F]  
 You get what you need--yeah, oh baby! Oh yeah!  
 
 ### VERSE 4

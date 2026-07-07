@@ -17,7 +17,7 @@ she's waiting like an [A] iceberg
 waiting to [Em7] change -but she's cold [A] inside  
 she wants to be [G] like the water  
 
-D Dsus2 Dsus4 Dsus2  
+[D] [Dsus2] [Dsus4] [Dsus2]  
 
 ### VERSE 2
 
@@ -33,7 +33,7 @@ I wish it was [Bm] simple, but we give up [G] easily
 you're [G/F#] close [Em7] enough to see [A] that  
 [Bm] you're [A] the [G] other side of the [A] world to me  
 
-D Dsus2 Dsus4 Dsus2  
+[D] [Dsus2] [Dsus4] [Dsus2]  
     
 ### VERSE 2
 

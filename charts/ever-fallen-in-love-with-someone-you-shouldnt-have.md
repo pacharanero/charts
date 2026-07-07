@@ -21,7 +21,7 @@ You spurn my natural emotions
 
 You make me feel unloved  
 
-E {riff}  
+[E] {riff}  
 
 And I'm hurt  
 
@@ -33,7 +33,7 @@ And if I start a commotion
 
 I run the risk of losing you  
 
-E {riff}  
+[E] {riff}  
 
 And that's worse  
 
@@ -73,7 +73,7 @@ I can't see much of a future
 
 Unless we find out what's to blame  
 
-E {riff}  
+[E] {riff}  
 
 What a shame  
 
@@ -81,7 +81,7 @@ What a shame
 
 And we won't be together much longer  
 
-C#m E {riff}  
+[C#m] [E] {riff}  
 
 Unless we realize that we are the same  
 

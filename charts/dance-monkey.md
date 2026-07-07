@@ -7,7 +7,7 @@ hide:
 
 ## Tones and I
 
-[Vocal reverb+++] **[Intro- Banjolele] F#m D E C#m**  
+[Vocal reverb+++] **[Intro- Banjolele] [F#m] [D] [E] [C#m]**  
 
 ### VERSE 1 SYNCOP CHORDS GUIT
 

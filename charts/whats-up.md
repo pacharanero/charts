@@ -7,7 +7,7 @@ hide:
 
 4 Non Blondes  
 
-**A Bmin D A**  
+**[A] [Bmin] [D] [A]**  
 
 5 2 2 o  
 

@@ -45,5 +45,5 @@ and the white knight is talking backwards
 and the red queen's off with her head  
 Remember what the Dormouse said  
 
-E         A       E         A  
+[E]         [A]       [E]         [A]  
 Feed your head! Feed your head! Feed your head!

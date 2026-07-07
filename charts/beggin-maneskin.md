@@ -11,7 +11,7 @@ hide:
 
 [N.C]  
 Put your loving hand out, baby - Cause I'm beggin'  
-[Groove enters - strummed funky chords] Bm  Bm  Bm  Bm  
+[Groove enters - strummed funky chords] [Bm]  [Bm]  [Bm]  [Bm]  
 ### CHORUS
 
 [Bm] I'm beggin',[G] beggin' you [Em]  
@@ -58,11 +58,11 @@ I'm just a con about to fade to black
 
 ### OUTRO
 
-Bm           G           Em  
+[Bm]           [G]           [Em]  
 I'm beggin', beggin' you  
-F#7  
+[F#7]  
 So put your loving hand out, baby  
-Bm           G           Em  
+[Bm]           [G]           [Em]  
 I'm beggin', beggin' you  
-F#7          Bm  
+[F#7]          [Bm]  
 So put your loving hand out  

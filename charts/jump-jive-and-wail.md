@@ -10,7 +10,7 @@ hide:
 
 ### INTRO
 
-A#9  
+[A#9]  
 
 ### VERSE 1
 

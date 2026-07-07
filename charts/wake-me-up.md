@@ -7,7 +7,7 @@ hide:
 
 ## Avicii
 
-Am F C G7 Am F C E  x2  
+[Am] [F] [C] [G7] [Am] [F] [C] [E]  x2  
 
 ### VERSE 1
 

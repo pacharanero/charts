@@ -22,7 +22,7 @@ Because I [C] seen you little steven and [B] joanna round the back of my [E] hot
 
 **Semi Verse**  
 
-G  
+[G]  
 [G] she was hot I was not stealing everything I got but she was over the worst of it  
 [D] You're so beautiful my dear bring your sister over here let me dance with her just for the hell of it  
 

@@ -46,9 +46,9 @@ Yeah, you bleed just to know you're alive
 ### INSTRUMENTAL
 
 Bm  Bm/A  D  D  Bm  Bm/A  G  G (octaves) **[x 2]  
-Bm  Bsus2  G  G [x 3] Bm  Bsus2  
-G  F#m  G   Bm | G  F#m  Bm  Bm | G  F#m  Bm  Bm  
-Bm  Bm/A  G  G **[x 4] [SOLO IN D MAJOR SCALE]**  
+[Bm]  [Bsus2]  [G]  [G] [x 3] [Bm]  [Bsus2]  
+[G]  [F#m]  [G]   [Bm] | [G]  [F#m]  [Bm]  [Bm] | [G]  [F#m]  [Bm]  [Bm]  
+[Bm]  [Bm/A]  [G]  [G] **[x 4] [SOLO IN D MAJOR SCALE]**  
     
 ### CHORUS
 
@@ -62,4 +62,4 @@ I just [Bm] want you to [A] know who I [Bm] am
     
 ### CODA
 
-Bm  Bm/A  G  G **[x 4]  
+[Bm]  [Bm/A]  [G]  [G] **[x 4]  

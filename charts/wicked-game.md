@@ -53,7 +53,7 @@ What a wicked thing to do, to make me dream of you.
 
 ### INSTRUMENTAL
 
-Bm  A  E    x4  
+[Bm]  [A]  [E]    x4  
 
 ### VERSE 3
 

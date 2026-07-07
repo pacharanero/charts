@@ -30,7 +30,7 @@ well the phone don't ring cos my friends ain't home
 
 I'm tired of being all alone  
 
-Dm **Bb** G  
+[Dm] **[Bb]** [G]  
 
 got the TV on cos the radio's playing songs that remind me of you  
 
@@ -66,6 +66,6 @@ I hope you're coming back real soon - cos I don't know what to do
 
 **CHORUS**  
 
-**SOLO**: Dm\|G\|C\|Csus4  
+**SOLO**: [Dm]\|[G]\|[C]\|[Csus4]  
 
 **CHORUS x2**  

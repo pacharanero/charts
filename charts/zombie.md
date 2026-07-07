@@ -43,9 +43,9 @@ What's in your head, in your head, zombie, zombie, zombie
 
 ### SOLO
 
-Em C G D/F# x3  
+[Em] [C] [G] [D/F#] x3  
 
 ### OUTRO
 
-Em C Em C  
-Em C Em
+[Em] [C] [Em] [C]  
+[Em] [C] [Em]

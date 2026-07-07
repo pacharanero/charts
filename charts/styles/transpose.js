@@ -10,6 +10,8 @@
   const MIN_ZOOM = 75;
   const MAX_ZOOM = 150;
   const ZOOM_STEP = 5;
+  const TRANSPOSE_PARAM = "t";
+  const ZOOM_PARAM = "z";
 
   function readItalicPref() {
     try {
@@ -30,13 +32,57 @@
       on ? "on" : "off",
     );
   }
+  function clampZoom(zoom) {
+    return Math.min(MAX_ZOOM, Math.max(MIN_ZOOM, zoom));
+  }
+
+  function normaliseSemitones(semitones) {
+    let result = semitones;
+    while (result > 11) result -= 12;
+    while (result < -11) result += 12;
+    return result;
+  }
+
+  function readUrlNumber(name) {
+    try {
+      const raw = new URL(window.location.href).searchParams.get(name);
+      if (raw === null) return null;
+      const parsed = parseInt(raw, 10);
+      return Number.isFinite(parsed) ? parsed : null;
+    } catch (_) {
+      return null;
+    }
+  }
+
+  function updateUrlState(semitones, zoom) {
+    if (!window.history || !window.history.replaceState) return;
+    const url = new URL(window.location.href);
+    if (semitones === 0) {
+      url.searchParams.delete(TRANSPOSE_PARAM);
+    } else {
+      url.searchParams.set(TRANSPOSE_PARAM, String(semitones));
+    }
+    if (zoom === DEFAULT_ZOOM) {
+      url.searchParams.delete(ZOOM_PARAM);
+    } else {
+      url.searchParams.set(ZOOM_PARAM, String(zoom));
+    }
+    window.history.replaceState(null, "", url);
+  }
+
   function readZoomPref() {
+    const urlZoom = readUrlNumber(ZOOM_PARAM);
+    if (urlZoom !== null) return clampZoom(urlZoom);
     try {
       const raw = parseInt(localStorage.getItem(ZOOM_STORAGE_KEY), 10);
-      if (Number.isFinite(raw))
-        return Math.min(MAX_ZOOM, Math.max(MIN_ZOOM, raw));
+      if (Number.isFinite(raw)) return clampZoom(raw);
     } catch (_) {}
     return DEFAULT_ZOOM;
+  }
+
+  function readTransposePref() {
+    const urlTranspose = readUrlNumber(TRANSPOSE_PARAM);
+    return urlTranspose === null ? 0 : normaliseSemitones(urlTranspose);
   }
   function writeZoomPref(zoom) {
     try {
@@ -111,8 +157,9 @@
     return preferFlat ? FLATS[newIdx] : SHARPS[newIdx];
   }
 
-  // Is this bracket content a chord (starts with capital A-G)?
-  const CHORD_RE = /^[A-G][b#]?/;
+  // A complete chord token, e.g. C, G7, Bbmaj7, D7-5, G7+, Dm(maj7), G/B.
+  const CHORD_TOKEN_RE =
+    /^[A-G][b#]?(?:[A-Za-z0-9+#°ø-]+|\([^)]*\))*?(?:\/[A-G][b#]?)?$/;
   // Is this bracket content a lowercase note run? "g f# e" / "bb a g"
   const NOTE_RUN_RE = /^[a-g](?:[b#])?(?:\s+[a-g](?:[b#])?)+$/;
   // Is this a single note (curly-brace content like "Eb" or "F")?
@@ -150,13 +197,63 @@
     return isLower ? result.toLowerCase() : result;
   }
 
+  function splitParentheticalSpans(text) {
+    const spans = [];
+    let start = 0;
+    let depth = 0;
+    let parenStart = -1;
+    for (let i = 0; i < text.length; i++) {
+      const ch = text[i];
+      if (ch === "(") {
+        if (depth === 0) {
+          if (i > start)
+            spans.push({ type: "text", value: text.slice(start, i) });
+          parenStart = i;
+        }
+        depth += 1;
+      } else if (ch === ")" && depth > 0) {
+        depth -= 1;
+        if (depth === 0) {
+          spans.push({ type: "paren", value: text.slice(parenStart, i + 1) });
+          start = i + 1;
+          parenStart = -1;
+        }
+      }
+    }
+    if (start < text.length)
+      spans.push({ type: "text", value: text.slice(start) });
+    return spans;
+  }
+
+  function transposeChordSequence(inner, semitones) {
+    const spans = splitParentheticalSpans(inner);
+    const textParts = spans.filter((span) => span.type === "text");
+    const chordTokens = [];
+    for (const span of textParts) {
+      const tokens = span.value.trim().split(/\s+/).filter(Boolean);
+      for (const token of tokens) {
+        if (!CHORD_TOKEN_RE.test(token)) return null;
+        chordTokens.push(token);
+      }
+    }
+    if (chordTokens.length === 0) return null;
+
+    return spans
+      .map((span) => {
+        if (span.type === "paren") return span.value;
+        return span.value.replace(/\S+/g, (token) =>
+          transposeChord(token, semitones),
+        );
+      })
+      .join("");
+  }
+
   function classifyAndTranspose(inner, semitones) {
     const trimmed = inner.trim();
-    if (CHORD_RE.test(trimmed)) return transposeChord(trimmed, semitones);
     if (NOTE_RUN_RE.test(trimmed)) return transposeNoteRun(trimmed, semitones);
     if (SINGLE_NOTE_RE.test(trimmed))
       return transposeSingleNote(trimmed, semitones);
-    return null;
+    return transposeChordSequence(inner, semitones);
   }
 
   function wrapChartTokens(root) {
@@ -309,18 +406,21 @@
       });
     }
 
-    let semitones = 0;
+    let semitones = hasTransposableContent ? readTransposePref() : 0;
     const val = ctl.querySelector(".mbcs-t-val");
+    let zoom = readZoomPref();
+    const updateUrl = () => updateUrlState(semitones, zoom);
     const update = () => {
       val.textContent = (semitones > 0 ? "+" : "") + semitones;
       applyTransposition(semitones);
+      updateUrl();
     };
     if (hasTransposableContent) {
       ctl.querySelectorAll("[data-dir]").forEach((btn) => {
         btn.addEventListener("click", () => {
-          semitones += parseInt(btn.dataset.dir, 10);
-          if (semitones > 11) semitones -= 12;
-          if (semitones < -11) semitones += 12;
+          semitones = normaliseSemitones(
+            semitones + parseInt(btn.dataset.dir, 10),
+          );
           update();
         });
       });
@@ -330,24 +430,25 @@
       });
     }
     const zoomVal = ctl.querySelector(".mbcs-zoom-val");
-    let zoom = readZoomPref();
     const syncZoom = () => {
       zoomVal.textContent = zoom + "%";
       applyZoomPref(zoom);
       writeZoomPref(zoom);
+      updateUrl();
     };
     ctl.querySelector(".mbcs-zoom-out").addEventListener("click", () => {
-      zoom = Math.max(MIN_ZOOM, zoom - ZOOM_STEP);
+      zoom = clampZoom(zoom - ZOOM_STEP);
       syncZoom();
     });
     ctl.querySelector(".mbcs-zoom-in").addEventListener("click", () => {
-      zoom = Math.min(MAX_ZOOM, zoom + ZOOM_STEP);
+      zoom = clampZoom(zoom + ZOOM_STEP);
       syncZoom();
     });
     ctl.querySelector(".mbcs-zoom-reset").addEventListener("click", () => {
       zoom = DEFAULT_ZOOM;
       syncZoom();
     });
+    update();
     syncZoom();
 
     const printBtn = ctl.querySelector(".mbcs-t-print");

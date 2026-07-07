@@ -20,7 +20,7 @@ Key of A/D (the turnaround modulates), Key of B/E (if capo'd 2 frets like the re
 
 Sat a boy and his guitar and the people came from all around  
 
-(E) (F#)(Ab) A E  
+[E] [F#][Ab] [A] [E]  
 
 And all the girls from there to Austin  
 
@@ -28,7 +28,7 @@ And all the girls from there to Austin
 
 Were slippin' 'way from home and puttin' jewelry in hock  
 
-(E)(F#) (Ab) A E  
+[E][F#] [Ab] [A] [E]  
 
 To take the trip, to go and listen  
 
@@ -36,7 +36,7 @@ To take the trip, to go and listen
 
 To the little dark-haired boy who played the Tennessee flat top box  
 
-(A)(B) (Db) D  
+[A][B] [Db] [D]  
 
 And he would play  
 

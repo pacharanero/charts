@@ -81,7 +81,7 @@ Like a tree…… Or a high-class prostitute.
 [Bm7] A part-time model,  
 *(Jemaine)*  
 [Dmaj7] Spending part of your time modelling,  
-And part of your time, next to me... *(Dmaj7)*  
+And part of your time, next to me... *[Dmaj7]*  
 
 ### CODA
 

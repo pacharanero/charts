@@ -11,13 +11,13 @@ BVs 2nd verse
 
 ### VERSE 1
 
-Bm6  Cm6  Db5  Cm6       Bm6  
+[Bm6]  [Cm6]  [Db5]  [Cm6]       [Bm6]  
 Summertime,   and the livin' is easy  
-Em7                        F#9 G9 F#9  
+[Em7]                        [F#9] [G9] [F#9]  
 Fish are jumpin' and the cotton is high  
-Bm6  Cm6  Db5  Cm6       Bm6  
+[Bm6]  [Cm6]  [Db5]  [Cm6]       [Bm6]  
 Your daddy's rich,    and your momma's good lookin'  
-**D    Gmaj7    Dbm7b5    F#7        Bm6**  
+**[D]    [Gmaj7]    Dbm7b5    [F#7]        [Bm6]**  
 So hush little baby, don't you cry  
 
 ### VERSE 2

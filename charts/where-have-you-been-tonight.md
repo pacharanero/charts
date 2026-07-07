@@ -45,12 +45,12 @@ If you stop me now I'll push until you scream
 Until your na-na-night's on fire, It's good to be alive  
 Where have you been tonight?  With the last cries of life, Yes we'll see  
 
-**SOLO: A5  A5  A5  A5 G E  A5 G x2**  
-**G   E  A G      C   Em  A5  F       C   Em**  
+**SOLO: [A5]  [A5]  [A5]  [A5] [G] [E]  [A5] [G] x2**  
+**[G]   [E]  [A] [G]      [C]   [Em]  [A5]  [F]       [C]   [Em]**  
 
 Where have [F] you been [G] tonight?  
 With the [F] last cries of [G] life  
 Yes, you'll [F] soon feel the [G] knife  
 With the [F] last cries of [G] life  
-**C    Em   A5   F    x2**  
+**[C]    [Em]   [A5]   [F]    x2**  
 Yes we'll see

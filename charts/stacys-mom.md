@@ -60,19 +60,19 @@ C  G  D  Em C  C  B7 B7
 
 ### OUTRO
 
-C        G       D           Em  
+[C]        [G]       [D]           [Em]  
 Stacy's mom has got it goin' on -she's got it goin' on-  
-C      G             D             Em  
+[C]      [G]             [D]             [Em]  
 she's all I want and I've waited for so long -waiting and waiting-  
 C                G               D#o(or B7)    Em  
 Stacy can't you see you're just not the girl for me  
-C                       D  
+[C]                       [D]  
 I know it might be wrong  I'm in love with  
-C        G     D     Em  
+[C]        [G]     [D]     [Em]  
 Stacy's mom oh-oh oh-oh -I'm in love with-  
-C        G     D     Em  
+[C]        [G]     [D]     [Em]  
 Stacy's mom oh-oh oh-oh -Wait a minute-  
 C                G               D#o(or B7)    Em  
 Stacy can't you see you're just not the girl for me  
-C                        D  
+[C]                        [D]  
 I know it might be wrong but I'm in love with Stacy's mom  

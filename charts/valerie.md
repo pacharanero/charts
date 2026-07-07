@@ -44,5 +44,5 @@ You were dodging all the time, are you still dizzy?
 
 ### CHORUS (x 2 if we want)
 
-B                     F#m       **Emaj7**  
+[B]                     [F#m]       **[Emaj7]**  
 Why don't you come on over Valerie...  

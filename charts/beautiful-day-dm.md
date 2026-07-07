@@ -8,15 +8,15 @@ hide:
 
 ## Levellers feat. Imelda May
 
-***intro**:   Bb C  Dm x 4*  
+***intro**:   [Bb] [C]  [Dm] x 4*  
 
-***chorus**: F  Dm  Bb C*  
+***chorus**: [F]  [Dm]  [Bb] [C]*  
 What a beautiful day (hey hey)   
 I'm the king of all time   
 And nothing is impossible   
 In my all powerful mind  
 
-***verse**: Dm Am Bb C*   
+***verse**: [Dm] [Am] [Bb] [C]*   
 It was on the fifth of November, when time it went back   
 Some say that that's impossible, but you and I we never looked back   
 And wasn't it incredible, so beautiful and above all   
@@ -45,4 +45,4 @@ Wealth re-distribution, became the new solution
 So I got a paper bag, but you got the one with all the holes  
 ### CHORUS X 2
 
-***outro**:   Bb C  Dm x 2*  
+***outro**:   [Bb] [C]  [Dm] x 2*  

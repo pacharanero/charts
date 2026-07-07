@@ -24,7 +24,7 @@ Country that i love.
 
 Don't fence me in.  
 
-D d7  
+[D] d7  
 
 Let me be by myself in the evening breeze  
 
@@ -32,11 +32,11 @@ Let me be by myself in the evening breeze
 
 Listen to the murmur of the cottonwood trees.  
 
-D b7  
+[D] b7  
 
 Send me off forever but i ask you please,  
 
-E7 a7 d  
+[E7] a7 d  
 
 Don't fence me in.  
 
@@ -52,11 +52,11 @@ Underneath the western skys
 
 On my cayoose let me wander over yonder  
 
-D a7  
+[D] a7  
 
 Till i see the mountain rise.  
 
-D d7  
+[D] d7  
 
 I want to ride to the ridge where the west commences.  
 
@@ -64,10 +64,10 @@ I want to ride to the ridge where the west commences.
 
 Gaze at the moon until i lose my senses  
 
-D b7  
+[D] b7  
 
 I can't look at hobbles and i can't stand fences.  
 
-E7 a7 d  
+[E7] a7 d  
 
 Don't fence me in.  

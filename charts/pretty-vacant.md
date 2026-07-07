@@ -61,7 +61,7 @@ We're so pretty oh so pretty... we're vacant (x3)
 
 But now... we don't care  
 
-(A)  
+[A]  
 
 Pretty... Pretty vacant... (x4)  
 

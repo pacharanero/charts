@@ -40,5 +40,5 @@ Somebody, somebody, somebody, somebody,
 somebody find me, somebody find me  
 Somebody to love  
 
-Eb Bb/D  Cm7 Ab Bb7  
+[Eb] [Bb/D]  [Cm7] [Ab] [Bb7]  
 Can anybody find me - somebody to ... love ...  

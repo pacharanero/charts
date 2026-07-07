@@ -28,7 +28,7 @@ E|--x--x--x--x\x--X--X--X--X----x--x--x--x\x--x--x--x--x----0-|
     
 ### VERSE 1
 
-F#m7add11                       Asus2                               E     Esus4   E  
+[F#m7add11]                       [Asus2]                               [E]     [Esus4]   [E]  
 Two jumps in a week, I bet you think that's pretty clever don't you boy.  
 Flying on your motorcycle. Watching all the ground beneath you drop.  
 You'd kill yourself for recognition. Kill yourself to never ever stop.  

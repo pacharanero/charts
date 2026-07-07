@@ -299,6 +299,8 @@ Review each converted chart visually — some edge cases (unusual section names,
 
 Because `[ ]` and `{ }` now contain only pitched content, charts can be transposed by a client-side script at render time. A `+/-` semitone control in the Zensical site rewrites every chord, note run, and octaved note, while leaving section headings and performance directions untouched.
 
+A square-bracket token may contain one chord or a short chord sequence, e.g. `[G7]`, `[G7 Cm]`, or `[(with rhythm) Cm Cm G7 Cm]`. Use one chord token per chord change where lyric timing matters, and a multi-chord token where it more clearly represents a compact bar, riff, intro, or section pattern. Do not rely on transposition for arbitrary prose inside square brackets; square brackets remain for pitched content and short parenthetical playing directions attached to pitched content.
+
 See `charts/styles/transpose.js` for the implementation.
 
 ---

@@ -12,11 +12,11 @@ hide:
 A--------0h2p0----------0h2p0--------------  
 E---0--4---------0--4----------------------  
 
-**D**  
+**[D]**  
 You know I can be found, sittin' home all alone  
-**G                         D**  
+**[G]                         [D]**  
 If you can't come around, at least please telephone  
-**Em7   A                  D**  
+**[Em7]   [A]                  [D]**  
 Don't be cruel, to a heart that's true  
 
 Baby if I made you mad for something I might have said  
@@ -25,7 +25,7 @@ Don't be cruel, to a heart that's true
 
 (middle 8)         **G             A7**  
 I don't want no other love  
-**G              A7               D**  
+**[G]              [A7]               [D]**  
 Baby it's just you I'm thinking of  
 
 Don't stop thinking of me, don't make me feel this way  

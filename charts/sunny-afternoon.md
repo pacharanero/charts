@@ -10,7 +10,7 @@ hide:
 
 ### INTRO
 
-Dm Dm/C Dm/B Dm/Bb A A/G A/F A/E  
+[Dm] [Dm/C] [Dm/B] [Dm/Bb] [A] [A/G] [A/F] [A/E]  
 
 ### VERSE 1
 
@@ -29,7 +29,7 @@ I got a [C7] big fat mama [F] tryin' to break me [A7]
 And I [Dm] love to live so [G7] pleasantly  
 [D7] Live this life of [G7] luxury [C7]  
 [F] Lazin' on a [A7] sunny afternoon  
-Dm Dm/C Dm/B Dm/Bb A A/G A/F A/E  
+[Dm] [Dm/C] [Dm/B] [Dm/Bb] [A] [A/G] [A/F] [A/E]  
 In the summertime  
 
 ### VERSE 2

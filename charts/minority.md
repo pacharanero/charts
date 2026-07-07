@@ -45,7 +45,7 @@ A free for all, fuck them all, you are your own sight
 
 ### INSTRUMENTAL- CHORDS AS BRIDGE
 
-C    G    F    C - C    G    F    G  
+[C]    [G]    [F]    [C] - [C]    [G]    [F]    [G]  
 
 ### VERSE 2 AGAIN
 

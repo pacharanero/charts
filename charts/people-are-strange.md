@@ -37,8 +37,8 @@ Streets are uneven when you're down
 
             
 [Keyboard solo - Gaz Harp]  
-Em Am Em Am Em B7 Em  
-Em Am Em Am Em B7 Em  
+[Em] [Am] [Em] [Am] [Em] [B7] [Em]  
+[Em] [Am] [Em] [Am] [Em] [B7] [Em]  
 
 ### CHORUS
 
