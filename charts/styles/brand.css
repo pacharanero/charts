@@ -369,6 +369,10 @@ html:not([data-mbcs-italic="off"]) .md-typeset li {
 #mbcs-transpose[data-mbcs-collapsed="true"] .mbcs-tools-toggle {
   align-self: center;
 }
+#__drawer:checked ~ #mbcs-transpose,
+#__search:checked ~ #mbcs-transpose {
+  display: none;
+}
 #mbcs-transpose .mbcs-tool-group {
   display: grid;
   grid-template-columns: minmax(3.8rem, 1fr) 1.75rem 2.45rem 1.75rem 1.75rem;
