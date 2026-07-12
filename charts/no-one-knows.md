@@ -42,10 +42,9 @@ Indeed a [Cm] fool of [D#] mine [G]
 And I [Cm] realize you're [D#] mine [G]  
 Indeed a [Cm] fool of [D#] mine [G] - Ahh  
 
-### BRIDGE
+### BASS SOLO
 
-[Fm] Far away [Bb] far away [Cm] far away [G7]  
-[Fm] Far away [Bb] far away [Cm] far away [G7]  
+[Fm] / / / / [Bb] / / / / [Cm] / / / / [G7] / / / /
 
 ### VERSE 3
 
@@ -54,6 +53,10 @@ But no [G7] one [Bb] knows
 A gift that [Cm7] you give to [Ab] me  
 [Bb] No one [G7] knows  
 [Cm] No one [G7] knows  
+
+### GUITAR SOLO
+
+[Cm] / / / / [G7] / / / / [Bb] / / / / [Cm] / / / /
 
 ### OUTRO
 
