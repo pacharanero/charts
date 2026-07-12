@@ -6,6 +6,7 @@
 
   const ITALIC_STORAGE_KEY = "mbcs-italic";
   const ZOOM_STORAGE_KEY = "mbcs-zoom";
+  const TOOLS_COLLAPSED_STORAGE_KEY = "mbcs-tools-collapsed";
   const DEFAULT_ZOOM = 100;
   const MIN_ZOOM = 75;
   const MAX_ZOOM = 150;
@@ -31,6 +32,18 @@
       "data-mbcs-italic",
       on ? "on" : "off",
     );
+  }
+  function readToolsCollapsedPref() {
+    try {
+      return localStorage.getItem(TOOLS_COLLAPSED_STORAGE_KEY) === "on";
+    } catch (_) {
+      return false;
+    }
+  }
+  function writeToolsCollapsedPref(on) {
+    try {
+      localStorage.setItem(TOOLS_COLLAPSED_STORAGE_KEY, on ? "on" : "off");
+    } catch (_) {}
   }
   function clampZoom(zoom) {
     return Math.min(MAX_ZOOM, Math.max(MIN_ZOOM, zoom));
@@ -371,42 +384,54 @@
       !!document.querySelector(".mbcs-token") ||
       !!document.querySelector(".mbcs-tab-block");
 
+    if (!hasTransposableContent) return null;
+
     const ctl = document.createElement("aside");
     ctl.id = "mbcs-transpose";
     ctl.className = "mbcs-tools";
     ctl.setAttribute("aria-label", "Chart tools");
     ctl.innerHTML = `
-      <div class="mbcs-tool-group" aria-label="Transpose" data-mbcs-transpose-available="${hasTransposableContent ? "true" : "false"}">
-        <span class="mbcs-t-label">Transpose</span>
-        <button type="button" class="mbcs-t-btn" data-dir="-1" title="Down one semitone" aria-label="Transpose down one semitone">−</button>
-        <span class="mbcs-t-val" aria-live="polite">0</span>
-        <button type="button" class="mbcs-t-btn" data-dir="1" title="Up one semitone" aria-label="Transpose up one semitone">+</button>
-        <button type="button" class="mbcs-t-btn mbcs-t-reset" title="Reset transposition" aria-label="Reset transposition">↺</button>
+      <button type="button" class="mbcs-t-btn mbcs-tools-toggle" title="Hide chart tools" aria-label="Toggle chart tools" aria-expanded="true">×</button>
+      <div class="mbcs-tools-panel">
+        <div class="mbcs-tool-group" aria-label="Transpose" data-mbcs-transpose-available="true">
+          <span class="mbcs-t-label">Transpose</span>
+          <button type="button" class="mbcs-t-btn" data-dir="-1" title="Down one semitone" aria-label="Transpose down one semitone">−</button>
+          <span class="mbcs-t-val" aria-live="polite">0</span>
+          <button type="button" class="mbcs-t-btn" data-dir="1" title="Up one semitone" aria-label="Transpose up one semitone">+</button>
+          <button type="button" class="mbcs-t-btn mbcs-t-reset" title="Reset transposition" aria-label="Reset transposition">↺</button>
+        </div>
+        <div class="mbcs-tool-group" aria-label="Zoom">
+          <span class="mbcs-t-label">Zoom</span>
+          <button type="button" class="mbcs-t-btn mbcs-zoom-out" title="Zoom out" aria-label="Zoom out">−</button>
+          <span class="mbcs-zoom-val" aria-live="polite">100%</span>
+          <button type="button" class="mbcs-t-btn mbcs-zoom-in" title="Zoom in" aria-label="Zoom in">+</button>
+          <button type="button" class="mbcs-t-btn mbcs-zoom-reset" title="Reset zoom" aria-label="Reset zoom">↺</button>
+        </div>
+        <div class="mbcs-tool-group mbcs-tool-group--compact" aria-label="Display">
+          <button type="button" class="mbcs-t-btn mbcs-t-italic" title="Toggle italic body text" aria-pressed="false">I</button>
+          <button type="button" class="mbcs-t-btn mbcs-t-print" title="Print (A4, single page)" aria-label="Print">🖨</button>
+        </div>
+        <p class="mbcs-tab-warning" hidden>Tab contains fret(s) below 0: rearrange by hand.</p>
       </div>
-      <div class="mbcs-tool-group" aria-label="Zoom">
-        <span class="mbcs-t-label">Zoom</span>
-        <button type="button" class="mbcs-t-btn mbcs-zoom-out" title="Zoom out" aria-label="Zoom out">−</button>
-        <span class="mbcs-zoom-val" aria-live="polite">100%</span>
-        <button type="button" class="mbcs-t-btn mbcs-zoom-in" title="Zoom in" aria-label="Zoom in">+</button>
-        <button type="button" class="mbcs-t-btn mbcs-zoom-reset" title="Reset zoom" aria-label="Reset zoom">↺</button>
-      </div>
-      <div class="mbcs-tool-group mbcs-tool-group--compact" aria-label="Display">
-        <button type="button" class="mbcs-t-btn mbcs-t-italic" title="Toggle italic body text" aria-pressed="false">I</button>
-        <button type="button" class="mbcs-t-btn mbcs-t-print" title="Print (A4, single page)" aria-label="Print">🖨</button>
-      </div>
-      <p class="mbcs-tab-warning" hidden>Tab contains fret(s) below 0: rearrange by hand.</p>
     `;
 
     document.body.appendChild(ctl);
 
-    if (!hasTransposableContent) {
-      ctl.querySelectorAll("[data-dir], .mbcs-t-reset").forEach((btn) => {
-        btn.disabled = true;
-        btn.title = "No chords or tablature to transpose on this chart";
-      });
-    }
+    const toggleBtn = ctl.querySelector(".mbcs-tools-toggle");
+    const syncToolsCollapsed = (collapsed) => {
+      ctl.dataset.mbcsCollapsed = collapsed ? "true" : "false";
+      toggleBtn.setAttribute("aria-expanded", collapsed ? "false" : "true");
+      toggleBtn.textContent = collapsed ? "⚙" : "×";
+      toggleBtn.title = collapsed ? "Show chart tools" : "Hide chart tools";
+    };
+    syncToolsCollapsed(readToolsCollapsedPref());
+    toggleBtn.addEventListener("click", () => {
+      const collapsed = ctl.dataset.mbcsCollapsed !== "true";
+      writeToolsCollapsedPref(collapsed);
+      syncToolsCollapsed(collapsed);
+    });
 
-    let semitones = hasTransposableContent ? readTransposePref() : 0;
+    let semitones = readTransposePref();
     const val = ctl.querySelector(".mbcs-t-val");
     let zoom = readZoomPref();
     const updateUrl = () => updateUrlState(semitones, zoom);

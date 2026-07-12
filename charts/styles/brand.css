@@ -156,7 +156,9 @@
   flex: 1 1 auto;
 }
 @media (max-width: 76.25em) {
-  .md-sidebar {
+  /* Keep the primary sidebar available for Material's mobile drawer.
+     Hiding every .md-sidebar here makes the hamburger menu open an empty panel. */
+  .md-sidebar--secondary {
     display: none;
   }
   .md-content {
@@ -347,6 +349,26 @@ html:not([data-mbcs-italic="off"]) .md-typeset li {
   background: color-mix(in srgb, var(--md-primary-bg-color) 86%, black 14%);
   color: var(--mbcs-header-fg);
 }
+#mbcs-transpose .mbcs-tools-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+#mbcs-transpose .mbcs-tools-toggle {
+  align-self: flex-end;
+  width: 1.75rem;
+  height: 1.75rem;
+}
+#mbcs-transpose[data-mbcs-collapsed="true"] {
+  padding: 0.25rem;
+  border-radius: 999px;
+}
+#mbcs-transpose[data-mbcs-collapsed="true"] .mbcs-tools-panel {
+  display: none;
+}
+#mbcs-transpose[data-mbcs-collapsed="true"] .mbcs-tools-toggle {
+  align-self: center;
+}
 #mbcs-transpose .mbcs-tool-group {
   display: grid;
   grid-template-columns: minmax(3.8rem, 1fr) 1.75rem 2.45rem 1.75rem 1.75rem;
@@ -438,9 +460,10 @@ html:not([data-mbcs-italic="off"]) .md-typeset li {
     right: 0.6rem;
     top: auto;
     bottom: 0.6rem;
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-items: center;
+  }
+  #mbcs-transpose[data-mbcs-collapsed="true"] {
+    left: auto;
+    right: 0.6rem;
   }
 }
 @media (max-width: 40em) {
