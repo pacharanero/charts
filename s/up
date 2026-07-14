@@ -11,6 +11,8 @@ set -e  # Exit on error
 # If the compose file defines the zensical dev server on 8000 or another port.
 # Default: 8009
 PORT=8009
+export HOST_UID="$(id -u)"
+export HOST_GID="$(id -g)"
 
 # Start docker compose in background (so we can launch browser) unless already attached.
 docker compose up
