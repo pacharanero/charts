@@ -61,8 +61,9 @@ extra_javascript:
 plugins:
   - search:
       lang: en
-  - tags:
-      tags_file: tags.md
+  # Plugins below are suspended pending Zensical module system support (no plugin system yet):
+  # - tags:                 # Material built-in tags plugin
+  #     tags_file: tags.md
 
 markdown_extensions:
   - pymdownx.highlight:
