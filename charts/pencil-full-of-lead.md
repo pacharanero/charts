@@ -5,50 +5,71 @@ hide:
   - toc
 ---
 
+
 # Pencil Full of Lead
 
 ## Paolo Nutini
 
-FAST 4/4 (jump-blues two-feel) - key: D
+[DRUMS ROLL INTRO] OhhhhhhhhhhhhhONE / / / ONE, TWO, THREE, FOUR  
+[TRUMPET LINE] | C B A B CB A B | % | D B A B DB A B | C B A B CB A B | etc
 
-### COUNT-IN
+### VERSE 1
 
-**ONE, TWO, ONE, TWO, THREE, FOUR**
+[D7] I've got a sheet for my bed and a pillow for my head;  
+[D7] I've got a pencil full of lead and some water for my throat  
+[G7] I've got buttons for my coat; and sails on my boat  
+[D7] So much more than I needed before  
+I got [A7] money in the meter and a [G7]two bar heater  
+[D7] Now it's getting hotter Oh it's only getting [A7]sweeter  
 
-### VERSE 1 (12-bar blues)
+### VERSE 2 (simile)
 
-[D7] / / / / | [D7] / / / / | [D7] / / / / | [D7] / / / /  
-[G7] / / / / | [G7] / / / / | [D7] / / / / | [D7] / / / /  
-[A7] / / / / | [G#7] / [G7] / / | [D7] / / / / | [A7] / / / /
+I got legs on my chair and a head full of hair  
+I got a pot and a pan and some shoes on my feet;  
+I got a shelf full of books and most of my teeth  
+A few pairs of socks and a door with a lock;  
+I got food in my belly and a license for my telly  
+And nothing's gonna bring me down  
 
-### VERSE 2
-
-**simile**
-
-### INSTRUMENTAL (12-bar blues)
-
-**simile**
+### TRUMPET LINE over same chords
 
 ### VERSE 3
 
-**simile**
+I got a nice guitar  
+and tyres on my car  
+I got most of the means;  
+and scripts for the scenes  
+I'm out and about, so I'm in with a shout  
+I got a fair bit of chat but better than that  
+Food in my belly and a license for my telly  
+And nothing's going to bring me down  
 
-### INSTRUMENTAL (12-bar blues)
-
-**simile**
+### HARP SOLO (in original recording) over same chords
+ 
+(last line) Nothing's gonna bring me down  
 
 ### REFRAIN
 
-**simile**
+But best of all (best of all)  
+I've got my baby  
+But best of all (best of all)  
+I've got my baby  
+She's mighty fine and says she's all mine  
+And nothing's going to bring me down  
 
-### SHORT INSTRUMENTAL
-
-[D7] / / / / | [G7] / / / / | [D7] / / / / | [A7] / / / /
+### SAX SOLO (in original recording) over same chords
 
 ### FINAL REFRAIN
 
-**simile**
+But best of all (best of all)  
+I've got my baby  
+But best of all (best of all)  
+I've got my baby  
+She's mighty fine and says she's all mine  
+And nothing's going to bring me down  
+She's mighty fine and says she's all mine  
+And nothing's going to bring me down  
+She's mighty fine and says she's all mine  
+And noth[DEAD STOP]ing's going to bring me down  
 
-### OUTRO
-
-**COUNTED PICKUP** [D7] **STOP**
+**[DRUM FILL]** [D7] BIG CHORD
