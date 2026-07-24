@@ -52,10 +52,8 @@ Add a new genre tag only deliberately, not reflexively.
 ## Workflow
 
 - `zensical build` - build the site.
-- `zensical serve -a 127.0.0.1:8000` - serve locally, choosing another port if 8000 is already in use.
-- `s/up` - Docker Compose dev server wrapper, where Docker is the intended local route.
-- `s/down` - stop the Docker Compose setup.
-- `s/remove-containers-and-images` - stop Compose and remove local images.
+- `s/docs` - serve the site locally with hot reload and open it in a browser.
+- `zensical serve -a 127.0.0.1:8000` - serve directly, choosing another port if 8000 is already in use.
 
 ## Before Every Commit
 

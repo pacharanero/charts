@@ -198,7 +198,7 @@ scripts/convert-exports.py --apply --delete
 Then:
 
 ```bash
-./s/up          # serve the Zensical site to spot-check the new charts
+./s/docs        # serve the Zensical site to spot-check the new charts
 ```
 
 ---
