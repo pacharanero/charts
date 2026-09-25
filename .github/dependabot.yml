@@ -1,41 +1,34 @@
 version: 2
 
 updates:
-  # Keep GitHub Actions up to date - applies to every repo with workflows.
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
       interval: "weekly"
+      day: "monday"
+    cooldown:
+      default-days: 7
+    groups:
+      github-actions-minor-and-patch:
+        applies-to: version-updates
+        patterns:
+          - "*"
+        update-types:
+          - "minor"
+          - "patch"
 
-  # Uncomment the block(s) matching the stack(s) used in this repo.
-
-  # - package-ecosystem: "npm"
-  #   directory: "/"
-  #   schedule:
-  #     interval: "weekly"
-
-  # Keep Python dependencies up to date
   - package-ecosystem: "pip"
     directory: "/"
     schedule:
       interval: "weekly"
-
-  # - package-ecosystem: "cargo"
-  #   directory: "/"
-  #   schedule:
-  #     interval: "weekly"
-
-  # - package-ecosystem: "bundler"
-  #   directory: "/"
-  #   schedule:
-  #     interval: "weekly"
-
-  # - package-ecosystem: "pub"
-  #   directory: "/"
-  #   schedule:
-  #     interval: "weekly"
-
-  # - package-ecosystem: "gitsubmodule"
-  #   directory: "/"
-  #   schedule:
-  #     interval: "weekly"
+      day: "monday"
+    cooldown:
+      default-days: 7
+    groups:
+      pip-minor-and-patch:
+        applies-to: version-updates
+        patterns:
+          - "*"
+        update-types:
+          - "minor"
+          - "patch"
